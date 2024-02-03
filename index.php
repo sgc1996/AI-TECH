@@ -817,6 +817,112 @@ if(isset($_POST["submitquote"]))
     </div> -->
     <!-- Blog Start -->
 
+    <!-- Clients Start -->
+    <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
+    <div class="container mb-5">
+        <div class="text-center position-relative pb-3 mb-4 mx-auto" style="max-width: 600px;">
+            <h5 class="fw-bold text-primary text-uppercase">Clients</h5>
+        </div>
+        <div class="bg-white">
+            <!-- First Row -->
+            <div class="row justify-content-center align-items-center">
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/clients/client-1.png" style="width: 150px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/clients/client-12.png" style="width: 150px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/clients/client-4.png" style="width: 150px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/clients/client-9.png" style="width: 150px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/clients/client-5.png" style="width: 150px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/clients/client-8.png" style="width: 150px;" class="img-fluid" alt="">
+                </div>
+            </div>
+            
+            <!-- Second Row (Copy the same set of images) -->
+            <div class="row justify-content-center align-items-center mt-4">
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/clients/client-22.png" style="width: 150px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/clients/client-24.png" style="width: 150px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/clients/client-19.png" style="width: 150px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/clients/client-7.png" style="width: 150px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/clients/client-11.png" style="width: 150px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/clients/client-21.png" style="width: 150px;" class="img-fluid" alt="">
+                </div>
+            </div>
+
+            <!-- Second Row (Copy the same set of images) -->
+            <div class="row justify-content-center align-items-center mt-4">
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/clients/client-23.png" style="width: 150px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/clients/client-3.png" style="width: 150px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/clients/client-2.png" style="width: 150px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/clients/client-20.png" style="width: 150px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/clients/client-6.png" style="width: 150px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/clients/client-10.png" style="width: 150px;" class="img-fluid" alt="">
+                </div>
+            </div>
+
+            <!-- Second Row (Copy the same set of images) -->
+            <div class="row justify-content-center align-items-center mt-4">
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/clients/client-13.png" style="width: 150px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/clients/client-14.png" style="width: 150px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/clients/client-15.png" style="width: 150px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/clients/client-16.png" style="width: 150px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/clients/client-17.png" style="width: 150px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/clients/client-18.png" style="width: 150px;" class="img-fluid" alt="">
+                </div>
+            </div>
+
+
+
+
+        </div>
+    </div>
+</div>
+<!-- Clients End -->
+
+
+
+
 
     <!-- Partners Start -->
     <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
@@ -826,7 +932,7 @@ if(isset($_POST["submitquote"]))
             </div>
             <div class="bg-white">
                 <div class="owl-carousel vendor-carousel">
-                    <img src="img/delllogo.jpg" alt="">
+                    <img src="img/delllogo.jpg"  alt="">
                     <img src="img/intellogo.jpg" alt="">
                     <img src="img/microsoftlogo.jpg" alt="">
                     <img src="img/sophoslogo.jpg" alt="">
