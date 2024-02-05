@@ -946,7 +946,7 @@ if(isset($_POST["submitquote"]))
                     <img src="img/client/client-32.png" style="width: 250px;" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-2 mb-3 col-6 text-center">
-                    <img src="img/client/client-16.png" style="width: 250px;" class="img-fluid" alt="">
+                    <img src="img/client/client-4.png" style="width: 250px;" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-2 mb-3 col-6 text-center">
                     <img src="img/client/client-17.png" style="width: 250px;" class="img-fluid" alt="">
