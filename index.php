@@ -825,90 +825,134 @@ if(isset($_POST["submitquote"]))
         </div>
         <div class="bg-white">
             <!-- First Row -->
-            <div class="row justify-content-center align-items-center">
+                <div class="row justify-content-center align-items-center">
                 <div class="col-md-2 mb-3 col-6 text-center">
-                    <img src="img/clients/client-1.png" style="width: 150px;" class="img-fluid" alt="">
+                    <img src="img/client/client-2.png" style="width: 250px;" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-2 mb-3 col-6 text-center">
-                    <img src="img/clients/client-12.png" style="width: 150px;" class="img-fluid" alt="">
+                    <img src="img/client/client-3.png" style="width: 250px;" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-2 mb-3 col-6 text-center">
-                    <img src="img/clients/client-4.png" style="width: 150px;" class="img-fluid" alt="">
+                    <img src="img/client/client-29.png" style="width: 250px;" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-2 mb-3 col-6 text-center">
-                    <img src="img/clients/client-9.png" style="width: 150px;" class="img-fluid" alt="">
+                    <img src="img/client/client-23.png" style="width: 250px;" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-2 mb-3 col-6 text-center">
-                    <img src="img/clients/client-5.png" style="width: 150px;" class="img-fluid" alt="">
+                    <img src="img/client/client-31.png" style="width: 250px;" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-2 mb-3 col-6 text-center">
-                    <img src="img/clients/client-8.png" style="width: 150px;" class="img-fluid" alt="">
+                    <img src="img/client/client-1.png" style="width: 250px;" class="img-fluid" alt="">
                 </div>
             </div>
             
             <!-- Second Row (Copy the same set of images) -->
             <div class="row justify-content-center align-items-center mt-4">
                 <div class="col-md-2 mb-3 col-6 text-center">
-                    <img src="img/clients/client-22.png" style="width: 150px;" class="img-fluid" alt="">
+                    <img src="img/client/client-7.png" style="width: 250px;" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-2 mb-3 col-6 text-center">
-                    <img src="img/clients/client-24.png" style="width: 150px;" class="img-fluid" alt="">
+                    <img src="img/client/client-8.png" style="width: 250px;" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-2 mb-3 col-6 text-center">
-                    <img src="img/clients/client-19.png" style="width: 150px;" class="img-fluid" alt="">
+                    <img src="img/client/client-9.png" style="width: 250px;" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-2 mb-3 col-6 text-center">
-                    <img src="img/clients/client-7.png" style="width: 150px;" class="img-fluid" alt="">
+                    <img src="img/client/client-10.png" style="width: 250px;" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-2 mb-3 col-6 text-center">
-                    <img src="img/clients/client-11.png" style="width: 150px;" class="img-fluid" alt="">
+                    <img src="img/client/client-11.png" style="width: 250px;" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-2 mb-3 col-6 text-center">
-                    <img src="img/clients/client-21.png" style="width: 150px;" class="img-fluid" alt="">
-                </div>
-            </div>
-
-            <!-- Second Row (Copy the same set of images) -->
-            <div class="row justify-content-center align-items-center mt-4">
-                <div class="col-md-2 mb-3 col-6 text-center">
-                    <img src="img/clients/client-23.png" style="width: 150px;" class="img-fluid" alt="">
-                </div>
-                <div class="col-md-2 mb-3 col-6 text-center">
-                    <img src="img/clients/client-3.png" style="width: 150px;" class="img-fluid" alt="">
-                </div>
-                <div class="col-md-2 mb-3 col-6 text-center">
-                    <img src="img/clients/client-2.png" style="width: 150px;" class="img-fluid" alt="">
-                </div>
-                <div class="col-md-2 mb-3 col-6 text-center">
-                    <img src="img/clients/client-20.png" style="width: 150px;" class="img-fluid" alt="">
-                </div>
-                <div class="col-md-2 mb-3 col-6 text-center">
-                    <img src="img/clients/client-6.png" style="width: 150px;" class="img-fluid" alt="">
-                </div>
-                <div class="col-md-2 mb-3 col-6 text-center">
-                    <img src="img/clients/client-10.png" style="width: 150px;" class="img-fluid" alt="">
+                    <img src="img/client/client-12.png" style="width: 250px;" class="img-fluid" alt="">
                 </div>
             </div>
 
-            <!-- Second Row (Copy the same set of images) -->
+            <!-- Third Row (Copy the same set of images) -->
             <div class="row justify-content-center align-items-center mt-4">
                 <div class="col-md-2 mb-3 col-6 text-center">
-                    <img src="img/clients/client-13.png" style="width: 150px;" class="img-fluid" alt="">
+                    <img src="img/client/client-6.png" style="width: 250px;" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-2 mb-3 col-6 text-center">
-                    <img src="img/clients/client-14.png" style="width: 150px;" class="img-fluid" alt="">
+                    <img src="img/client/client-14.png" style="width: 250px;" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-2 mb-3 col-6 text-center">
-                    <img src="img/clients/client-15.png" style="width: 150px;" class="img-fluid" alt="">
+                    <img src="img/client/client-25.png" style="width: 250px;" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-2 mb-3 col-6 text-center">
-                    <img src="img/clients/client-16.png" style="width: 150px;" class="img-fluid" alt="">
+                    <img src="img/client/client-27.png" style="width: 250px;" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-2 mb-3 col-6 text-center">
-                    <img src="img/clients/client-17.png" style="width: 150px;" class="img-fluid" alt="">
+                    <img src="img/client/client-26.png" style="width: 250px;" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-2 mb-3 col-6 text-center">
-                    <img src="img/clients/client-18.png" style="width: 150px;" class="img-fluid" alt="">
+                    <img src="img/client/client-13.png" style="width: 250px;" class="img-fluid" alt="">
+                </div>
+            </div>
+
+            <!-- Fourth Row (Copy the same set of images) -->
+            <div class="row justify-content-center align-items-center mt-4">
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/client/client-24.png" style="width: 250px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/client/client-15.png" style="width: 250px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/client/client-16.png" style="width: 250px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/client/client-19.png" style="width: 250px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/client/client-18.png" style="width: 250px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/client/client-35.png" style="width: 250px;" class="img-fluid" alt="">
+                </div>
+            </div>
+
+            <!-- Fifth Row (Copy the same set of images) -->
+            <div class="row justify-content-center align-items-center mt-4">
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/client/client-34.png" style="width: 250px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/client/client-20.png" style="width: 250px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/client/client-21.png" style="width: 250px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/client/client-36.png" style="width: 250px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/client/client-22.png" style="width: 250px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/client/client-30.png" style="width: 250px;" class="img-fluid" alt="">
+                </div>
+            </div>
+
+            <!-- Sixth Row (Copy the same set of images) -->
+            <div class="row justify-content-center align-items-center mt-4">
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/client/client-5.png" style="width: 250px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/client/client-28.png" style="width: 250px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/client/client-32.png" style="width: 250px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/client/client-16.png" style="width: 250px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/client/client-17.png" style="width: 250px;" class="img-fluid" alt="">
+                </div>
+                <div class="col-md-2 mb-3 col-6 text-center">
+                    <img src="img/client/client-33.png" style="width: 250px;" class="img-fluid" alt="">
                 </div>
             </div>
 
