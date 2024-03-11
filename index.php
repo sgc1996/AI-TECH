@@ -1,71 +1,6 @@
 <?php
-//index.php
- use PHPMailer\PHPMailer\PHPMailer;
- use PHPMailer\PHPMailer\SMTP;
- use PHPMailer\PHPMailer\Exception;
-$message = '';
 
-function clean_text($string)
-{
- $string = trim($string);
- $string = stripslashes($string);
- $string = htmlspecialchars($string);
- return $string;
-}
-
-if(isset($_POST["submitquote"]))
-{
- $message = '
-  <h3 align="center">Sender Details</h3>
-  <table border="1" width="100%" cellpadding="5" cellspacing="5">
-   <tr>
-    <td width="30%">Name</td>
-    <td width="70%">'.$_POST["name"].'</td>
-   </tr>
-   <tr>
-    <td width="30%">Email Address</td>
-    <td width="70%">'.$_POST["email"].'</td>
-   </tr>
-   <tr>
-    <td width="30%">Position</td>
-    <td width="70%">'.$_POST["service"].'</td>
-   </tr>
-   <tr>
-    <td width="30%">Message</td>
-    <td width="70%">'.$_POST["message"].'</td>
-   </tr>
-  </table>
- ';
- 
- require 'phpmailer/src/Exception.php';
- require 'phpmailer/src/PHPMailer.php';
- require 'phpmailer/src/SMTP.php';
- $mail = new PHPMailer;
- $mail->IsSMTP();        //Sets Mailer to send message using SMTP
- $mail->Host = 'mail.aitech.lk';  //Sets the SMTP hosts of your Email hosting, this for Godaddy
- $mail->Port = '465';        //Sets the default SMTP server port
- $mail->SMTPAuth = true;       //Sets SMTP authentication. Utilizes the Username and Password variables
- $mail->Username = 'gayanc@aitech.lk';     //Sets SMTP username
- $mail->Password = 'gayan@1234';     //Sets SMTP password
- $mail->SMTPSecure = 'ssl';       //Sets connection prefix. Options are "", "ssl" or "tls"
- $mail->From = $_POST["email"];     //Sets the From email address for the message
- $mail->FromName = $_POST["name"];    //Sets the From name of the message
- $mail->AddAddress('contact@aitech.lk', 'A I TECH'); //Adds a "To" address
- $mail->WordWrap = 50;       //Sets word wrapping on the body of the message to a given number of characters
- $mail->IsHTML(true);       //Sets message type to HTML
- // $mail->AddAttachment($path);     //Adds an attachment from a path on the filesystem
- $mail->Subject = 'New Request Quote';    //Sets the Subject of the message
- $mail->Body = $message;       //An HTML or plain text message body
- if($mail->Send())        //Send an Email. Return true on success or false on error
- {
-  $message = '<div class="alert alert-success" style="text-align: center;">Email Sent Successfully</div>';
-  // unlink($path);
- }
- else
- {
-  $message = '<div class="alert alert-danger" style="text-align: center;">There is an Error</div>';
- }
-}
+include 'inquiry_mail.php';
 
 ?>
 
@@ -101,6 +36,8 @@ if(isset($_POST["submitquote"]))
 
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
+
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </head>
 
 <body>
@@ -580,6 +517,9 @@ if(isset($_POST["submitquote"]))
                                 </div>
                                 <div class="col-12">
                                     <textarea class="form-control bg-light border-0" name="message" rows="3" placeholder="Message"></textarea>
+                                </div>
+                                <div class="col-12">
+                                    <div class="g-recaptcha" data-sitekey="6LePwJEpAAAAACskXQUSTDJEFLGHXyxMfFXrsCzf"></div>
                                 </div>
                                 <div class="col-12">
                                     <button class="btn btn-dark w-100 py-3" name="submitquote" type="submit">Request A Quote</button>
