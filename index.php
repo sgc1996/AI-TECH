@@ -127,12 +127,12 @@ include 'inquiry_mail.php';
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">SMM Events</a>
                     <div class="dropdown-menu m-0">
-                        <a href="#" class="dropdown-item">Sancharaka Udawa 2024</a>
-                        <a href="#" class="dropdown-item">Hotel Show colombo 2024</a>
-                        <a href="#" class="dropdown-item">FHAM 2024</a>
-                        <a href="#" class="dropdown-item">Cafe 2024</a>
-                        <a href="#" class="dropdown-item">Boat and Marine Show 2023</a>
-                        <a href="#" class="dropdown-item">Lankapak 2023</a>
+                        <a href="smm_su.php" class="dropdown-item">Sancharaka Udawa 2024</a>
+                        <a href="smm_hs.php" class="dropdown-item">Hotel Show colombo 2024</a>
+                        <a href="smm_fham.php" class="dropdown-item">FHAM 2024</a>
+                        <a href="smm_cafe.php" class="dropdown-item">Cafe 2024</a>
+                        <a href="smm_boat.php" class="dropdown-item">Boat and Marine Show 2023</a>
+                        <a href="smm_lanpak.php" class="dropdown-item">Lankapak 2023</a>
                     </div>
                 </div>
                 <a href="contact.php" class="nav-item nav-link">Contact</a>
@@ -212,7 +212,7 @@ include 'inquiry_mail.php';
                         </div>
                         <div class="ps-4">
                             <h5 class="text-white mb-0">Happy Clients</h5>
-                            <h1 class="text-white mb-0" data-toggle="counter-up">87</h1>
+                            <h1 class="text-white mb-0" data-toggle="counter-up">132</h1>
                         </div>
                     </div>
                 </div>
@@ -223,7 +223,7 @@ include 'inquiry_mail.php';
                         </div>
                         <div class="ps-4">
                             <h5 class="text-primary mb-0">Projects Done</h5>
-                            <h1 class="mb-0" data-toggle="counter-up">132</h1>
+                            <h1 class="mb-0" data-toggle="counter-up">188</h1>
                         </div>
                     </div>
                 </div>
@@ -233,8 +233,8 @@ include 'inquiry_mail.php';
                             <i class="fa fa-award text-primary"></i>
                         </div>
                         <div class="ps-4">
-                            <h5 class="text-white mb-0">Win Awards</h5>
-                            <h1 class="text-white mb-0" data-toggle="counter-up">4</h1>
+                            <h5 class="text-white mb-0">Staff</h5>
+                            <h1 class="text-white mb-0" data-toggle="counter-up">18</h1>
                         </div>
                     </div>
                 </div>

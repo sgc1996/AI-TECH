@@ -78,9 +78,9 @@
                 <div class="navbar-nav ms-auto py-0">
                     <a href="index.php" class="nav-item nav-link">Home</a>
                     <a href="about.php" class="nav-item nav-link">About</a>
-                    <a href="service.php" class="nav-item nav-link">Services</a>
+                    <a href="service.php" class="nav-item nav-link active">Services</a>
                     <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown">Products</a>
+                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Products</a>
                         <div class="dropdown-menu m-0">
                             <a href="mobile_app.php" class="dropdown-item">Mobile Applications</a>
                             <a href="web_app.php" class="dropdown-item">Web Applications</a>
@@ -106,12 +106,12 @@
         <div class="container-fluid bg-primary py-5 bg-header" style="margin-bottom: 90px;">
             <div class="row py-5">
                 <div class="col-12 pt-lg-5 mt-lg-5 text-center">
-                    <h1 class="display-4 text-white animated zoomIn">Projects</h1>
+                    <h1 class="display-4 text-white animated zoomIn">SMM Events</h1>
                     <a href="index.php" class="h5 text-white">Home</a>
                     <i class="far fa-circle text-white px-2"></i>
-                    <a href="" class="h5 text-white">Products</a>
+                    <a href="service.php" class="h5 text-white">SMM Events</a>
                     <i class="far fa-circle text-white px-2"></i>
-                    <a href="" class="h5 text-white">Websites</a>
+                    <a href="" class="h5 text-white">FHAM 2024</a>
                 </div>
             </div>
         </div>
@@ -137,163 +137,116 @@
     </div>
     <!-- Full Screen Search End -->
 
-    <!-- Blog Start Travel -->
-<section id="NT">
-    <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
-        <div class="container">
-            <div class="row g-5 justify-content-center"> <!-- Added justify-content-center to center align the content -->
-                <h1 class="mb-4 text-center">Travel And Hospialiy</h1> <!-- Added text-center to center align the heading -->
-                <div class="col-lg-6">
-                    <!-- Blog Detail Start -->
-                    <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://chancesports.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Website/the-chance-sports.png" alt=""></a>
-                        <p class="text-center">CDC Travel</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://chancesports.lk/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
-                    </div>
-                    <!-- Blog Detail End -->
-                </div>
 
-                <div class="col-lg-6">
-                    <!-- Blog Detail Start -->
-                    <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://www.travelarcades.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Website/travel-arcades.png" alt=""></a>
-                        <p class="text-center">Travel Arcade</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://www.travelarcades.com/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
-                    </div>
-                    <!-- Blog Detail End -->
-                </div>
+    <!-- Blog Start -->
+    <section id="WDD">
+        <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
+            <div class="container">
+                <div class="row g-5">
+                <div class="col-lg-8">
+    <!-- Blog Detail Start -->
+    <div class="mb-5 py-5">
+    <h1 class="mb-4">FHAM (Food and Hospitality Asia Maldives Global Culinary Challenge and Exhibition) 2024</h1>
+    <p>FHAM stands as the premier international hospitality trade fair in South Asia, showcasing excellence in food, hospitality, and culinary arts. Scheduled from September 23rd to 25th, 2024, it upholds its tradition of being a prominent annual event in the picturesque Maldives.</p>
+    <h4>Participant Diversity:</h4>
+    <p>The event attracts a diverse array of participants, including international and local businesses, culinary experts, resort operators, and hospitality enthusiasts, contributing to its multifaceted nature.</p>
+    <h4>Innovation and Collaboration:</h4>
+    <p>FHAM is known for driving innovation and fostering international collaboration within the food and hospitality industry. Noteworthy instances include 150 international product launches during the 2023 edition, highlighting cutting-edge advancements in the field.</p>
+    <h4>Attendance and Exhibitors</h4>
+    <p>The allure of FHAM is evident in its impressive attendance, drawing 4,700 visitors and featuring 120 exhibitors representing over 10,000 global brands, emphasizing its significance on both a local and global scale.</p>
+    <h4>Resort Engagement</h4>
+    <p>The participation of 120 resorts underscores FHAM's appeal to the tourism sector, a vital component of the Maldivian economy. Resorts actively engage in the event, enhancing their culinary offerings and showcasing unique guest experiences.</p>
+    <h4>Economic and Community Impact</h4>
+    <p>Beyond its immediate stakeholders, FHAM's impact extends to the broader economy and local community. It boosts tourism, supports local businesses, and creates employment opportunities in hospitality and culinary sectors.</p>
+    <h4>Knowledge Sharing and Skill Development</h4>
+    <p>FHAM serves as a hub for chefs, culinary enthusiasts, and industry experts to exchange ideas, learn from each other, and address emerging trends and challenges in the industry, contributing to the continuous growth and evolution of the sector.</p>
+    <p>This presentation encapsulates the essence of FHAM and its significance within the Maldives and the broader South Asian region.</p>
+    <h3>Our Contribution to FHAM 2024</h3>
+    <p>At Ai Tech Pvt Ltd, we take pride in our role as the designated manager for the social media marketing of FHAM 2024. With a focus on tailored solutions and effective digital marketing tactics, our dedicated team is committed to ensuring the event receives maximum visibility and engagement across all major social media platforms.</p>
+    <p>We emphasize crafting compelling content that showcases the unique aspects and offerings of FHAM, aimed at capturing the interest of our target audience. Through thoughtful planning and execution of targeted ad campaigns, our goal is to attract a diverse audience and generate anticipation leading up to and during the event.</p>
+    <p>Our approach prioritizes collaboration and creativity, leveraging innovative techniques to maintain FHAM's presence at the forefront of digital conversations. By working closely with the event organizers and stakeholders, we aim to drive attendance, participation, and overall success for FHAM 2024.</p>
+    <p>With our commitment to excellence and strategic digital marketing expertise, we are confident in our ability to contribute to the continued success and growth of FHAM as South Asia's premier hospitality trade fair.</p>
+</div>
 
-                <div class="col-lg-6">
-                    <!-- Blog Detail Start -->
-                    <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://www.newrogroup.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Newro_Tour.png" alt=""></a>
-                        <p class="text-center">Newro Tours</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://www.newrogroup.com/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
-                    </div>
-                    <!-- Blog Detail End -->
-                </div>
+    <!-- Blog Detail End -->
+</div>
 
-                <div class="col-lg-6">
-                    <!-- Blog Detail Start -->
-                    <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://www.letsfly.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Website/lets-fly.png" alt=""></a>
-                        <p class="text-center">Let's Fly</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://www.letsfly.lk/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
+
+                    <!-- Sidebar Start -->
+                    <div class="col-lg-4">
+                        <!-- Search Form Start -->
+                        <div class="mb-5 wow slideInUp" data-wow-delay="0.1s">
+                            <div class="input-group">
+                            </div>
+                        </div>
+                        <!-- Search Form End -->
+
+                        <!-- Category Start -->
+                        <div class="mb-5 wow slideInUp" data-wow-delay="0.1s">
+                            <div class="section-title section-title-sm position-relative pb-3 mb-4">
+                                <h3 class="mb-0">ALL Events</h3>
+                            </div>
+                            <div class="link-animated d-flex flex-column justify-content-start">
+                            <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="smm_su.php"><i class="bi bi-arrow-right me-2"></i>Sanchraka Udawa 2024</a>
+                                <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="smm_hs.php"><i class="bi bi-arrow-right me-2"></i>Hotel Show Colombo 2024</a>
+                                <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="smm_fham.php"><i class="bi bi-arrow-right me-2"></i>Fham 2024</a>
+                                <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="smm_cafe.php"><i class="bi bi-arrow-right me-2"></i>Cafe 2024</a>
+                                <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="smm_boat.php"><i class="bi bi-arrow-right me-2"></i>Boat and Marne Show 2023</a>
+                                <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="smm_lanpak.php"><i class="bi bi-arrow-right me-2"></i>Lankapak 2023</a>
+                                
+                            </div>
+                            <div class="link-animated d-flex flex-column justify-content-start">
+                                <div class="position-relative bg-primary rounded h-100 d-flex flex-column align-items-center justify-content-center text-center p-5">
+                                    <h3 class="text-white mb-3">Need Our Help?</h3>
+                                    <p class="text-white mb-3">Prefer speaking with a human to filling out a form? call corporate office and we will connect you with a team member who can help.</p>
+                                    <a href="tel://+94774123480">
+                                        <h2 class="text-white mb-0">+94 774 1234 80</h4>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Category End -->
                     </div>
-                    <!-- Blog Detail End -->
+                    <!-- Sidebar End -->
                 </div>
             </div>
         </div>
-    </div>
-</section>
-<!-- Blog End -->
+    </section>
+    <!-- Blog End -->
 
- <!-- Blog Start Cooperation -->
- <section id="NT">
-    <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
-        <div class="container">
-            <div class="row g-5 justify-content-center"> <!-- Added justify-content-center to center align the content -->
-                <h1 class="mb-4 text-center">Cooperations</h1> <!-- Added text-center to center align the heading -->
-                <div class="col-lg-6">
-                    <!-- Blog Detail Start -->
-                    <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://www.sathutaceylon.com/index.html" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Website/sathuta-ceylon.png" alt=""></a>
-                        <p class="text-center">Sathuta Ceylon</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://www.sathutaceylon.com/index.html" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
-                    </div>
-                    <!-- Blog Detail End -->
-                </div>
-
-                <div class="col-lg-6">
-                    <!-- Blog Detail Start -->
-                    <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://sathutaindustry.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Sathuta Ind.png" alt=""></a>
-                        <p class="text-center">Sathuta Industry</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://sathutaindustry.lk/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
-                    </div>
-                    <!-- Blog Detail End -->
-                </div>
-
-                <div class="col-lg-6">
-                    <!-- Blog Detail Start -->
-                    <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://chancesports.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Website/the-chance-sports.png" alt=""></a>
-                        <p class="text-center">Sanchraka Udawa 2024</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://chancesports.lk/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
-                    </div>
-                    <!-- Blog Detail End -->
-                </div>
-
-                <div class="col-lg-6">
-                    <!-- Blog Detail Start -->
-                    <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://chancesports.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Website/the-chance-sports.png" alt=""></a>
-                        <p class="text-center">FHAM 2024</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://chancesports.lk/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
-                    </div>
-                    <!-- Blog Detail End -->
-                </div>
-
-                <div class="col-lg-6">
-                    <!-- Blog Detail Start -->
-                    <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://itechs.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Itechs.png" alt=""></a>
-                        <p class="text-center">Iceman Technical Solutions</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://itechs.lk/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
-                    </div>
-                    <!-- Blog Detail End -->
-                </div>
-
-                <div class="col-lg-6">
-                    <!-- Blog Detail Start -->
-                    <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://www.cleaninfusion.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Clean Inf.png" alt=""></a>
-                        <p class="text-center">Clean Infusion</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://www.cleaninfusion.com/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
-                    </div>
-                    <!-- Blog Detail End -->
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Blog End -->
-    
-<!-- Blog Start -->
+    <!-- Blog Start -->
 <section id="NT" style="padding-top:100px;">
     <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
         <div class="container">
             <div class="row g-5 justify-content-center"> <!-- Added justify-content-center to center align the content -->
-                <h1 class="mb-4 text-center">Cosmetics</h1> <!-- Added text-center to center align the heading -->
+              
                 <div class="col-lg-6">
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://opromacosmetics.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Website/oproma.png" alt=""></a>
-                        <p class="text-center">Oproma Cosmetics WebSite</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://opromacosmetics.com/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
+                        <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Forest_Rock_Garden.png" alt=""></a>                  
                     </div>
                     <!-- Blog Detail End -->
                 </div>
 
-             
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Blog End -->
-
-<!-- Blog Start -->
-<section id="NT" style="padding-top:100px;">
-    <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
-        <div class="container">
-            <div class="row g-5 justify-content-center"> <!-- Added justify-content-center to center align the content -->
-                <h1 class="mb-4 text-center">Hotels</h1> <!-- Added text-center to center align the heading -->
                 <div class="col-lg-6">
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
                         <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Forest_Rock_Garden.png" alt=""></a>
-                        <p class="text-center">Forest Rock Garden</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="#" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
+                    </div>
+                    <!-- Blog Detail End -->
+                </div>
+                <div class="col-lg-6">
+                    <!-- Blog Detail Start -->
+                    <div class="text-center"> <!-- Added text-center to center align the content -->
+                        <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Forest_Rock_Garden.png" alt=""></a>                  
+                    </div>
+                    <!-- Blog Detail End -->
+                </div>
+
+                <div class="col-lg-6">
+                    <!-- Blog Detail Start -->
+                    <div class="text-center"> <!-- Added text-center to center align the content -->
+                        <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Forest_Rock_Garden.png" alt=""></a>
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -305,28 +258,8 @@
 </section>
 <!-- Blog End -->
 
-<!-- Blog Start -->
-<section id="NT" style="padding-top:100px;">
-    <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
-        <div class="container">
-            <div class="row g-5 justify-content-center"> <!-- Added justify-content-center to center align the content -->
-                <h1 class="mb-4 text-center">Agriculture</h1> <!-- Added text-center to center align the heading -->
-                <div class="col-lg-6">
-                    <!-- Blog Detail Start -->
-                    <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://www.sathutagroup.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Sathuta Fertilizer.png" alt=""></a>
-                        <p class="text-center">Sathuta Fertilizer</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://www.sathutagroup.com/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
-                    </div>
-                    <!-- Blog Detail End -->
-                </div>
 
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Blog End -->
-
+   
 
     <!-- Footer Start -->
     <div class="container-fluid bg-dark text-light mt-5 wow fadeInUp" data-wow-delay="0.1s">
