@@ -166,38 +166,21 @@
     </div>
     <!-- Full Screen Search End -->
 
-    <!-- Blog Start Travel -->
-<section id="NT">
+    
+   <!-- Blog Start Cooperation -->
+ <section id="NT">
     <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
         <div class="container">
             <div class="row g-5 justify-content-center"> <!-- Added justify-content-center to center align the content -->
-                <h1 class="mb-4 text-center">Travel And Hospialiy</h1> <!-- Added text-center to center align the heading -->
+                <h1 class="mb-4 text-center">Travel and Hospitaliy</h1> <!-- Added text-center to center align the heading -->
+                
+
                 <div class="col-lg-6">
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
                         <a href="https://chancesports.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Website/the-chance-sports.png" alt=""></a>
-                        <p class="text-center">Gamunu Tours</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://chancesports.lk/" target="_blank">Visit Facebook->/a> <!-- The link is centered along with its parent content -->
-                    </div>
-                    <!-- Blog Detail End -->
-                </div>
-
-                <div class="col-lg-6">
-                    <!-- Blog Detail Start -->
-                    <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://www.travelarcades.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Website/travel-arcades.png" alt=""></a>
-                        <p class="text-center">GT Travel</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://www.travelarcades.com/" target="_blank">Visit Facebook->/a> <!-- The link is centered along with its parent content -->
-                    </div>
-                    <!-- Blog Detail End -->
-                </div>
-
-                <div class="col-lg-6">
-                    <!-- Blog Detail Start -->
-                    <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://www.newrogroup.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Newro_Tour.png" alt=""></a>
                         <p class="text-center">Newro Tours</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://www.newrogroup.com/" target="_blank">Visit Facebook->/a> <!-- The link is centered along with its parent content -->
+                        <a href="https://chancesports.lk/" target="_blank">Visit Facebook-></a> <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -205,19 +188,40 @@
                 <div class="col-lg-6">
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://www.letsfly.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Website/lets-fly.png" alt=""></a>
-                        <p class="text-center">Let's Fly</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://www.letsfly.lk/" target="_blank">Visit Facebook->/a> <!-- The link is centered along with its parent content -->
+                        <a href="https://chancesports.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Website/the-chance-sports.png" alt=""></a>
+                        <p class="text-center">Gamunu Travels</p> <!-- Added text-center to center align the paragraph -->
+                        <a href="https://chancesports.lk/" target="_blank">Visit Facebook-></a> <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
+
+                <div class="col-lg-6">
+                    <!-- Blog Detail Start -->
+                    <div class="text-center"> <!-- Added text-center to center align the content -->
+                        <a href="https://chancesports.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Website/the-chance-sports.png" alt=""></a>
+                        <p class="text-center">GT Travels</p> <!-- Added text-center to center align the paragraph -->
+                        <a href="https://chancesports.lk/" target="_blank">Visit Facebook-></a> <!-- The link is centered along with its parent content -->
+                    </div>
+                    <!-- Blog Detail End -->
+                </div>
+
+                <div class="col-lg-6">
+                    <!-- Blog Detail Start -->
+                    <div class="text-center"> <!-- Added text-center to center align the content -->
+                        <a href="https://chancesports.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Website/the-chance-sports.png" alt=""></a>
+                        <p class="text-center">Let's Fly</p> <!-- Added text-center to center align the paragraph -->
+                        <a href="https://chancesports.lk/" target="_blank">Visit Facebook-></a> <!-- The link is centered along with its parent content -->
+                    </div>
+                    <!-- Blog Detail End -->
+                </div>
+
             </div>
         </div>
     </div>
 </section>
 <!-- Blog End -->
 
- <!-- Blog Start Cooperation -->
+   <!-- Blog Start Cooperation -->
  <section id="NT">
     <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
         <div class="container">
@@ -230,7 +234,7 @@
                     <div class="text-center"> <!-- Added text-center to center align the content -->
                         <a href="https://chancesports.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Website/the-chance-sports.png" alt=""></a>
                         <p class="text-center">Sanchraka Udawa 2024</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://chancesports.lk/" target="_blank">Visit Facebook->/a> <!-- The link is centered along with its parent content -->
+                        <a href="https://chancesports.lk/" target="_blank">Visit Facebook-></a> <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -240,83 +244,64 @@
                     <div class="text-center"> <!-- Added text-center to center align the content -->
                         <a href="https://chancesports.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Website/the-chance-sports.png" alt=""></a>
                         <p class="text-center">FHAM 2024</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://chancesports.lk/" target="_blank">Visit Facebook->/a> <!-- The link is centered along with its parent content -->
+                        <a href="https://chancesports.lk/" target="_blank">Visit Facebook-></a> <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
 
-                <div class="col-lg-6">
-                    <!-- Blog Detail Start -->
-                    <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://itechs.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Itechs.png" alt=""></a>
-                        <p class="text-center">Cafe 2024</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://itechs.lk/" target="_blank">Visit Facebook->/a> <!-- The link is centered along with its parent content -->
-                    </div>
-                    <!-- Blog Detail End -->
-                </div>
-
-                <div class="col-lg-6">
-                    <!-- Blog Detail Start -->
-                    <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://www.cleaninfusion.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Clean Inf.png" alt=""></a>
-                        <p class="text-center">Hotel Show Colombo 2024</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://www.cleaninfusion.com/" target="_blank">Visit Facebook->/a> <!-- The link is centered along with its parent content -->
-                    </div>
-                    <!-- Blog Detail End -->
-                </div>
             </div>
         </div>
     </div>
 </section>
 <!-- Blog End -->
-    
-<!-- Blog Start -->
-<section id="NT" style="padding-top:100px;">
+
+<!-- Blog Start Cooperation -->
+<section id="NT">
     <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
         <div class="container">
             <div class="row g-5 justify-content-center"> <!-- Added justify-content-center to center align the content -->
                 <h1 class="mb-4 text-center">Automobile</h1> <!-- Added text-center to center align the heading -->
+                
+
                 <div class="col-lg-6">
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://opromacosmetics.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Website/oproma.png" alt=""></a>
-                        <p class="text-center">Oushani International</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://opromacosmetics.com/" target="_blank">Visit Facebook->/a> <!-- The link is centered along with its parent content -->
+                        <a href="https://chancesports.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Website/the-chance-sports.png" alt=""></a>
+                        <p class="text-center">Oushani Internaional</p> <!-- Added text-center to center align the paragraph -->
+                        <a href="https://chancesports.lk/" target="_blank">Visit Facebook-></a> <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
 
-             
             </div>
         </div>
     </div>
 </section>
 <!-- Blog End -->
 
-<!-- Blog Start -->
-<section id="NT" style="padding-top:100px;">
+<!-- Blog Start Cooperation -->
+<section id="NT">
     <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
         <div class="container">
             <div class="row g-5 justify-content-center"> <!-- Added justify-content-center to center align the content -->
-                <h1 class="mb-4 text-center">Salons</h1> <!-- Added text-center to center align the heading -->
+                <h1 class="mb-4 text-center">Salon</h1> <!-- Added text-center to center align the heading -->
+                
+
                 <div class="col-lg-6">
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Forest_Rock_Garden.png" alt=""></a>
+                        <a href="https://chancesports.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Website/the-chance-sports.png" alt=""></a>
                         <p class="text-center">Sharon's Salon</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="#" target="_blank">Visit Facebook->/a> <!-- The link is centered along with its parent content -->
+                        <a href="https://chancesports.lk/" target="_blank">Visit Facebook-></a> <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
 
-             
             </div>
         </div>
     </div>
 </section>
 <!-- Blog End -->
-
-
 
 
     <!-- Footer Start -->
