@@ -517,11 +517,12 @@
                                 <h3 class="text-light mb-0">Services</h3>
                             </div>
                             <div class="link-animated d-flex flex-column justify-content-start">
-                                <a class="text-light mb-2" href="web_services.php"><i class="bi bi-arrow-right text-primary me-2"></i>Web Designing and Development</a>
-                                <a class="text-light mb-2" href="mobile_app_services.php"><i class="bi bi-arrow-right text-primary me-2"></i>Mobile App Development</a>
-                                <a class="text-light mb-2" href="social_media_marketing.php"><i class="bi bi-arrow-right text-primary me-2"></i>Social Media Marketing</a>
-                                <a class="text-light mb-2" href="ui_ux_designing_services.php"><i class="bi bi-arrow-right text-primary me-2"></i>UI / UX Design</a>
-                                <a class="text-light" href="seo_content_writing_services.php"><i class="bi bi-arrow-right text-primary me-2"></i>SEO / SEM Optimization</a>
+                                <a class="text-light mb-2" href="service_webdesign.php"><i class="bi bi-arrow-right text-primary me-2"></i>Websites</a>
+                                <a class="text-light mb-2" href="service_mobapp.php"><i class="bi bi-arrow-right text-primary me-2"></i>Mobile App Development</a>
+                                <a class="text-light mb-2" href="service_smm.php"><i class="bi bi-arrow-right text-primary me-2"></i>Social Media Marketing</a>
+                                <a class="text-light mb-2" href="service_graphic.php"><i class="bi bi-arrow-right text-primary me-2"></i>Graphic Design</a>
+                                <a class="text-light" href="service_seo.php"><i class="bi bi-arrow-right text-primary me-2"></i>SEO Optimization</a>
+                                <a class="text-light" href="blog.php"><i class="bi bi-arrow-right text-primary me-2"></i>Blog</a>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-12 pt-0 pt-lg-5 mb-5">

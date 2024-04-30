@@ -117,8 +117,8 @@ include 'inquiry_mail.php';
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Projects</a>
                     <div class="dropdown-menu m-0">
-                        <a href="websites.php" class="dropdown-item">Websites</a>
-                        <a href="websites.php" class="dropdown-item">Socal Media</a>
+                        <a href="webdesign.php" class="dropdown-item">Websites</a>
+                        <a href="social_media.php" class="dropdown-item">Socal Media</a>
                         <a href="mobile_app.php" class="dropdown-item">Mobile Applications</a>
                         <a href="web_app.php" class="dropdown-item">Web Applications</a>
                         
@@ -1048,11 +1048,12 @@ include 'inquiry_mail.php';
                                 <h3 class="text-light mb-0">Services</h3>
                             </div>
                             <div class="link-animated d-flex flex-column justify-content-start">
-                                <a class="text-light mb-2" href="web_services.php"><i class="bi bi-arrow-right text-primary me-2"></i>Web Designing and Development</a>
-                                <a class="text-light mb-2" href="mobile_app_services.php"><i class="bi bi-arrow-right text-primary me-2"></i>Mobile App Development</a>
-                                <a class="text-light mb-2" href="social_media_marketing.php"><i class="bi bi-arrow-right text-primary me-2"></i>Social Media Marketing</a>
-                                <a class="text-light mb-2" href="ui_ux_designing_services.php"><i class="bi bi-arrow-right text-primary me-2"></i>UI / UX Design</a>
-                                <a class="text-light" href="seo_content_writing_services.php"><i class="bi bi-arrow-right text-primary me-2"></i>SEO / SEM Optimization</a>
+                                <a class="text-light mb-2" href="service_webdesign.php"><i class="bi bi-arrow-right text-primary me-2"></i>Websites</a>
+                                <a class="text-light mb-2" href="service_mobapp.php"><i class="bi bi-arrow-right text-primary me-2"></i>Mobile App Development</a>
+                                <a class="text-light mb-2" href="service_smm.php"><i class="bi bi-arrow-right text-primary me-2"></i>Social Media Marketing</a>
+                                <a class="text-light mb-2" href="service_graphic.php"><i class="bi bi-arrow-right text-primary me-2"></i>Graphic Design</a>
+                                <a class="text-light" href="service_seo.php"><i class="bi bi-arrow-right text-primary me-2"></i>SEO Optimization</a>
+                                <a class="text-light" href="blog.php"><i class="bi bi-arrow-right text-primary me-2"></i>Blog</a>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-12 pt-0 pt-lg-5 mb-5">
@@ -1066,6 +1067,7 @@ include 'inquiry_mail.php';
                                 <a class="text-light mb-2" href="mobile_app.php#PP"><i class="bi bi-arrow-right text-primary me-2"></i>Positively Paid</a>
                                 <a class="text-light mb-2" href="mobile_app.php#HB"><i class="bi bi-arrow-right text-primary me-2"></i>Handy Biller</a>
                                 <a class="text-light" href="mobile_app.php#PK"><i class="bi bi-arrow-right text-primary me-2"></i>Picker</a>
+                                
                             </div>
                         </div>
                     </div>

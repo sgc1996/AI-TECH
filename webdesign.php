@@ -67,42 +67,71 @@
     <!-- Navbar Start -->
     <div class="container-fluid position-relative p-0">
         <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0">
-            <a href="index.php" class="navbar-brand p-0">
-                <!-- <h1 class="m-0"><i class="fa fa-user-tie me-2"></i>Startup</h1> -->
-                <img src="img/logo2.png" width="60%">
-            </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
-                <span class="fa fa-bars"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarCollapse">
-                <div class="navbar-nav ms-auto py-0">
-                    <a href="index.php" class="nav-item nav-link">Home</a>
-                    <a href="about.php" class="nav-item nav-link">About</a>
-                    <a href="service.php" class="nav-item nav-link">Services</a>
-                    <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown">Products</a>
-                        <div class="dropdown-menu m-0">
-                            <a href="mobile_app.php" class="dropdown-item">Mobile Applications</a>
-                            <a href="web_app.php" class="dropdown-item">Web Applications</a>
-                            <a href="websites.php" class="dropdown-item">Websites</a>
-                        </div>
-                    </div>
-                    <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">News & Events</a>
-                        <div class="dropdown-menu m-0">
-                            <a href="#" class="dropdown-item">Blog</a>
-                            <!-- <a href="feature.php" class="dropdown-item">Our features</a>
-                            <a href="team.php" class="dropdown-item">Team Members</a>
-                            <a href="testimonial.php" class="dropdown-item">Testimonial</a>
-                            <a href="quote.php" class="dropdown-item">Free Quote</a> -->
-                        </div>
-                    </div>
-                    <a href="contact.php" class="nav-item nav-link">Contact</a>
+        <a href="index.php" class="navbar-brand p-0">
+            <img src="img/logo2.png" width="60%">
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+            <span class="fa fa-bars"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <div class="navbar-nav ms-auto py-0">
+                <a href="index.php" class="nav-item nav-link ">Home</a>
+                <a href="about.php" class="nav-item nav-link">About</a>
+                <!-- Replace "Services" link with the service dropdown -->
+                <div class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle" id="servicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Services</a>
+                    <ul class="dropdown-menu" aria-labelledby="servicesDropdown">
+                        <li>
+                            <h6 class="dropdown-header">Digital</h6>
+                            <a class="dropdown-item" href="service_webdesign.php">Web Design</a>
+                            <a class="dropdown-item" href="service_seo.php">SEO</a>
+                            <a class="dropdown-item" href="service_smm.php">Social Media Management</a>
+                            <a class="dropdown-item" href="service_smo.php">Social Media Optimization</a>
+                            <a class="dropdown-item" href="service_graphic.php">Graphic Design</a>
+                            <a class="dropdown-item" href="service_googleads.php">Google Ads</a>
+                            <a class="dropdown-item" href="service_leads.php">Lead Generation</a>
+                        </li>
+                        <li><hr class="dropdown-divider"></li>
+                        <li>
+                            <h6 class="dropdown-header">Develop</h6>
+                            <a class="dropdown-item" href="service_webapp.php">Web Application</a>
+                            <a class="dropdown-item" href="service_mobapp.php">Mobile Application</a>
+                        </li>
+                        <li><hr class="dropdown-divider"></li>
+                        <li>
+                            <h6 class="dropdown-header">Studio</h6>
+                            <a class="dropdown-item" href="service_video.php">Videography</a>
+                            <a class="dropdown-item" href="service_photo.php">Photography</a>
+                        </li>
+                    </ul>
                 </div>
-                <a href="career.php" class="btn btn-primary py-2 px-4 ms-3">Career</a>
+                <!-- End of service dropdown -->
+                <div class="nav-item dropdown">
+                    <a href="#" class="nav-link active dropdown-toggle" data-bs-toggle="dropdown">Projects</a>
+                    <div class="dropdown-menu m-0">
+                        <a href="webdesign.php" class="dropdown-item">Websites</a>
+                        <a href="social_media.php" class="dropdown-item">Socal Media</a>
+                        <a href="mobile_app.php" class="dropdown-item">Mobile Applications</a>
+                        <a href="web_app.php" class="dropdown-item">Web Applications</a>
+                        
+                    </div>
+                </div>
+                <div class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">SMM Events</a>
+                    <div class="dropdown-menu m-0">
+                        <a href="smm_su.php" class="dropdown-item">Sancharaka Udawa 2024</a>
+                        <a href="smm_hs.php" class="dropdown-item">Hotel Show colombo 2024</a>
+                        <a href="smm_fham.php" class="dropdown-item">FHAM 2024</a>
+                        <a href="smm_cafe.php" class="dropdown-item">Cafe 2024</a>
+                        <a href="smm_boat.php" class="dropdown-item">Boat and Marine Show 2023</a>
+                        <a href="smm_lanpak.php" class="dropdown-item">Lankapak 2023</a>
+                    </div>
+                </div>
+                <a href="contact.php" class="nav-item nav-link">Contact</a>
             </div>
-        </nav>
-
+            <a href="career.php" class="btn btn-primary py-2 px-4 ms-3">Career</a>
+        </div>
+    </nav>
         <div class="container-fluid bg-primary py-5 bg-header" style="margin-bottom: 90px;">
             <div class="row py-5">
                 <div class="col-12 pt-lg-5 mt-lg-5 text-center">
@@ -146,7 +175,7 @@
                 <div class="col-lg-6">
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://chancesports.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Website/the-chance-sports.png" alt=""></a>
+                        <a href="https://chancesports.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_letsfly.png" alt=""></a>
                         <p class="text-center">CDC Travel</p> <!-- Added text-center to center align the paragraph -->
                         <a href="https://chancesports.lk/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
                     </div>
@@ -156,7 +185,7 @@
                 <div class="col-lg-6">
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://www.travelarcades.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Website/travel-arcades.png" alt=""></a>
+                        <a href="https://www.travelarcades.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_ta.png" alt=""></a>
                         <p class="text-center">Travel Arcade</p> <!-- Added text-center to center align the paragraph -->
                         <a href="https://www.travelarcades.com/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
                     </div>
@@ -166,7 +195,7 @@
                 <div class="col-lg-6">
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://www.newrogroup.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Newro_Tour.png" alt=""></a>
+                        <a href="https://www.newrogroup.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_newro.png" alt=""></a>
                         <p class="text-center">Newro Tours</p> <!-- Added text-center to center align the paragraph -->
                         <a href="https://www.newrogroup.com/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
                     </div>
@@ -176,7 +205,7 @@
                 <div class="col-lg-6">
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://www.letsfly.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Website/lets-fly.png" alt=""></a>
+                        <a href="https://www.letsfly.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_letsfly.png" alt=""></a>
                         <p class="text-center">Let's Fly</p> <!-- Added text-center to center align the paragraph -->
                         <a href="https://www.letsfly.lk/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
                     </div>
@@ -197,7 +226,7 @@
                 <div class="col-lg-6">
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://www.sathutaceylon.com/index.html" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Website/sathuta-ceylon.png" alt=""></a>
+                        <a href="https://www.sathutaceylon.com/index.html" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_sceylon.png" alt=""></a>
                         <p class="text-center">Sathuta Ceylon</p> <!-- Added text-center to center align the paragraph -->
                         <a href="https://www.sathutaceylon.com/index.html" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
                     </div>
@@ -207,7 +236,7 @@
                 <div class="col-lg-6">
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://sathutaindustry.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Sathuta Ind.png" alt=""></a>
+                        <a href="https://sathutaindustry.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_sind.png" alt=""></a>
                         <p class="text-center">Sathuta Industry</p> <!-- Added text-center to center align the paragraph -->
                         <a href="https://sathutaindustry.lk/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
                     </div>
@@ -237,7 +266,7 @@
                 <div class="col-lg-6">
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://itechs.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Itechs.png" alt=""></a>
+                        <a href="https://itechs.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_letsfly.png" alt=""></a>
                         <p class="text-center">Iceman Technical Solutions</p> <!-- Added text-center to center align the paragraph -->
                         <a href="https://itechs.lk/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
                     </div>
@@ -247,12 +276,35 @@
                 <div class="col-lg-6">
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://www.cleaninfusion.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Clean Inf.png" alt=""></a>
+                        <a href="https://www.cleaninfusion.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_clean.png" alt=""></a>
                         <p class="text-center">Clean Infusion</p> <!-- Added text-center to center align the paragraph -->
                         <a href="https://www.cleaninfusion.com/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Blog End -->
+
+<!-- Blog Start -->
+<section id="NT" style="padding-top:100px;">
+    <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container">
+            <div class="row g-5 justify-content-center"> <!-- Added justify-content-center to center align the content -->
+                <h1 class="mb-4 text-center">Sports</h1> <!-- Added text-center to center align the heading -->
+                <div class="col-lg-6">
+                    <!-- Blog Detail Start -->
+                    <div class="text-center"> <!-- Added text-center to center align the content -->
+                        <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_chances.png" alt=""></a>
+                        <p class="text-center">The Chanace Sports</p> <!-- Added text-center to center align the paragraph -->
+                        <a href="#" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
+                    </div>
+                    <!-- Blog Detail End -->
+                </div>
+
+             
             </div>
         </div>
     </div>
@@ -268,7 +320,7 @@
                 <div class="col-lg-6">
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://opromacosmetics.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Website/oproma.png" alt=""></a>
+                        <a href="https://opromacosmetics.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_oproma.png" alt=""></a>
                         <p class="text-center">Oproma Cosmetics WebSite</p> <!-- Added text-center to center align the paragraph -->
                         <a href="https://opromacosmetics.com/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
                     </div>
@@ -314,7 +366,7 @@
                 <div class="col-lg-6">
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://www.sathutagroup.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Sathuta Fertilizer.png" alt=""></a>
+                        <a href="https://www.sathutagroup.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_sfer.png" alt=""></a>
                         <p class="text-center">Sathuta Fertilizer</p> <!-- Added text-center to center align the paragraph -->
                         <a href="https://www.sathutagroup.com/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
                     </div>
@@ -377,11 +429,12 @@
                                 <h3 class="text-light mb-0">Services</h3>
                             </div>
                             <div class="link-animated d-flex flex-column justify-content-start">
-                                <a class="text-light mb-2" href="web_services.php"><i class="bi bi-arrow-right text-primary me-2"></i>Web Designing and Development</a>
-                                <a class="text-light mb-2" href="mobile_app_services.php"><i class="bi bi-arrow-right text-primary me-2"></i>Mobile App Development</a>
-                                <a class="text-light mb-2" href="social_media_marketing.php"><i class="bi bi-arrow-right text-primary me-2"></i>Social Media Marketing</a>
-                                <a class="text-light mb-2" href="ui_ux_designing_services.php"><i class="bi bi-arrow-right text-primary me-2"></i>UI / UX Design</a>
-                                <a class="text-light" href="seo_content_writing_services.php"><i class="bi bi-arrow-right text-primary me-2"></i>SEO / SEM Optimization</a>
+                                <a class="text-light mb-2" href="service_webdesign.php"><i class="bi bi-arrow-right text-primary me-2"></i>Websites</a>
+                                <a class="text-light mb-2" href="service_mobapp.php"><i class="bi bi-arrow-right text-primary me-2"></i>Mobile App Development</a>
+                                <a class="text-light mb-2" href="service_smm.php"><i class="bi bi-arrow-right text-primary me-2"></i>Social Media Marketing</a>
+                                <a class="text-light mb-2" href="service_graphic.php"><i class="bi bi-arrow-right text-primary me-2"></i>Graphic Design</a>
+                                <a class="text-light" href="service_seo.php"><i class="bi bi-arrow-right text-primary me-2"></i>SEO Optimization</a>
+                                <a class="text-light" href="blog.php"><i class="bi bi-arrow-right text-primary me-2"></i>Blog</a>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-12 pt-0 pt-lg-5 mb-5">
