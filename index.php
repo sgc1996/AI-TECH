@@ -91,35 +91,37 @@ include 'inquiry_mail.php';
                     <ul class="dropdown-menu" aria-labelledby="servicesDropdown">
                         <li>
                             <h6 class="dropdown-header">Digital</h6>
-                            <a class="dropdown-item" href="#">Web Design</a>
-                            <a class="dropdown-item" href="#">SEO</a>
-                            <a class="dropdown-item" href="#">SMM</a>
-                            <a class="dropdown-item" href="#">SMO</a>
-                            <a class="dropdown-item" href="#">Graphic Design</a>
-                            <a class="dropdown-item" href="#">Google Ads</a>
-                            <a class="dropdown-item" href="#">Lead Generation</a>
+                            <a class="dropdown-item" href="service_webdesign.php">Web Design</a>
+                            <a class="dropdown-item" href="service_seo.php">SEO</a>
+                            <a class="dropdown-item" href="service_smm.php">Social Media Management</a>
+                            <a class="dropdown-item" href="service_smo.php">Social Media Optimization</a>
+                            <a class="dropdown-item" href="service_graphic.php">Graphic Design</a>
+                            <a class="dropdown-item" href="service_googleads.php">Google Ads</a>
+                            <a class="dropdown-item" href="service_leads.php">Lead Generation</a>
                         </li>
                         <li><hr class="dropdown-divider"></li>
                         <li>
                             <h6 class="dropdown-header">Develop</h6>
-                            <a class="dropdown-item" href="#">Web Application</a>
-                            <a class="dropdown-item" href="#">Mobile Application</a>
+                            <a class="dropdown-item" href="service_webapp.php">Web Application</a>
+                            <a class="dropdown-item" href="service_mobapp.php">Mobile Application</a>
                         </li>
                         <li><hr class="dropdown-divider"></li>
                         <li>
                             <h6 class="dropdown-header">Studio</h6>
-                            <a class="dropdown-item" href="#">Videography</a>
-                            <a class="dropdown-item" href="#">Photography</a>
+                            <a class="dropdown-item" href="service_video.php">Videography</a>
+                            <a class="dropdown-item" href="service_photo.php">Photography</a>
                         </li>
                     </ul>
                 </div>
                 <!-- End of service dropdown -->
                 <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Products</a>
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Projects</a>
                     <div class="dropdown-menu m-0">
+                        <a href="websites.php" class="dropdown-item">Websites</a>
+                        <a href="websites.php" class="dropdown-item">Socal Media</a>
                         <a href="mobile_app.php" class="dropdown-item">Mobile Applications</a>
                         <a href="web_app.php" class="dropdown-item">Web Applications</a>
-                        <a href="websites.php" class="dropdown-item">Websites</a>
+                        
                     </div>
                 </div>
                 <div class="nav-item dropdown">
