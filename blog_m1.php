@@ -66,50 +66,82 @@
 
     <!-- Navbar Start -->
     <div class="container-fluid position-relative p-0">
-        <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0">
-            <a href="index.php" class="navbar-brand p-0">
-                <!-- <h1 class="m-0"><i class="fa fa-user-tie me-2"></i>Startup</h1> -->
-                <img src="img/logo2.png" width="60%">
-            </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
-                <span class="fa fa-bars"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarCollapse">
-                <div class="navbar-nav ms-auto py-0">
-                    <a href="index.php" class="nav-item nav-link">Home</a>
-                    <a href="about.php" class="nav-item nav-link">About</a>
-                    <a href="service.php" class="nav-item nav-link">Services</a>
-                    <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown">Products</a>
-                        <div class="dropdown-menu m-0">
-                            <a href="mobile_app.php" class="dropdown-item">Mobile Applications</a>
-                            <a href="web_app.php" class="dropdown-item">Web Applications</a>
-                            <a href="websites.php" class="dropdown-item">Websites</a>
-                        </div>
-                    </div>
-                    <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">News & Events</a>
-                        <div class="dropdown-menu m-0">
-                            <a href="#" class="dropdown-item">Blog</a>
-                            <!-- <a href="feature.php" class="dropdown-item">Our features</a>
-                            <a href="team.php" class="dropdown-item">Team Members</a>
-                            <a href="testimonial.php" class="dropdown-item">Testimonial</a>
-                            <a href="quote.php" class="dropdown-item">Free Quote</a> -->
-                        </div>
-                    </div>
-                    <a href="contact.php" class="nav-item nav-link">Contact</a>
+         <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0">
+        <a href="index.php" class="navbar-brand p-0">
+            <img src="img/logo2.png" width="60%">
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+            <span class="fa fa-bars"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <div class="navbar-nav ms-auto py-0">
+                <a href="index.php" class="nav-item nav-link ">Home</a>
+                <a href="about.php" class="nav-item nav-link">About</a>
+                <!-- Replace "Services" link with the service dropdown -->
+                <div class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle" id="servicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Services</a>
+                    <ul class="dropdown-menu" aria-labelledby="servicesDropdown">
+                        <li>
+                            <h6 class="dropdown-header">Digital</h6>
+                            <a class="dropdown-item" href="service_webdesign.php">Web Design</a>
+                            <a class="dropdown-item" href="service_seo.php">SEO</a>
+                            <a class="dropdown-item" href="service_smm.php">Social Media Marketing</a>
+                            <a class="dropdown-item" href="service_smo.php">Social Media Optimization</a>
+                            <a class="dropdown-item" href="service_graphic.php">Graphic Design</a>
+                            <a class="dropdown-item" href="service_googleads.php">Google Ads</a>
+                            <a class="dropdown-item" href="service_leads.php">Lead Generation</a>
+                        </li>
+                        <li><hr class="dropdown-divider"></li>
+                        <li>
+                            <h6 class="dropdown-header">Develop</h6>
+                            <a class="dropdown-item" href="service_webapp.php">Web Application</a>
+                            <a class="dropdown-item" href="service_mobapp.php">Mobile Application</a>
+                        </li>
+                        <li><hr class="dropdown-divider"></li>
+                        <li>
+                            <h6 class="dropdown-header">Studio</h6>
+                            <a class="dropdown-item" href="service_video.php">Videography</a>
+                            <a class="dropdown-item" href="service_photo.php">Photography</a>
+                        </li>
+                    </ul>
                 </div>
-                <a href="career.php" class="btn btn-primary py-2 px-4 ms-3">Career</a>
+                <!-- End of service dropdown -->
+                <div class="nav-item dropdown">
+                    <a href="#" class="nav-link  dropdown-toggle" data-bs-toggle="dropdown">Projects</a>
+                    <div class="dropdown-menu m-0">
+                        <a href="webdesign.php" class="dropdown-item">Websites</a>
+                        <a href="social_media.php" class="dropdown-item">Socal Media</a>
+                        <a href="mobile_app.php" class="dropdown-item">Mobile Applications</a>
+                        <a href="web_app.php" class="dropdown-item">Web Applications</a>
+                        
+                    </div>
+                </div>
+                <div class="nav-item dropdown">
+                    <a href="#" class="nav-link active dropdown-toggle" data-bs-toggle="dropdown">SMM Events</a>
+                    <div class="dropdown-menu m-0">
+                        <a href="smm_su.php" class="dropdown-item">Sancharaka Udawa 2024</a>
+                        <a href="smm_hs.php" class="dropdown-item">Hotel Show colombo 2024</a>
+                        <a href="smm_fham.php" class="dropdown-item">FHAM 2024</a>
+                        <a href="smm_cafe.php" class="dropdown-item">Cafe 2024</a>
+                        <a href="smm_boat.php" class="dropdown-item">Boat and Marine Show 2023</a>
+                        <a href="smm_lanpak.php" class="dropdown-item">Lankapak 2023</a>
+                    </div>
+                </div>
+                <a href="contact.php" class="nav-item nav-link">Contact</a>
             </div>
-        </nav>
+            <a href="career.php" class="btn btn-primary py-2 px-4 ms-3">Career</a>
+        </div>
+    </nav>
 
         <div class="container-fluid bg-primary py-5 bg-header" style="margin-bottom: 90px;">
             <div class="row py-5">
                 <div class="col-12 pt-lg-5 mt-lg-5 text-center">
-                    <h1 class="display-4 text-white animated zoomIn">Blog Grid</h1>
+                    <h1 class="display-4 text-white animated zoomIn">Blogs</h1>
                     <a href="index.php" class="h5 text-white">Home</a>
                     <i class="far fa-circle text-white px-2"></i>
-                    <a href="" class="h5 text-white">Blog Grid</a>
+                    <a href="service.php" class="h5 text-white">Blogs</a>
+                    <i class="far fa-circle text-white px-2"></i>
+                    <a href="" class="h5 text-white">Cafe 2024</a>
                 </div>
             </div>
         </div>
@@ -137,130 +169,31 @@
 
 
     <!-- Blog Start -->
-    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
-        <div class="container py-5">
-            <div class="row g-5">
-                <!-- Blog list Start -->
+    <section id="WDD">
+        <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
+            <div class="container">
+                <div class="row g-5">
                 <div class="col-lg-8">
-                    <div class="row g-5">
-                        <div class="col-md-6 wow slideInUp" data-wow-delay="0.1s">
-                            <div class="blog-item bg-light rounded overflow-hidden">
-                                <div class="blog-img position-relative overflow-hidden">
-                                    <img class="img-fluid" src="img/blog/blog_su.jpg" alt="">
-                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Media Launch</a>
-                                </div>
-                                <div class="p-4">
-                                    <div class="d-flex mb-3">
-                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>Gayan Chaturanga</small>
-                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>18 April, 2024</small>
-                                    </div>
-                                    <h4 class="mb-3">Sancharaka Udawa 2024 Media Launch</h4>
-                                    <p>A.I Technologies Pvt Ltd will be the offcial Social Media Marketing Partner of the Sancharaka Udawa 2024</p>
-                                    <a class="text-uppercase" href="blog_m2.php">Read More <i class="bi bi-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 wow slideInUp" data-wow-delay="0.6s">
-                            <div class="blog-item bg-light rounded overflow-hidden">
-                                <div class="blog-img position-relative overflow-hidden">
-                                    <img class="img-fluid" src="img/blog/blog_cafe.jpg" alt="">
-                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Media Launch</a>
-                                </div>
-                                <div class="p-4">
-                                    <div class="d-flex mb-3">
-                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>Gayan Chaturanga</small>
-                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>18 April, 2024</small>
-                                    </div>
-                                    <h4 class="mb-3">Hotel Show Colombo 2024 Media Launch</h4>
-                                    <p>A.I Technologies Pvt Ltd will be the offcial Social Media Marketing Partner of the Hotel Show Colombo 2024</p>
-                                    <a class="text-uppercase" href="blog_m3.php">Read More <i class="bi bi-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 wow slideInUp" data-wow-delay="0.1s">
-                            <div class="blog-item bg-light rounded overflow-hidden">
-                                <div class="blog-img position-relative overflow-hidden">
-                                    <img class="img-fluid" src="img/blog/blog_cafe.jpg" alt="">
-                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Media Launch</a>
-                                </div>
-                                <div class="p-4">
-                                    <div class="d-flex mb-3">
-                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>Gayan Chaturanga</small>
-                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>18 April, 2024</small>
-                                    </div>
-                                    <h4 class="mb-3">Cafe 2024 Media Launch</h4>
-                                    <p>A.I Technologies Pvt Ltd will be the offcial Social Media Marketing Partner of the Cafe 2024</p>
-                                    <a class="text-uppercase" href="blog_m1.php">Read More <i class="bi bi-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 wow slideInUp" data-wow-delay="0.6s">
-                            <div class="blog-item bg-light rounded overflow-hidden">
-                                <div class="blog-img position-relative overflow-hidden">
-                                    <img class="img-fluid" src="img/blog/blog_cha.jpg" alt="">
-                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Agreement Sign</a>
-                                </div>
-                                <div class="p-4">
-                                    <div class="d-flex mb-3">
-                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>Buwaneka Lalinda</small>
-                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>30 april, 2024</small>
-                                    </div>
-                                    <h4 class="mb-3">Agreement Sign for The Chance sports Website Project. </h4>
-                                    <p>A.I Technologies PVT LTD sign the offical Agreement of the Chance sports Website Project. </p>
-                                    <a class="text-uppercase" href="blog_s1.php">Read More <i class="bi bi-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 wow slideInUp" data-wow-delay="0.1s">
-                            <div class="blog-item bg-light rounded overflow-hidden">
-                                <div class="blog-img position-relative overflow-hidden">
-                                    <img class="img-fluid" src="img/blog/blog_opr.jpg" alt="">
-                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Agreement Sign</a>
-                                </div>
-                                <div class="p-4">
-                                    <div class="d-flex mb-3">
-                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>Buwaneka Lalinda</small>
-                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>30 april, 2024</small>
-                                    </div>
-                                    <h4 class="mb-3">Agreement Sign for Oproma Cosmetics Website Project. </h4>
-                                    <p>A.I Technologies PVT LTD sign the offical Agreement of Oproma Cosmetics  Website Project. </p>
-                                    <a class="text-uppercase" href="blog_s2.php">Read More <i class="bi bi-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 wow slideInUp" data-wow-delay="0.6s">
-                            <div class="blog-item bg-light rounded overflow-hidden">
-                                <div class="blog-img position-relative overflow-hidden">
-                                    <img class="img-fluid" src="img/blog/blog_lets.jpg" alt="">
-                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Agreement Sign</a>
-                                </div>
-                                <div class="p-4">
-                                    <div class="d-flex mb-3">
-                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>Buwaneka Lalinda</small>
-                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>30 april, 2024</small>
-                                    </div>
-                                    <h4 class="mb-3">Agreement Sign for Let's Fly.lk  Website Project. </h4>
-                                    <p>A.I Technologies PVT LTD sign the offical Agreement of Let's Fly.lk Website Project. </p>
-                                    <a class="text-uppercase" href="blog_s3.php">Read More <i class="bi bi-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                       
-                        
-                       
-                     
-                       
-                    </div>
-                </div>
-                <!-- Blog list End -->
+    <!-- Blog Detail Start -->
+<div class="mb-5 py-5">
+    <h1 class="mb-4">Exciting Update: AI Technologies Named Official Social Media Partner for Café 2024: Culinary Art Food Expo!</h1>
+    <p>We are thrilled to announce that AI Technologies Pvt Ltd has been chosen as the official social media marketing partner for the highly anticipated Café 2024: Culinary Art Food Expo! This partnership marks an exciting opportunity for us to deliver fresh updates, highlights, and exclusive behind-the-scenes content from this extraordinary event to our audience.</p>
+    <p>On April 9th, 2024, the atmosphere at Galadari Hotel, Colombo 01, was electric as our dedicated team, alongside esteemed partners and renowned culinary experts, unveiled what promises to be an unforgettable gastronomic experience. From mouthwatering tastings to captivating conversations, the Media Launch event paved the way for an extraordinary showcase of culinary brilliance.</p>
+    <p>Here are some captivating glimpses from the event, encapsulating the lively spirit and anticipation awaiting attendees at Café 2024: Culinary Art Food Expo! [Include a selection of engaging photos from the event]</p>
+    <p>Stay tuned as we embark on this incredible journey together, bringing you the latest updates and insider insights from Café 2024: Culinary Art Food Expo!</p>
+</div>
+<!-- Blog Detail End -->
 
-                <!-- Sidebar Start -->
+</div>
+
+
+                  <!-- Sidebar Start -->
                 <div class="col-lg-4">
 
                    
 
                    <!-- Recent Post Start -->
-<div class="mb-5 wow slideInUp" data-wow-delay="0.1s">
+                   <div class="mb-5 wow slideInUp" data-wow-delay="0.1s">
     <div class="section-title section-title-sm position-relative pb-3 mb-4">
         <h3 class="mb-0">Recent Post</h3>
     </div>
@@ -297,42 +230,62 @@
 </div>
 <!-- Recent Post End -->
 
-                    <!-- Image Start -->
-                    <div class="mb-5 wow slideInUp" data-wow-delay="0.1s">
-                        <img src="img/blog-1.jpg" alt="" class="img-fluid rounded">
-                    </div>
-                    <!-- Image End -->
 
-                   
-                   
+
+</div>
+<!-- Sidebar End -->
                 </div>
-                <!-- Sidebar End -->
             </div>
         </div>
-    </div>
+    </section>
     <!-- Blog End -->
 
-
-    <!-- Vendor Start -->
-    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
-        <div class="container py-5 mb-5">
-            <div class="bg-white">
-                <div class="owl-carousel vendor-carousel">
-                    <img src="img/vendor-1.jpg" alt="">
-                    <img src="img/vendor-2.jpg" alt="">
-                    <img src="img/vendor-3.jpg" alt="">
-                    <img src="img/vendor-4.jpg" alt="">
-                    <img src="img/vendor-5.jpg" alt="">
-                    <img src="img/vendor-6.jpg" alt="">
-                    <img src="img/vendor-7.jpg" alt="">
-                    <img src="img/vendor-8.jpg" alt="">
-                    <img src="img/vendor-9.jpg" alt="">
+    <!-- Blog Start -->
+<section id="NT" style="padding-top:100px;">
+    <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container">
+            <div class="row g-5 justify-content-center"> <!-- Added justify-content-center to center align the content -->
+              
+                <div class="col-lg-6">
+                    <!-- Blog Detail Start -->
+                    <div class="text-center"> <!-- Added text-center to center align the content -->
+                        <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/su-1.jpg" alt=""></a>                  
+                    </div>
+                    <!-- Blog Detail End -->
                 </div>
+
+                <div class="col-lg-6">
+                    <!-- Blog Detail Start -->
+                    <div class="text-center"> <!-- Added text-center to center align the content -->
+                        <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/su-2.jpg" alt=""></a>
+                    </div>
+                    <!-- Blog Detail End -->
+                </div>
+                <div class="col-lg-6">
+                    <!-- Blog Detail Start -->
+                    <div class="text-center"> <!-- Added text-center to center align the content -->
+                        <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/su-3.jpg" alt=""></a>                  
+                    </div>
+                    <!-- Blog Detail End -->
+                </div>
+
+                <div class="col-lg-6">
+                    <!-- Blog Detail Start -->
+                    <div class="text-center"> <!-- Added text-center to center align the content -->
+                        <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/su-4.jpg" alt=""></a>
+                    </div>
+                    <!-- Blog Detail End -->
+                </div>
+
+             
             </div>
         </div>
     </div>
-    <!-- Vendor End -->
+</section>
+<!-- Blog End -->
 
+
+   
 
     <!-- Footer Start -->
     <div class="container-fluid bg-dark text-light mt-5 wow fadeInUp" data-wow-delay="0.1s">

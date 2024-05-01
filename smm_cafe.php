@@ -141,7 +141,7 @@
                     <i class="far fa-circle text-white px-2"></i>
                     <a href="service.php" class="h5 text-white">SMM Events</a>
                     <i class="far fa-circle text-white px-2"></i>
-                    <a href="" class="h5 text-white">>Culinary Art Food Expo 2024 (CAFE)</a>
+                    <a href="" class="h5 text-white">Culinary Art Food Expo 2024</a>
                 </div>
             </div>
         </div>
@@ -185,7 +185,7 @@
     <p>This culinary extravaganza features culinary competitions, trade stalls, food festivals, cookery demonstrations, and cooking classes, culminating in the exhilarating 'Battle of Chefs.' Under the discerning eyes of internationally renowned WACS-approved judges, chefs from across the globe will showcase their culinary prowess across various categories, highlighting the diverse flavors and techniques of the culinary world.</p>
     <p>Moreover, CAFE 2024 will spotlight Sri Lanka's expertise in tea, coconut, and spices, with a dedicated festival showcasing innovative creations and indulgent experiences. From coconut-based delicacies to spice-infused delights, attendees will embark on a sensory journey celebrating the rich heritage and flavors of Sri Lankan cuisine.</p>
     <h3>Our Contribution to CAFE 2024</h3>
-    <p>At Ai Tech Pvt Ltd, we are thrilled to support CAFE 2024 by leveraging our expertise in social media marketing. Through strategic planning, innovative content creation, and targeted advertising campaigns, we aim to amplify the visibility and engagement of this culinary extravaganza across all major social media platforms. From promoting participating chefs and sponsors to highlighting special features and exclusive experiences, our goal is to generate excitement and anticipation leading up to the event. By harnessing the power of AI-driven strategies and digital marketing tactics, we are committed to ensuring that CAFE 2024 receives the attention it deserves, attracting a diverse audience and fostering connections within the global culinary community. Join us at CAFE 2024 and experience the magic of culinary brilliance firsthand!</p>
+    <p>At Ai Technologies Pvt Ltd, we are thrilled to support CAFE 2024 by leveraging our expertise in social media marketing. Through strategic planning, innovative content creation, and targeted advertising campaigns, we aim to amplify the visibility and engagement of this culinary extravaganza across all major social media platforms. From promoting participating chefs and sponsors to highlighting special features and exclusive experiences, our goal is to generate excitement and anticipation leading up to the event. By harnessing the power of AI-driven strategies and digital marketing tactics, we are committed to ensuring that CAFE 2024 receives the attention it deserves, attracting a diverse audience and fostering connections within the global culinary community. Join us at CAFE 2024 and experience the magic of culinary brilliance firsthand!</p>
 </div>
     <!-- Blog Detail End -->
 </div>

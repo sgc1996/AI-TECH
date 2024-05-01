@@ -138,9 +138,9 @@
                     <h1 class="display-4 text-white animated zoomIn">Projects</h1>
                     <a href="index.php" class="h5 text-white">Home</a>
                     <i class="far fa-circle text-white px-2"></i>
-                    <a href="" class="h5 text-white">Products</a>
+                    <a href="" class="h5 text-white">Projects</a>
                     <i class="far fa-circle text-white px-2"></i>
-                    <a href="" class="h5 text-white">Websites</a>
+                    <a href="" class="h5 text-white">Social Media Projects</a>
                 </div>
             </div>
         </div>
@@ -172,13 +172,14 @@
     <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
         <div class="container">
             <div class="row g-5 justify-content-center"> <!-- Added justify-content-center to center align the content -->
-                <h1 class="mb-4 text-center">Travel and Hospitaliy</h1> <!-- Added text-center to center align the heading -->
+            <h1 class="mb-4 text-center">Our Social Media Projects</h1> <!-- Added text-center to center align the heading -->
+               
                 
 
-<div class="col-lg-6">
+<div class="col-lg-4">
     <!-- Blog Detail Start -->
     <div class="text-center"> <!-- Added text-center to center align the content -->
-        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/social_newro.png" alt=""></a>
+        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_newro.png" alt=""></a>
         <p class="text-center">Newro Tours</p> <!-- Added text-center to center align the paragraph -->
         <div class="social-icons"> <!-- Added a container for social icons -->
             <a href="https://www.facebook.com/NewroTours" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
@@ -193,10 +194,10 @@
 
 
 
-<div class="col-lg-6">
+<div class="col-lg-4">
     <!-- Blog Detail Start -->
     <div class="text-center"> <!-- Added text-center to center align the content -->
-        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/social_gamunu.png" alt=""></a>
+        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_gam.png" alt=""></a>
         <p class="text-center">Gamunu Travels</p> <!-- Added text-center to center align the paragraph -->
         <div class="social-icons"> <!-- Added a container for social icons -->
             <a href="https://www.facebook.com/GamunuTravels" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
@@ -207,10 +208,10 @@
     <!-- Blog Detail End -->
 </div>
 
-    <div class="col-lg-6">
+    <div class="col-lg-4">
     <!-- Blog Detail Start -->
     <div class="text-center"> <!-- Added text-center to center align the content -->
-        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/social_gt.png" alt=""></a>
+        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_gtl.png" alt=""></a>
         <p class="text-center">GT Leisure</p> <!-- Added text-center to center align the paragraph -->
         <div class="social-icons"> <!-- Added a container for social icons -->
             <a href="https://www.facebook.com/gtleisure" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
@@ -221,10 +222,10 @@
     <!-- Blog Detail End -->
 </div>
 
-<div class="col-lg-6">
+<div class="col-lg-4">
     <!-- Blog Detail Start -->
     <div class="text-center"> <!-- Added text-center to center align the content -->
-        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/social_letsfly.png" alt=""></a>
+        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_lets.png" alt=""></a>
         <p class="text-center">Lest's Fly</p> <!-- Added text-center to center align the paragraph -->
         <div class="social-icons"> <!-- Added a container for social icons -->
             <a href="httpshttps://www.facebook.com/Letsfly.lk" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
@@ -236,24 +237,10 @@
     <!-- Blog Detail End -->
 </div>
 
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Blog End -->
-
-   <!-- Blog Start Cooperation -->
- <section id="NT">
-    <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s" style="padding-top:100px;">
-        <div class="container">
-            <div class="row g-5 justify-content-center"> <!-- Added justify-content-center to center align the content -->
-                <h1 class="mb-4 text-center">Cooperations</h1> <!-- Added text-center to center align the heading -->
-                
-
-                <div class="col-lg-6">
+<div class="col-lg-4">
     <!-- Blog Detail Start -->
     <div class="text-center"> <!-- Added text-center to center align the content -->
-        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/social_su.png" alt=""></a>
+        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_su.png" alt=""></a>
         <p class="text-center">Sancharaka Udawa 2024</p> <!-- Added text-center to center align the paragraph -->
         <div class="social-icons"> <!-- Added a container for social icons -->
             <a href="https://www.facebook.com/SancharakaUdawa" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
@@ -265,10 +252,10 @@
     <!-- Blog Detail End -->
 </div>
 
-<div class="col-lg-6">
+<div class="col-lg-4">
     <!-- Blog Detail Start -->
     <div class="text-center"> <!-- Added text-center to center align the content -->
-        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/social_fham.png" alt=""></a>
+        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_fham.png" alt=""></a>
         <p class="text-center">FHAM 2024</p> <!-- Added text-center to center align the paragraph -->
         <div class="social-icons"> <!-- Added a container for social icons -->
             <a href="https://www.facebook.com/FHAMEXHIBITION" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
@@ -280,10 +267,10 @@
     <!-- Blog Detail End -->
 </div>
 
-<div class="col-lg-6">
+<div class="col-lg-4">
     <!-- Blog Detail Start -->
     <div class="text-center"> <!-- Added text-center to center align the content -->
-        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/social_cafe.png" alt=""></a>
+        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_cafe.png" alt=""></a>
         <p class="text-center">Cafe 2024</p> <!-- Added text-center to center align the paragraph -->
         <div class="social-icons"> <!-- Added a container for social icons -->
             <a href="https://www.facebook.com/culinaryartfoodexpo" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
@@ -295,10 +282,10 @@
     <!-- Blog Detail End -->
 </div>
 
-<div class="col-lg-6">
+<div class="col-lg-4">
     <!-- Blog Detail Start -->
     <div class="text-center"> <!-- Added text-center to center align the content -->
-        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/social_hotels.png" alt=""></a>
+        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_hs.png" alt=""></a>
         <p class="text-center">Hotel Show Colombo 2024</p> <!-- Added text-center to center align the paragraph -->
         <div class="social-icons"> <!-- Added a container for social icons -->
             <a href="https://www.facebook.com/profile.php?id=100067105736223" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
@@ -310,24 +297,10 @@
     <!-- Blog Detail End -->
 </div>
 
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Blog End -->
-
-<!-- Blog Start Cooperation -->
-<section id="NT">
-    <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s" style="padding-top:100px;">
-        <div class="container">
-            <div class="row g-5 justify-content-center"> <!-- Added justify-content-center to center align the content -->
-                <h1 class="mb-4 text-center">Automobile</h1> <!-- Added text-center to center align the heading -->
-                
-
-                <div class="col-lg-6">
+<div class="col-lg-4">
     <!-- Blog Detail Start -->
     <div class="text-center"> <!-- Added text-center to center align the content -->
-        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/social_ous.png" alt=""></a>
+        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_ous.png" alt=""></a>
         <p class="text-center">Oushani International</p> <!-- Added text-center to center align the paragraph -->
         <div class="social-icons"> <!-- Added a container for social icons -->
             <a href="https://www.facebook.com/profile.php?id=100075748665267" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
@@ -338,24 +311,12 @@
     <!-- Blog Detail End -->
 </div>
 
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Blog End -->
 
-<!-- Blog Start Cooperation -->
-<section id="NT">
-    <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s" style="padding-top:100px;">
-        <div class="container">
-            <div class="row g-5 justify-content-center"> <!-- Added justify-content-center to center align the content -->
-                <h1 class="mb-4 text-center">Salon</h1> <!-- Added text-center to center align the heading -->
-                
 
-                <div class="col-lg-6">
+<div class="col-lg-4">
     <!-- Blog Detail Start -->
     <div class="text-center"> <!-- Added text-center to center align the content -->
-        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/social_sharon.png" alt=""></a>
+        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_sha.png" alt=""></a>
         <p class="text-center">Sharon's Salon</p> <!-- Added text-center to center align the paragraph -->
         <div class="social-icons"> <!-- Added a container for social icons -->
             <a href="https://www.facebook.com/profile.php?id=100063690661054" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
@@ -372,6 +333,7 @@
 </section>
 <!-- Blog End -->
 
+  
 
     <!-- Footer Start -->
     <div class="container-fluid bg-dark text-light mt-5 wow fadeInUp" data-wow-delay="0.1s">

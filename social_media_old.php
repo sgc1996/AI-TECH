@@ -66,7 +66,7 @@
 
     <!-- Navbar Start -->
     <div class="container-fluid position-relative p-0">
-        <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0">
+       <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0">
         <a href="index.php" class="navbar-brand p-0">
             <img src="img/logo2.png" width="60%">
         </a>
@@ -138,7 +138,7 @@
                     <h1 class="display-4 text-white animated zoomIn">Projects</h1>
                     <a href="index.php" class="h5 text-white">Home</a>
                     <i class="far fa-circle text-white px-2"></i>
-                    <a href="" class="h5 text-white">Projects</a>
+                    <a href="" class="h5 text-white">Products</a>
                     <i class="far fa-circle text-white px-2"></i>
                     <a href="" class="h5 text-white">Websites</a>
                 </div>
@@ -166,212 +166,205 @@
     </div>
     <!-- Full Screen Search End -->
 
-    <!-- Blog Start Travel -->
-<section id="NT">
-    <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
-        <div class="container">
-            <div class="row g-5 justify-content-center"> <!-- Added justify-content-center to center align the content -->
-                <h1 class="mb-4 text-center">Travel And Hospialiy</h1> <!-- Added text-center to center align the heading -->
-                <div class="col-lg-6">
-                    <!-- Blog Detail Start -->
-                    <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_cdct.png" alt=""></a>
-                        <p class="text-center">CDC Travel</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="#" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
-                    </div>
-                    <!-- Blog Detail End -->
-                </div>
-
-                <div class="col-lg-6">
-                    <!-- Blog Detail Start -->
-                    <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://www.travelarcades.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_ta.png" alt=""></a>
-                        <p class="text-center">Travel Arcade</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://www.travelarcades.com/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
-                    </div>
-                    <!-- Blog Detail End -->
-                </div>
-
-                <div class="col-lg-6">
-                    <!-- Blog Detail Start -->
-                    <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://www.newrogroup.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_newro.png" alt=""></a>
-                        <p class="text-center">Newro Tours</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://www.newrogroup.com/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
-                    </div>
-                    <!-- Blog Detail End -->
-                </div>
-
-                <div class="col-lg-6">
-                    <!-- Blog Detail Start -->
-                    <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://www.letsfly.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_letsfly.png" alt=""></a>
-                        <p class="text-center">Let's Fly</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://www.letsfly.lk/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
-                    </div>
-                    <!-- Blog Detail End -->
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Blog End -->
-
- <!-- Blog Start Cooperation -->
+    
+   <!-- Blog Start Cooperation -->
  <section id="NT">
     <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
         <div class="container">
             <div class="row g-5 justify-content-center"> <!-- Added justify-content-center to center align the content -->
+                <h1 class="mb-4 text-center">Travel and Hospitaliy</h1> <!-- Added text-center to center align the heading -->
+                
+
+<div class="col-lg-6">
+    <!-- Blog Detail Start -->
+    <div class="text-center"> <!-- Added text-center to center align the content -->
+        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_newro.png" alt=""></a>
+        <p class="text-center">Newro Tours</p> <!-- Added text-center to center align the paragraph -->
+        <div class="social-icons"> <!-- Added a container for social icons -->
+            <a href="https://www.facebook.com/NewroTours" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
+            <a href="https://www.instagram.com/newro_tours/" target="_blank" style="margin: 0 10px;"><i class="fab fa-instagram" style="font-size: 30px;"></i></a>
+            
+        </div>
+       
+    </div>
+    <!-- Blog Detail End -->
+</div>
+
+
+
+
+<div class="col-lg-6">
+    <!-- Blog Detail Start -->
+    <div class="text-center"> <!-- Added text-center to center align the content -->
+        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_gam.png" alt=""></a>
+        <p class="text-center">Gamunu Travels</p> <!-- Added text-center to center align the paragraph -->
+        <div class="social-icons"> <!-- Added a container for social icons -->
+            <a href="https://www.facebook.com/GamunuTravels" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
+            
+        </div>
+       
+    </div>
+    <!-- Blog Detail End -->
+</div>
+
+    <div class="col-lg-6">
+    <!-- Blog Detail Start -->
+    <div class="text-center"> <!-- Added text-center to center align the content -->
+        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_gtl.png" alt=""></a>
+        <p class="text-center">GT Leisure</p> <!-- Added text-center to center align the paragraph -->
+        <div class="social-icons"> <!-- Added a container for social icons -->
+            <a href="https://www.facebook.com/gtleisure" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
+            <a href="https://www.instagram.com/gt.leisure/" target="_blank" style="margin: 0 10px;"><i class="fab fa-instagram" style="font-size: 30px;"></i></a>
+        </div>
+       
+    </div>
+    <!-- Blog Detail End -->
+</div>
+
+<div class="col-lg-6">
+    <!-- Blog Detail Start -->
+    <div class="text-center"> <!-- Added text-center to center align the content -->
+        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_lets.png" alt=""></a>
+        <p class="text-center">Lest's Fly</p> <!-- Added text-center to center align the paragraph -->
+        <div class="social-icons"> <!-- Added a container for social icons -->
+            <a href="httpshttps://www.facebook.com/Letsfly.lk" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
+            <a href="https://www.instagram.com/letsfly.lk/" target="_blank" style="margin: 0 10px;"><i class="fab fa-instagram" style="font-size: 30px;"></i></a>
+           
+        </div>
+       
+    </div>
+    <!-- Blog Detail End -->
+</div>
+
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Blog End -->
+
+   <!-- Blog Start Cooperation -->
+ <section id="NT">
+    <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s" style="padding-top:100px;">
+        <div class="container">
+            <div class="row g-5 justify-content-center"> <!-- Added justify-content-center to center align the content -->
                 <h1 class="mb-4 text-center">Cooperations</h1> <!-- Added text-center to center align the heading -->
-                <div class="col-lg-6">
-                    <!-- Blog Detail Start -->
-                    <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://www.sathutaceylon.com/index.html" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_sceylon.png" alt=""></a>
-                        <p class="text-center">Sathuta Ceylon</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://www.sathutaceylon.com/index.html" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
-                    </div>
-                    <!-- Blog Detail End -->
-                </div>
+                
 
                 <div class="col-lg-6">
-                    <!-- Blog Detail Start -->
-                    <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://sathutaindustry.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_sind.png" alt=""></a>
-                        <p class="text-center">Sathuta Industry</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://sathutaindustry.lk/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
-                    </div>
-                    <!-- Blog Detail End -->
-                </div>
+    <!-- Blog Detail Start -->
+    <div class="text-center"> <!-- Added text-center to center align the content -->
+        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_su.png" alt=""></a>
+        <p class="text-center">Sancharaka Udawa 2024</p> <!-- Added text-center to center align the paragraph -->
+        <div class="social-icons"> <!-- Added a container for social icons -->
+            <a href="https://www.facebook.com/SancharakaUdawa" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
+            <a href="https://www.instagram.com/sancharakaudawa_official/" target="_blank" style="margin: 0 10px;"><i class="fab fa-instagram" style="font-size: 30px;"></i></a>
+            <a href="https://www.linkedin.com/company/sancharaka-udawa" target="_blank" style="margin: 0 10px;"><i class="fab fa-linkedin" style="font-size: 30px;"></i></a>
+        </div>
+       
+    </div>
+    <!-- Blog Detail End -->
+</div>
 
-                <div class="col-lg-6">
-                    <!-- Blog Detail Start -->
-                    <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://sancharakaudawa.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_su.png" alt=""></a>
-                        <p class="text-center">Sanchraka Udawa 2024</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://sancharakaudawa.com/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
-                    </div>
-                    <!-- Blog Detail End -->
-                </div>
+<div class="col-lg-6">
+    <!-- Blog Detail Start -->
+    <div class="text-center"> <!-- Added text-center to center align the content -->
+        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_fham.png" alt=""></a>
+        <p class="text-center">FHAM 2024</p> <!-- Added text-center to center align the paragraph -->
+        <div class="social-icons"> <!-- Added a container for social icons -->
+            <a href="https://www.facebook.com/FHAMEXHIBITION" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
+            <a href="https://www.instagram.com/fham.__/" target="_blank" style="margin: 0 10px;"><i class="fab fa-instagram" style="font-size: 30px;"></i></a>
+            <a href="https://mv.linkedin.com/company/fha-maldives" target="_blank" style="margin: 0 10px;"><i class="fab fa-linkedin" style="font-size: 30px;"></i></a>
+        </div>
+       
+    </div>
+    <!-- Blog Detail End -->
+</div>
 
-                <div class="col-lg-6">
-                    <!-- Blog Detail Start -->
-                    <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://fhamaldives.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_fham.png" alt=""></a>
-                        <p class="text-center">FHAM 2024</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://fhamaldives.com/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
-                    </div>
-                    <!-- Blog Detail End -->
-                </div>
+<div class="col-lg-6">
+    <!-- Blog Detail Start -->
+    <div class="text-center"> <!-- Added text-center to center align the content -->
+        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_cafe.png" alt=""></a>
+        <p class="text-center">Cafe 2024</p> <!-- Added text-center to center align the paragraph -->
+        <div class="social-icons"> <!-- Added a container for social icons -->
+            <a href="https://www.facebook.com/culinaryartfoodexpo" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
+            <a href="https://www.instagram.com/culinaryartsl/" target="_blank" style="margin: 0 10px;"><i class="fab fa-instagram" style="font-size: 30px;"></i></a>
+   
+        </div>
+       
+    </div>
+    <!-- Blog Detail End -->
+</div>
 
-                <div class="col-lg-6">
-                    <!-- Blog Detail Start -->
-                    <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://itechs.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_letsfly.png" alt=""></a>
-                        <p class="text-center">Iceman Technical Solutions</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://itechs.lk/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
-                    </div>
-                    <!-- Blog Detail End -->
-                </div>
+<div class="col-lg-6">
+    <!-- Blog Detail Start -->
+    <div class="text-center"> <!-- Added text-center to center align the content -->
+        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_hs.png" alt=""></a>
+        <p class="text-center">Hotel Show Colombo 2024</p> <!-- Added text-center to center align the paragraph -->
+        <div class="social-icons"> <!-- Added a container for social icons -->
+            <a href="https://www.facebook.com/profile.php?id=100067105736223" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
+            <a href="https://www.instagram.com/hotelshowcolombo/" target="_blank" style="margin: 0 10px;"><i class="fab fa-instagram" style="font-size: 30px;"></i></a>
+            <a href="https://lk.linkedin.com/in/hotel-show-colombo-sri-lanka-78a271167" target="_blank" style="margin: 0 10px;"><i class="fab fa-linkedin" style="font-size: 30px;"></i></a>
+        </div>
+       
+    </div>
+    <!-- Blog Detail End -->
+</div>
 
-                <div class="col-lg-6">
-                    <!-- Blog Detail Start -->
-                    <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://www.cleaninfusion.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_clean.png" alt=""></a>
-                        <p class="text-center">Clean Infusion</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://www.cleaninfusion.com/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
-                    </div>
-                    <!-- Blog Detail End -->
-                </div>
             </div>
         </div>
     </div>
 </section>
 <!-- Blog End -->
 
-<!-- Blog Start -->
-<section id="NT" style="padding-top:100px;">
-    <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
+<!-- Blog Start Cooperation -->
+<section id="NT">
+    <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s" style="padding-top:100px;">
         <div class="container">
             <div class="row g-5 justify-content-center"> <!-- Added justify-content-center to center align the content -->
-                <h1 class="mb-4 text-center">Sports</h1> <!-- Added text-center to center align the heading -->
-                <div class="col-lg-6">
-                    <!-- Blog Detail Start -->
-                    <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_chances.png" alt=""></a>
-                        <p class="text-center">The Chanace Sports</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="#" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
-                    </div>
-                    <!-- Blog Detail End -->
-                </div>
+                <h1 class="mb-4 text-center">Automobile</h1> <!-- Added text-center to center align the heading -->
+                
 
-             
-            </div>
+                <div class="col-lg-6">
+    <!-- Blog Detail Start -->
+    <div class="text-center"> <!-- Added text-center to center align the content -->
+        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_ous.png" alt=""></a>
+        <p class="text-center">Oushani International</p> <!-- Added text-center to center align the paragraph -->
+        <div class="social-icons"> <!-- Added a container for social icons -->
+            <a href="https://www.facebook.com/profile.php?id=100075748665267" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
+            
         </div>
+       
     </div>
-</section>
-<!-- Blog End -->
-    
-<!-- Blog Start -->
-<section id="NT" style="padding-top:100px;">
-    <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
-        <div class="container">
-            <div class="row g-5 justify-content-center"> <!-- Added justify-content-center to center align the content -->
-                <h1 class="mb-4 text-center">Cosmetics</h1> <!-- Added text-center to center align the heading -->
-                <div class="col-lg-6">
-                    <!-- Blog Detail Start -->
-                    <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://opromacosmetics.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_oproma.png" alt=""></a>
-                        <p class="text-center">Oproma Cosmetics WebSite</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://opromacosmetics.com/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
-                    </div>
-                    <!-- Blog Detail End -->
-                </div>
+    <!-- Blog Detail End -->
+</div>
 
-             
             </div>
         </div>
     </div>
 </section>
 <!-- Blog End -->
 
-<!-- Blog Start -->
-<section id="NT" style="padding-top:100px;">
-    <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
+<!-- Blog Start Cooperation -->
+<section id="NT">
+    <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s" style="padding-top:100px;">
         <div class="container">
             <div class="row g-5 justify-content-center"> <!-- Added justify-content-center to center align the content -->
-                <h1 class="mb-4 text-center">Hotels</h1> <!-- Added text-center to center align the heading -->
-                <div class="col-lg-6">
-                    <!-- Blog Detail Start -->
-                    <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Forest_Rock_Garden.png" alt=""></a>
-                        <p class="text-center">Forest Rock Garden</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="#" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
-                    </div>
-                    <!-- Blog Detail End -->
-                </div>
+                <h1 class="mb-4 text-center">Salon</h1> <!-- Added text-center to center align the heading -->
+                
 
-             
-            </div>
+                <div class="col-lg-6">
+    <!-- Blog Detail Start -->
+    <div class="text-center"> <!-- Added text-center to center align the content -->
+        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_sha.png" alt=""></a>
+        <p class="text-center">Sharon's Salon</p> <!-- Added text-center to center align the paragraph -->
+        <div class="social-icons"> <!-- Added a container for social icons -->
+            <a href="https://www.facebook.com/profile.php?id=100063690661054" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
+            <a href="https://www.instagram.com/sharonfernandosalon/" target="_blank" style="margin: 0 10px;"><i class="fab fa-instagram" style="font-size: 30px;"></i></a>
         </div>
+       
     </div>
-</section>
-<!-- Blog End -->
-
-<!-- Blog Start -->
-<section id="NT" style="padding-top:100px;">
-    <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
-        <div class="container">
-            <div class="row g-5 justify-content-center"> <!-- Added justify-content-center to center align the content -->
-                <h1 class="mb-4 text-center">Agriculture</h1> <!-- Added text-center to center align the heading -->
-                <div class="col-lg-6">
-                    <!-- Blog Detail Start -->
-                    <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://www.sathutagroup.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_sfer.png" alt=""></a>
-                        <p class="text-center">Sathuta Fertilizer</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://www.sathutagroup.com/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
-                    </div>
-                    <!-- Blog Detail End -->
-                </div>
+    <!-- Blog Detail End -->
+</div>
 
             </div>
         </div>
