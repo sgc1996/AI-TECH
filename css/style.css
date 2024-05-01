@@ -559,3 +559,12 @@ h6,
     border: none !important;
     box-shadow: none !important;
 }
+
+/** Social icon on social media **/
+.social-icons a {
+    margin: 0 10px; /* Adjust the gap between icons */
+}
+
+.social-icons i {
+    font-size: 30px; /* Adjust the size of icons */
+}

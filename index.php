@@ -1,9 +1,3 @@
-<?php
-
-include 'inquiry_mail.php';
-
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -93,7 +87,7 @@ include 'inquiry_mail.php';
                             <h6 class="dropdown-header">Digital</h6>
                             <a class="dropdown-item" href="service_webdesign.php">Web Design</a>
                             <a class="dropdown-item" href="service_seo.php">SEO</a>
-                            <a class="dropdown-item" href="service_smm.php">Social Media Management</a>
+                            <a class="dropdown-item" href="service_smm.php">Social Media Marketing</a>
                             <a class="dropdown-item" href="service_smo.php">Social Media Optimization</a>
                             <a class="dropdown-item" href="service_graphic.php">Graphic Design</a>
                             <a class="dropdown-item" href="service_googleads.php">Google Ads</a>
@@ -355,66 +349,154 @@ include 'inquiry_mail.php';
                         <div class="service-icon">
                             <i class="fa fa-code text-white"></i>
                         </div>
-                        <h4 class="mb-3">Web Designing and Development</h4>
-                        <p class="m-0">Our main service is Web Development and we have already developed +20 web products.</p>
+                        <h4 class="mb-3">Web Designing</h4>
+                        <p class="m-0">Craft visually appealing and user-friendly websites tailored to your brand.</p>
                         <a class="btn btn-lg btn-primary rounded" href="web_services.php">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
+
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
                     <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon">
-                            <i class="fa fa-mobile text-white"></i>
+                            <i class="fa fa-desktop text-white"></i>
                         </div>
-                        <h4 class="mb-3">Mobile App Development</h4>
-                        <p class="m-0">It is currently the most demanded service with the latest technology. We have developed +10 mobile apps.</p>
-                        <a class="btn btn-lg btn-primary rounded" href="mobile_app_services.php">
+                        <h4 class="mb-3">Graphic Design</h4>
+                        <p class="m-0">Design eye-catching visuals and graphics to elevate your brand identity.</p>
+                        <a class="btn btn-lg btn-primary rounded" href="ui_ux_designing_services.php">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
                 </div>
+
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-search text-white"></i>
+                        </div>
+                        <h4 class="mb-3">SEO Optimization</h4>
+                        <p class="m-0">Improve website visibility and ranking on search engines for increased organic traffic.</p>
+                        <a class="btn btn-lg btn-primary rounded" href="seo_content_writing_services.php">
+                            <i class="bi bi-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+
                 <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.9s">
                     <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon">
                             <i class="fa fa-table text-white"></i>
                         </div>
                         <h4 class="mb-3">Social Media Marketing</h4>
-                        <p class="m-0">Data Analytics (DA) is the process of examining data sets in order to find trends and draw conclusions about the information they contain.</p>
+                        <p class="m-0">Strategically leverage social platforms to enhance brand visibility and engagement. </p>
                         <a class="btn btn-lg btn-primary rounded" href="social_media_marketing.php">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
+
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.9s">
                     <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon">
-                            <i class="fa fa-desktop text-white"></i>
+                            <i class="fa fa-table text-white"></i>
                         </div>
-                        <h4 class="mb-3">UI / UX Design</h4>
-                        <p class="m-0">Choose Us as your UI/UX designer , because we provide the Most Immersive & Brilliant Designs.</p>
-                        <a class="btn btn-lg btn-primary rounded" href="ui_ux_designing_services.php">
+                        <h4 class="mb-3">Social Media Optimization</h4>
+                        <p class="m-0">Optimize social media profiles and content to maximize reach and impact.</p>
+                        <a class="btn btn-lg btn-primary rounded" href="social_media_marketing.php">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
                 </div>
+
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.9s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-table text-white"></i>
+                        </div>
+                        <h4 class="mb-3">Google Ads </h4>
+                        <p class="m-0">Run targeted advertising campaigns on Google to drive relevant traffic and conversions.</p>
+                        <a class="btn btn-lg btn-primary rounded" href="social_media_marketing.php">
+                            <i class="bi bi-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.9s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-table text-white"></i>
+                        </div>
+                        <h4 class="mb-3">Lead Generation</h4>
+                        <p class="m-0">Implement strategies to capture and nurture leads for business growth.</p>
+                        <a class="btn btn-lg btn-primary rounded" href="social_media_marketing.php">
+                            <i class="bi bi-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+
                 <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
                     <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon">
-                            <i class="fa fa-search text-white"></i>
+                        <i class="fa fa-desktop text-white"></i>
                         </div>
-                        <h4 class="mb-3">SEO / SEM Optimization</h4>
-                        <p class="m-0">We will make your website easily recognizable to your customers.</p>
-                        <a class="btn btn-lg btn-primary rounded" href="seo_content_writing_services.php">
+                        <h4 class="mb-3">Web App Development</h4>
+                        <p class="m-0">Build robust and scalable websites with cutting-edge technologies.</p>
+                        <a class="btn btn-lg btn-primary rounded" href="service_webapp.php">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
                 </div>
+
+
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-mobile text-white"></i>
+                        </div>
+                        <h4 class="mb-3">Mobile App Development</h4>
+                        <p class="m-0">Create customized mobile applications to engage your audience on-the-go. We have developed +10 mobile apps.</p>
+                        <a class="btn btn-lg btn-primary rounded" href="mobile_app_services.php">
+                            <i class="bi bi-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-mobile text-white"></i>
+                        </div>
+                        <h4 class="mb-3">Videography</h4>
+                        <p class="m-0">Produce compelling videos to showcase products, services, and brand stories.</p>
+                        <a class="btn btn-lg btn-primary rounded" href="mobile_app_services.php">
+                            <i class="bi bi-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-mobile text-white"></i>
+                        </div>
+                        <h4 class="mb-3">Photography</h4>
+                        <p class="m-0">Capture high-quality images to complement your digital presence and marketing efforts.</p>
+                        <a class="btn btn-lg btn-primary rounded" href="mobile_app_services.php">
+                            <i class="bi bi-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+                
+              
+                
                 <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.9s">
                     <div class="position-relative bg-primary rounded h-100 d-flex flex-column align-items-center justify-content-center text-center p-5">
                         <h3 class="text-white mb-3">Message via Whatsapp Us For Quote</h3>
                         <p class="text-white mb-3">If you want to get our service, please let us know your requirement.</p>
-                        <a href="tel://+94774123480"><h2 class="text-white mb-0">+94 774 1234 80</h2></a>
+                        <a href="tel://+94774123480">
+                            <h2 class="text-white mb-0">+94 774 1234 80</h2>
+                        </a>
                     </div>
                 </div>
             </div>
