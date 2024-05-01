@@ -1,9 +1,3 @@
-<?php
-
-include 'inquiry_mail.php';
-
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -93,7 +87,7 @@ include 'inquiry_mail.php';
                             <h6 class="dropdown-header">Digital</h6>
                             <a class="dropdown-item" href="service_webdesign.php">Web Design</a>
                             <a class="dropdown-item" href="service_seo.php">SEO</a>
-                            <a class="dropdown-item" href="service_smm.php">Social Media Management</a>
+                            <a class="dropdown-item" href="service_smm.php">Social Media Marketing</a>
                             <a class="dropdown-item" href="service_smo.php">Social Media Optimization</a>
                             <a class="dropdown-item" href="service_graphic.php">Graphic Design</a>
                             <a class="dropdown-item" href="service_googleads.php">Google Ads</a>

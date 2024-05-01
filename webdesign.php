@@ -85,7 +85,7 @@
                             <h6 class="dropdown-header">Digital</h6>
                             <a class="dropdown-item" href="service_webdesign.php">Web Design</a>
                             <a class="dropdown-item" href="service_seo.php">SEO</a>
-                            <a class="dropdown-item" href="service_smm.php">Social Media Management</a>
+                            <a class="dropdown-item" href="service_smm.php">Social Media Marketing</a>
                             <a class="dropdown-item" href="service_smo.php">Social Media Optimization</a>
                             <a class="dropdown-item" href="service_graphic.php">Graphic Design</a>
                             <a class="dropdown-item" href="service_googleads.php">Google Ads</a>
@@ -175,9 +175,9 @@
                 <div class="col-lg-6">
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://chancesports.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_letsfly.png" alt=""></a>
+                        <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_cdct.png" alt=""></a>
                         <p class="text-center">CDC Travel</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://chancesports.lk/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
+                        <a href="#" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -246,9 +246,9 @@
                 <div class="col-lg-6">
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://chancesports.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Website/the-chance-sports.png" alt=""></a>
+                        <a href="https://sancharakaudawa.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_su.png" alt=""></a>
                         <p class="text-center">Sanchraka Udawa 2024</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://chancesports.lk/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
+                        <a href="https://sancharakaudawa.com/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -256,9 +256,9 @@
                 <div class="col-lg-6">
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://chancesports.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Website/the-chance-sports.png" alt=""></a>
+                        <a href="https://fhamaldives.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_fham.png" alt=""></a>
                         <p class="text-center">FHAM 2024</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://chancesports.lk/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
+                        <a href="https://fhamaldives.com/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
