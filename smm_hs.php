@@ -141,7 +141,7 @@
                     <i class="far fa-circle text-white px-2"></i>
                     <a href="service.php" class="h5 text-white">SMM Events</a>
                     <i class="far fa-circle text-white px-2"></i>
-                    <a href="" class="h5 text-white">Sanchraka Udawa 2024</a>
+                    <a href="" class="h5 text-white">Hotel Show Colombo 2024</a>
                 </div>
             </div>
         </div>
@@ -177,7 +177,7 @@
     <!-- Blog Detail Start -->
     <div class="mb-5 py-5">
     <h1 class="mb-4">Hotel Show Colombo 2024</h1>
-    <p>Ai Tech Pvt Ltd is thrilled to announce its partnership in handling the social media marketing for the esteemed Hotel Show Colombo 2024, scheduled to take place on July 21st, 22nd, and 23rd, 2024, at the prestigious Sirimavo Bandaranaike Memorial Exhibition Centre. As Sri Lanka's largest hospitality trade exhibition, this event marks the 15th edition, promising unparalleled opportunities for exhibitors and attendees alike.</p>
+    <p>Ai Technologies Pvt Ltd is thrilled to announce its partnership in handling the social media marketing for the esteemed Hotel Show Colombo 2024, scheduled to take place on July 21st, 22nd, and 23rd, 2024, at the prestigious Sirimavo Bandaranaike Memorial Exhibition Centre. As Sri Lanka's largest hospitality trade exhibition, this event marks the 15th edition, promising unparalleled opportunities for exhibitors and attendees alike.</p>
     <h4>Objective and Purpose</h4>
     <p>Hotel Show Colombo 2024 continues its legacy of excellence by providing a premier platform for hospitality industry professionals to showcase their latest products and services. With a focus on driving innovation and meeting the evolving needs of the sector, this event serves as a catalyst for business growth, networking, and knowledge exchange.</p>
     <p>Since its inception 25 years ago, Hotel Show Colombo has remained at the forefront of the industry, setting new standards and fostering collaboration between local and international stakeholders.</p>
@@ -185,7 +185,7 @@
     <p>The benefits of Hotel Show Colombo 2024 extend far beyond the exhibition floor. Attendees can expect a dynamic environment filled with opportunities to discover cutting-edge solutions, forge strategic partnerships, and gain insights from industry experts. From hoteliers and restaurateurs to suppliers and service providers, participants will find invaluable resources to enhance their businesses and stay ahead in a competitive market.</p>
     <p>Moreover, with the resurgence of Sri Lanka's tourism industry, the event is poised to drive significant growth and contribute to the country's economic recovery by attracting investment, boosting employment, and showcasing the nation's hospitality excellence on a global stage.</p>
     <h3>Our Contribution to Hotel Show Colombo 2024</h3>
-    <p>At Ai Tech Pvt Ltd, we are dedicated to leveraging our expertise in social media marketing to ensure the success of Hotel Show Colombo 2024. Through strategic planning, innovative content creation, and targeted advertising campaigns, we aim to maximize visibility and engagement across all major social media platforms.</p>
+    <p>At Ai Technologies Pvt Ltd, we are dedicated to leveraging our expertise in social media marketing to ensure the success of Hotel Show Colombo 2024. Through strategic planning, innovative content creation, and targeted advertising campaigns, we aim to maximize visibility and engagement across all major social media platforms.</p>
     <p>From promoting exhibitors and keynote speakers to highlighting special features and exclusive offers, our goal is to generate excitement and anticipation leading up to the event. By harnessing the power of AI-driven strategies and digital marketing tactics, we are committed to amplifying the reach of Hotel Show Colombo 2024, driving attendance, fostering connections, and ultimately, delivering exceptional results for all stakeholders involved.</p>
 </div>
     <!-- Blog Detail End -->

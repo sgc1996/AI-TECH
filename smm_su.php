@@ -184,7 +184,7 @@
     <h4>Anticipated Benefits</h4>
     <p>The benefits of 'Sancharaka Udawa 2024' go beyond networking opportunities. The event is poised to catalyze a significant increase in bookings and sales for smaller service providers across the regions. Moreover, the fair promises a comprehensive experience, featuring entertainment activities, workshops, and an informal evening gathering for exhibitors, sponsors, and SLAITO members to forge invaluable connections.</p>
     <h4>Our Contribution to Sancharaka Udawa 2024</h4>
-    <p>At Ai Tech Pvt Ltd, our dedicated team is committed to providing comprehensive social media marketing solutions tailored specifically for 'Sancharaka Udawa 2024'. Leveraging our expertise in AI-driven strategies and digital marketing tactics, we ensure the event receives maximum visibility and engagement across all major social media platforms.</p>
+    <p>At Ai Technologies Pvt Ltd, our dedicated team is committed to providing comprehensive social media marketing solutions tailored specifically for 'Sancharaka Udawa 2024'. Leveraging our expertise in AI-driven strategies and digital marketing tactics, we ensure the event receives maximum visibility and engagement across all major social media platforms.</p>
     <p>From crafting compelling content to executing targeted ad campaigns, we optimize every aspect of the event's online presence to attract a diverse audience and generate buzz leading up to and during the event. Our collaborative approach and innovative techniques guarantee that 'Sancharaka Udawa 2024' remains at the forefront of digital conversations, driving attendance, participation, and ultimately, success for all involved.</p>
 </div>
     <!-- Blog Detail End -->
