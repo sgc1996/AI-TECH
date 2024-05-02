@@ -77,40 +77,43 @@
             <div class="navbar-nav ms-auto py-0">
                 <a href="index.php" class="nav-item nav-link ">Home</a>
                 <a href="about.php" class="nav-item nav-link">About</a>
-                <!-- Replace "Services" link with the service dropdown -->
-                <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" id="servicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Services</a>
-                    <ul class="dropdown-menu" aria-labelledby="servicesDropdown">
-                        <li>
-                            <h6 class="dropdown-header">Digital</h6>
-                            <a class="dropdown-item" href="service_webdesign.php">Web Design</a>
-                            <a class="dropdown-item" href="service_seo.php">SEO</a>
-                            <a class="dropdown-item" href="service_smm.php">Social Media Marketing</a>
-                            <a class="dropdown-item" href="service_smo.php">Social Media Optimization</a>
-                            <a class="dropdown-item" href="service_graphic.php">Graphic Design</a>
-                            <a class="dropdown-item" href="service_googleads.php">Google Ads</a>
-                            <a class="dropdown-item" href="service_leads.php">Lead Generation</a>
-                        </li>
-                        <li><hr class="dropdown-divider"></li>
-                        <li>
-                            <h6 class="dropdown-header">Develop</h6>
-                            <a class="dropdown-item" href="service_webapp.php">Web Application</a>
-                            <a class="dropdown-item" href="service_mobapp.php">Mobile Application</a>
-                        </li>
-                        <li><hr class="dropdown-divider"></li>
-                        <li>
-                            <h6 class="dropdown-header">Studio</h6>
-                            <a class="dropdown-item" href="service_video.php">Videography</a>
-                            <a class="dropdown-item" href="service_photo.php">Photography</a>
-                        </li>
-                    </ul>
+                <!--service dropdown -->
+
+        <div class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button"
+                aria-haspopup="true" aria-expanded="false">Services</a>
+            <div class="dropdown-menu services-dropdown" style="min-width: 600px;">
+                <div class="row" style="margin-left: 15px;">
+                    <div class="col-lg-4" style="border-right: 1px solid #ddd;">
+                     <h6 style="padding-left: 20px; background-color: #f8f9fa; color:#06A3DA;">Digital</h6>
+                        <a class="dropdown-item" href="service_webdesign.php">Web Design</a>
+                        <a class="dropdown-item" href="service_seo.php">SEO</a>
+                        <a class="dropdown-item" href="service_smm.php">SMM</a>
+                        <a class="dropdown-item" href="service_smo.php">SMO</a>
+                        <a class="dropdown-item" href="service_graphic.php">Graphic Design</a>
+                        <a class="dropdown-item" href="service_googleads.php">Google Ads</a>
+                        <a class="dropdown-item" href="service_leads.php">Lead Generation</a>
+                    </div>
+                    <div class="col-lg-4" style="border-right: 1px solid #ddd; ">
+                        <h6 style="padding-left: 20px; background-color: #f8f9fa; color:#06A3DA;">Develop</h6>
+                        <a class="dropdown-item" href="service_webapp.php">Web Application</a>
+                        <a class="dropdown-item" href="service_mobapp.php">Mobile Application</a>
+                    </div>
+                    <div class="col-lg-4">
+                        <h6 style="padding-left: 20px; background-color: #f8f9fa; color:#06A3DA;">Studio</h6>
+                        <a class="dropdown-item" href="service_video.php">Videography</a>
+                        <a class="dropdown-item" href="service_photo.php">Photography</a>
+                    </div>
                 </div>
-                <!-- End of service dropdown -->
+            </div>
+        </div>
+
+<!-- End of service dropdown -->
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link active dropdown-toggle" data-bs-toggle="dropdown">Projects</a>
                     <div class="dropdown-menu m-0">
                         <a href="webdesign.php" class="dropdown-item">Websites</a>
-                        <a href="social_media.php" class="dropdown-item">Socal Media</a>
+                        <a href="social_media.php" class="dropdown-item">Social Media</a>
                         <a href="mobile_app.php" class="dropdown-item">Mobile Applications</a>
                         <a href="web_app.php" class="dropdown-item">Web Applications</a>
                         
@@ -171,13 +174,12 @@
     <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
         <div class="container">
             <div class="row g-5 justify-content-center"> <!-- Added justify-content-center to center align the content -->
-                <h1 class="mb-4 text-center">Travel And Hospialiy</h1> <!-- Added text-center to center align the heading -->
+                <h1 class="mb-4 text-center">Travel And Hospitality</h1> <!-- Added text-center to center align the heading -->
                 <div class="col-lg-6">
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
                         <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_cdct.png" alt=""></a>
-                        <p class="text-center">CDC Travel</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="#" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
+                        <a href="#" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Visit Website</a> 
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -186,8 +188,7 @@
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
                         <a href="https://www.travelarcades.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_ta.png" alt=""></a>
-                        <p class="text-center">Travel Arcade</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://www.travelarcades.com/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
+                        <a href="https://www.travelarcades.com/" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Visit Website</a> 
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -196,8 +197,7 @@
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
                         <a href="https://www.newrogroup.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_newro.png" alt=""></a>
-                        <p class="text-center">Newro Tours</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://www.newrogroup.com/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
+                        <a href="https://www.newrogroup.com/" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Visit Website</a> <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -206,8 +206,16 @@
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
                         <a href="https://www.letsfly.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_letsfly.png" alt=""></a>
-                        <p class="text-center">Let's Fly</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://www.letsfly.lk/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
+                        <a href="https://www.letsfly.lk/" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Visit Website</a> <!-- The link is centered along with its parent content -->
+                    </div>
+                    <!-- Blog Detail End -->
+                </div>
+
+                <div class="col-lg-6">
+                    <!-- Blog Detail Start -->
+                    <div class="text-center"> <!-- Added text-center to center align the content -->
+                        <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_for.png" alt=""></a>
+                        <a href="#" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Visit Website</a> <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -218,17 +226,16 @@
 <!-- Blog End -->
 
  <!-- Blog Start Cooperation -->
- <section id="NT">
+ <section id="NT" style="padding-top:100px;">
     <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
         <div class="container">
             <div class="row g-5 justify-content-center"> <!-- Added justify-content-center to center align the content -->
-                <h1 class="mb-4 text-center">Cooperations</h1> <!-- Added text-center to center align the heading -->
+                <h1 class="mb-4 text-center">Cooperate Websites</h1> <!-- Added text-center to center align the heading -->
                 <div class="col-lg-6">
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
                         <a href="https://www.sathutaceylon.com/index.html" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_sceylon.png" alt=""></a>
-                        <p class="text-center">Sathuta Ceylon</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://www.sathutaceylon.com/index.html" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
+                        <a href="https://www.sathutaceylon.com/index.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Visit Website</a> <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -237,8 +244,7 @@
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
                         <a href="https://sathutaindustry.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_sind.png" alt=""></a>
-                        <p class="text-center">Sathuta Industry</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://sathutaindustry.lk/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
+                        <a href="https://sathutaindustry.lk/" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Visit Website</a> <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -247,8 +253,7 @@
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
                         <a href="https://sancharakaudawa.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_su.png" alt=""></a>
-                        <p class="text-center">Sanchraka Udawa 2024</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://sancharakaudawa.com/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
+                        <a href="https://sancharakaudawa.com/" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Visit Website</a> <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -257,8 +262,7 @@
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
                         <a href="https://fhamaldives.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_fham.png" alt=""></a>
-                        <p class="text-center">FHAM 2024</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://fhamaldives.com/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
+                        <a href="https://fhamaldives.com/" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Visit Website</a> </a> <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -266,9 +270,9 @@
                 <div class="col-lg-6">
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://itechs.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_letsfly.png" alt=""></a>
-                        <p class="text-center">Iceman Technical Solutions</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://itechs.lk/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
+                        <a href="https://itechs.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_iceman.png" alt=""></a>
+                       
+                        <a href="https://itechs.lk/" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Visit Website</a> <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -277,8 +281,7 @@
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
                         <a href="https://www.cleaninfusion.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_clean.png" alt=""></a>
-                        <p class="text-center">Clean Infusion</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://www.cleaninfusion.com/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
+                        <a href="https://www.cleaninfusion.com/" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Visit Website</a>  <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -297,9 +300,8 @@
                 <div class="col-lg-6">
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_chances.png" alt=""></a>
-                        <p class="text-center">The Chanace Sports</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="#" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
+                        <a href="https://chancesports.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_chances.png" alt=""></a>
+                        <a href="https://chancesports.lk/" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Visit Website</a> <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -316,36 +318,21 @@
     <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
         <div class="container">
             <div class="row g-5 justify-content-center"> <!-- Added justify-content-center to center align the content -->
-                <h1 class="mb-4 text-center">Cosmetics</h1> <!-- Added text-center to center align the heading -->
+                <h1 class="mb-4 text-center">Cosmetics & Salons</h1> <!-- Added text-center to center align the heading -->
                 <div class="col-lg-6">
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
                         <a href="https://opromacosmetics.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_oproma.png" alt=""></a>
-                        <p class="text-center">Oproma Cosmetics WebSite</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://opromacosmetics.com/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
+                        <a href="https://opromacosmetics.com/" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Visit Website</a> <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
 
-             
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Blog End -->
-
-<!-- Blog Start -->
-<section id="NT" style="padding-top:100px;">
-    <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
-        <div class="container">
-            <div class="row g-5 justify-content-center"> <!-- Added justify-content-center to center align the content -->
-                <h1 class="mb-4 text-center">Hotels</h1> <!-- Added text-center to center align the heading -->
                 <div class="col-lg-6">
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/Forest_Rock_Garden.png" alt=""></a>
-                        <p class="text-center">Forest Rock Garden</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="#" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
+                        <a href="https://sharonssalon.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_sharon.png" alt=""></a>
+                        <a href="https://sharonssalon.com/" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Visit Website</a> 
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -356,6 +343,8 @@
     </div>
 </section>
 <!-- Blog End -->
+
+
 
 <!-- Blog Start -->
 <section id="NT" style="padding-top:100px;">
@@ -367,8 +356,7 @@
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
                         <a href="https://www.sathutagroup.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_sfer.png" alt=""></a>
-                        <p class="text-center">Sathuta Fertilizer</p> <!-- Added text-center to center align the paragraph -->
-                        <a href="https://www.sathutagroup.com/" target="_blank">Visit Website -></a> <!-- The link is centered along with its parent content -->
+                        <a href="https://www.sathutagroup.com/" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Visit Website</a>  <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
