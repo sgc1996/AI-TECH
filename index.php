@@ -126,12 +126,12 @@
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">SMM Events</a>
                     <div class="dropdown-menu m-0">
-                        <a href="smm_su.php" class="dropdown-item">Sancharaka Udawa 2024</a>
-                        <a href="smm_hs.php" class="dropdown-item">Hotel Show colombo 2024</a>
-                        <a href="smm_fham.php" class="dropdown-item">FHAM 2024</a>
-                        <a href="smm_cafe.php" class="dropdown-item">Cafe 2024</a>
-                        <a href="smm_boat.php" class="dropdown-item">Boat and Marine Show 2023</a>
-                        <a href="smm_lanpak.php" class="dropdown-item">Lankapak 2023</a>
+                        <a href="smm_su.php" class="dropdown-item">Sancharaka Udawa </a>
+                        <a href="smm_hs.php" class="dropdown-item">Hotel Show colombo </a>
+                        <a href="smm_fham.php" class="dropdown-item">FHAM </a>
+                        <a href="smm_cafe.php" class="dropdown-item">Cafe </a>
+                        <a href="smm_boat.php" class="dropdown-item">Boat and Marine Show </a>
+                        <a href="smm_lanpak.php" class="dropdown-item">Lankapak </a>
                     </div>
                 </div>
                 <a href="contact.php" class="nav-item nav-link">Contact</a>
@@ -427,19 +427,6 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.9s">
-                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
-                        <div class="service-icon">
-                            <i class="fa fa-table text-white"></i>
-                        </div>
-                        <h4 class="mb-3">Lead Generation</h4>
-                        <p class="m-0">Implement strategies to capture and nurture leads for business growth.</p>
-                        <a class="btn btn-lg btn-primary rounded" href="social_media_marketing.php">
-                            <i class="bi bi-arrow-right"></i>
-                        </a>
-                    </div>
-                </div>
-
                 <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
                     <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon">
@@ -467,32 +454,6 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
-                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
-                        <div class="service-icon">
-                            <i class="fa fa-mobile text-white"></i>
-                        </div>
-                        <h4 class="mb-3">Videography</h4>
-                        <p class="m-0">Produce compelling videos to showcase products, services, and brand stories.</p>
-                        <a class="btn btn-lg btn-primary rounded" href="mobile_app_services.php">
-                            <i class="bi bi-arrow-right"></i>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
-                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
-                        <div class="service-icon">
-                            <i class="fa fa-mobile text-white"></i>
-                        </div>
-                        <h4 class="mb-3">Photography</h4>
-                        <p class="m-0">Capture high-quality images to complement your digital presence and marketing efforts.</p>
-                        <a class="btn btn-lg btn-primary rounded" href="mobile_app_services.php">
-                            <i class="bi bi-arrow-right"></i>
-                        </a>
-                    </div>
-                </div>
-                
               
                 
                 <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.9s">
@@ -587,7 +548,7 @@
         <div class="container py-5">
             <div class="row g-5">
                 <div class="col-lg-7">
-                    <?php print_r($message); ?>
+                    <!--?php print_r($message); ?-->
                     <div class="section-title position-relative pb-3 mb-5">
                         <h5 class="fw-bold text-primary text-uppercase">Request A Quote</h5>
                         <h1 class="mb-0">Need A Free Quote? Please Feel Free to Contact Us</h1>
@@ -661,11 +622,56 @@
                 <h1 class="mb-0">What Our Clients Say About Our Digital Services</h1>
             </div>
             <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.6s">
+
+            <div class="testimonial-item client bg-light my-4">
+                    <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
+                        <img class="img-fluid rounded" src="img/feedback/t_imran.png" style="width: 60px; height: 60px;">
+                        <div class="ps-4">
+                            <h4 class="text-primary mb-1">I. Hassan</h4>
+                            <small class="text-uppercase">Managing Director</small><br>
+                            <small class="text-uppercase"><b>CDC EVENTS</b></small>
+                        </div>
+                    </div>
+                    <div class="pt-4 pb-5 px-5">
+                    AI Technologies Pvt Ltd has been an invaluable partner in managing our events and implementing successful social media marketing strategies. Their team's professionalism, creativity, and attention to detail have contributed greatly to the success of Sanchraka Udawa, Cafe, Hotel Show Colombo, and Fham. From event planning to execution and digital promotion, AI Technologies has consistently delivered exceptional results. 
+                    We highly recommend their services to anyone looking for top-notch event management and social media marketing solutions.
+                    </div>
+                </div>
+
+                <div class="testimonial-item client bg-light my-4">
+                    <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
+                        <img class="img-fluid rounded" src="img/feedback/t_pradeep.jpg" style="width: 60px; height: 60px;">
+                        <div class="ps-4">
+                            <h4 class="text-primary mb-1">P. Mapalagama</h4>
+                            <small class="text-uppercase">Managing Director</small><br>
+                            <small class="text-uppercase"><b>OPROMA COSMTICS</b></small>
+                        </div>
+                    </div>
+                    <div class="pt-4 pb-5 px-5">
+                    AI Technologies Pvt Ltd has been instrumental in elevating our online presence through their exceptional website development services. As the Managing Director of Oproma Cosmetics, I can confidently say that our collaboration with AI Technologies has significantly boosted our brand visibility and sales. 
+                    Their expertise in website design and digital marketing has helped us attract and engage customers effectively. Thank you for your outstanding work!
+                    </div>
+                </div>
+
+                <div class="testimonial-item client bg-light my-4">
+                    <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
+                        <img class="img-fluid rounded" src="img/feedback/t_lasantha.jpg" style="width: 60px; height: 60px;">
+                        <div class="ps-4">
+                            <h4 class="text-primary mb-1">L. Amarasinghe</h4>
+                            <small class="text-uppercase">Managing Director</small><br>
+                            <small class="text-uppercase"><b>CHANCE SPORTS</b></small>
+                        </div>
+                    </div>
+                    <div class="pt-4 pb-5 px-5">
+                    Working with AI Technologies Pvt Ltd for our website was a game-changer. Their team understood our vision perfectly and translated it into an impressive online platform. The website they created for The Chance Sports not only showcases our products beautifully but also enhances the overall shopping experience for our customers.
+                     We highly recommend their services!
+                    </div>
+                </div>
                 <div class="testimonial-item client bg-light my-4">
                     <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
                         <img class="img-fluid rounded" src="img/Dananjana.jpg" style="width: 60px; height: 60px;">
                         <div class="ps-4">
-                            <h4 class="text-primary mb-1">Dananjana Lakshan</h4>
+                            <h4 class="text-primary mb-1">D. Lakshan</h4>
                             <small class="text-uppercase">Managing Director</small><br>
                             <small class="text-uppercase"><b>NEWRO TOURS</b></small>
                         </div>
@@ -678,7 +684,7 @@
                     <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
                         <img class="img-fluid rounded" src="img/Warrick.jpg" style="width: 60px; height: 60px;">
                         <div class="ps-4">
-                            <h4 class="text-primary mb-1">Warrick Wadman</h4>
+                            <h4 class="text-primary mb-1">W. Wadman</h4>
                             <small class="text-uppercase">Chief Executive Officer</small><br>
                             <small class="text-uppercase"><b>CLEAN IN FUSION (USA)</b></small>
                         </div>
@@ -691,7 +697,7 @@
                     <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
                         <img class="img-fluid rounded" src="img/Chandrasiri.jpg" style="width: 60px; height: 60px;">
                         <div class="ps-4">
-                            <h4 class="text-primary mb-1">Chandrasiri Baladurage</h4>
+                            <h4 class="text-primary mb-1">C. Baladurage</h4>
                             <small class="text-uppercase">Managing Director</small><br>
                             <small class="text-uppercase"><b>FOREST ROCK AND PALM GARDEN HOTELS</b></small>
                         </div>
@@ -704,7 +710,7 @@
                     <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
                         <img class="img-fluid rounded" src="img/Henrik.jpg" style="width: 60px; height: 60px;">
                         <div class="ps-4">
-                            <h4 class="text-primary mb-1">Henrik Melder</h4>
+                            <h4 class="text-primary mb-1">H. Melder</h4>
                             <small class="text-uppercase">Head Consultant</small><br>
                             <small class="text-uppercase"><b>ROSHITA CONSULTANTS (DENMARK)</b></small>
                         </div>
@@ -717,7 +723,7 @@
                     <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
                         <img class="img-fluid rounded" src="img/Thilina.jpg" style="width: 60px; height: 60px;">
                         <div class="ps-4">
-                            <h4 class="text-primary mb-1">Thilina Perera</h4>
+                            <h4 class="text-primary mb-1">T. Perera</h4>
                             <small class="text-uppercase">Senior Engineer</small><br>
                             <small class="text-uppercase"><b>ICEMAN TECHNICAL SOLUTIONS</b></small>
                         </div>
@@ -730,7 +736,7 @@
                     <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
                         <img class="img-fluid rounded" src="img/indika.jpg" style="width: 60px; height: 60px;">
                         <div class="ps-4">
-                            <h4 class="text-primary mb-1">Indika Wijesundara</h4>
+                            <h4 class="text-primary mb-1">I. Wijesundara</h4>
                             <small class="text-uppercase">Managing Director</small><br>
                             <small class="text-uppercase"><b>SATHUTA INDUSTRY</b></small>
                         </div>

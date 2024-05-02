@@ -124,12 +124,12 @@
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">SMM Events</a>
                     <div class="dropdown-menu m-0">
-                        <a href="smm_su.php" class="dropdown-item">Sancharaka Udawa 2024</a>
-                        <a href="smm_hs.php" class="dropdown-item">Hotel Show colombo 2024</a>
-                        <a href="smm_fham.php" class="dropdown-item">FHAM 2024</a>
-                        <a href="smm_cafe.php" class="dropdown-item">Cafe 2024</a>
-                        <a href="smm_boat.php" class="dropdown-item">Boat and Marine Show 2023</a>
-                        <a href="smm_lanpak.php" class="dropdown-item">Lankapak 2023</a>
+                        <a href="smm_su.php" class="dropdown-item">Sancharaka Udawa </a>
+                        <a href="smm_hs.php" class="dropdown-item">Hotel Show colombo </a>
+                        <a href="smm_fham.php" class="dropdown-item">FHAM </a>
+                        <a href="smm_cafe.php" class="dropdown-item">Cafe </a>
+                        <a href="smm_boat.php" class="dropdown-item">Boat and Marine Show </a>
+                        <a href="smm_lanpak.php" class="dropdown-item">Lankapak </a>
                     </div>
                 </div>
                 <a href="contact.php" class="nav-item nav-link active">Contact</a>
@@ -173,7 +173,7 @@
 
     <!-- Contact Start -->
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
-        <?php print_r($msg); ?>
+        <!--?php print_r($msg); ?-->
         <div class="container py-5">
             <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
                 <h5 class="fw-bold text-primary text-uppercase">Contact Our Head Office</h5>
