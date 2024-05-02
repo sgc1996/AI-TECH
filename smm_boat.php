@@ -77,40 +77,43 @@
             <div class="navbar-nav ms-auto py-0">
                 <a href="index.php" class="nav-item nav-link ">Home</a>
                 <a href="about.php" class="nav-item nav-link">About</a>
-                <!-- Replace "Services" link with the service dropdown -->
-                <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" id="servicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Services</a>
-                    <ul class="dropdown-menu" aria-labelledby="servicesDropdown">
-                        <li>
-                            <h6 class="dropdown-header">Digital</h6>
-                            <a class="dropdown-item" href="service_webdesign.php">Web Design</a>
-                            <a class="dropdown-item" href="service_seo.php">SEO</a>
-                            <a class="dropdown-item" href="service_smm.php">Social Media Marketing</a>
-                            <a class="dropdown-item" href="service_smo.php">Social Media Optimization</a>
-                            <a class="dropdown-item" href="service_graphic.php">Graphic Design</a>
-                            <a class="dropdown-item" href="service_googleads.php">Google Ads</a>
-                            <a class="dropdown-item" href="service_leads.php">Lead Generation</a>
-                        </li>
-                        <li><hr class="dropdown-divider"></li>
-                        <li>
-                            <h6 class="dropdown-header">Develop</h6>
-                            <a class="dropdown-item" href="service_webapp.php">Web Application</a>
-                            <a class="dropdown-item" href="service_mobapp.php">Mobile Application</a>
-                        </li>
-                        <li><hr class="dropdown-divider"></li>
-                        <li>
-                            <h6 class="dropdown-header">Studio</h6>
-                            <a class="dropdown-item" href="service_video.php">Videography</a>
-                            <a class="dropdown-item" href="service_photo.php">Photography</a>
-                        </li>
-                    </ul>
+                <!--service dropdown -->
+
+        <div class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button"
+                aria-haspopup="true" aria-expanded="false">Services</a>
+            <div class="dropdown-menu services-dropdown" style="min-width: 600px;">
+                <div class="row" style="margin-left: 15px;">
+                    <div class="col-lg-4" style="border-right: 1px solid #ddd;">
+                     <h6 style="padding-left: 20px; background-color: #f8f9fa; color:#06A3DA;">Digital</h6>
+                        <a class="dropdown-item" href="service_webdesign.php">Web Design</a>
+                        <a class="dropdown-item" href="service_seo.php">SEO</a>
+                        <a class="dropdown-item" href="service_smm.php">SMM</a>
+                        <a class="dropdown-item" href="service_smo.php">SMO</a>
+                        <a class="dropdown-item" href="service_graphic.php">Graphic Design</a>
+                        <a class="dropdown-item" href="service_googleads.php">Google Ads</a>
+                        <a class="dropdown-item" href="service_leads.php">Lead Generation</a>
+                    </div>
+                    <div class="col-lg-4" style="border-right: 1px solid #ddd; ">
+                        <h6 style="padding-left: 20px; background-color: #f8f9fa; color:#06A3DA;">Develop</h6>
+                        <a class="dropdown-item" href="service_webapp.php">Web Application</a>
+                        <a class="dropdown-item" href="service_mobapp.php">Mobile Application</a>
+                    </div>
+                    <div class="col-lg-4">
+                        <h6 style="padding-left: 20px; background-color: #f8f9fa; color:#06A3DA;">Studio</h6>
+                        <a class="dropdown-item" href="service_video.php">Videography</a>
+                        <a class="dropdown-item" href="service_photo.php">Photography</a>
+                    </div>
                 </div>
-                <!-- End of service dropdown -->
+            </div>
+        </div>
+
+<!-- End of service dropdown -->
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link  dropdown-toggle" data-bs-toggle="dropdown">Projects</a>
                     <div class="dropdown-menu m-0">
                         <a href="webdesign.php" class="dropdown-item">Websites</a>
-                        <a href="social_media.php" class="dropdown-item">Socal Media</a>
+                        <a href="social_media.php" class="dropdown-item">Social Media</a>
                         <a href="mobile_app.php" class="dropdown-item">Mobile Applications</a>
                         <a href="web_app.php" class="dropdown-item">Web Applications</a>
                         
@@ -205,7 +208,7 @@
                                 <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="smm_hs.php"><i class="bi bi-arrow-right me-2"></i>Hotel Show Colombo 2024</a>
                                 <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="smm_fham.php"><i class="bi bi-arrow-right me-2"></i>Fham 2024</a>
                                 <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="smm_cafe.php"><i class="bi bi-arrow-right me-2"></i>Cafe 2024</a>
-                                <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="smm_boat.php"><i class="bi bi-arrow-right me-2"></i>Boat and Marne Show 2023</a>
+                                <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="smm_boat.php"><i class="bi bi-arrow-right me-2"></i>Boat and Marine Show 2023</a>
                                 <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="smm_lanpak.php"><i class="bi bi-arrow-right me-2"></i>Lankapak 2023</a>
                             
                                 
