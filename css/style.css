@@ -560,11 +560,25 @@ h6,
     box-shadow: none !important;
 }
 
-/** Social icon on social media **/
-.social-icons a {
-    margin: 0 10px; /* Adjust the gap between icons */
+/*** media for navigation dropdown ***/
+
+@media (min-width: 990px) {
+    .services-dropdown {
+        min-width:600px !important;
+    }
+    
 }
 
-.social-icons i {
-    font-size: 30px; /* Adjust the size of icons */
+/*** media for navigation font color ***/
+@media (max-width: 991px) {
+    .navbar-dark .navbar-nav .nav-link,
+    .navbar-dark .navbar-nav .nav-link.show,
+    .sticky-top.navbar-dark .navbar-nav .nav-link {
+        color: #ffffff !important; 
+    }
+}
+
+/***Navigation active link ***/
+.navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link.active {
+    color: var(--primary) !important;
 }
