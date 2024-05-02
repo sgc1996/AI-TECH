@@ -82,7 +82,7 @@
         <div class="nav-item dropdown">
             <a class="nav-link active dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button"
                 aria-haspopup="true" aria-expanded="false">Services</a>
-            <div class="dropdown-menu services-dropdown" style="min-width: 600px;">
+            <div class="dropdown-menu services-dropdown">
                 <div class="row" style="margin-left: 15px;">
                     <div class="col-lg-4" style="border-right: 1px solid #ddd;">
                      <h6 style="padding-left: 20px; background-color: #f8f9fa; color:#06A3DA;">Digital</h6>
