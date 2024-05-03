@@ -178,7 +178,7 @@
                         <!-- Blog Detail Start -->
                         <div class="mb-5 py-5">
                             <h1 class="mb-4">Learning Management System</h1>
-                            <img class="img-fluid w-100 rounded mb-5" src="img/lms.jpg" alt="">
+                            <img class="img-fluid w-100 rounded mb-5" src="img/mobile/mob_1.png" alt="">
                             <div class="services-text-block">
                                 <strong class="bold-text"><em class="bluelead">Work On:</em></strong>&nbsp;2021 August – 2021 December<br>
                             </div><br>
@@ -246,7 +246,7 @@
                         <!-- Blog Detail Start -->
                         <div class="mb-5 py-5">
                             <h1 class="mb-4">Beats By You – Music Store</h1>
-                            <img class="img-fluid w-100 rounded mb-5" src="img/Beats By You.jpg" alt="">
+                            <img class="img-fluid w-100 rounded mb-5" src="img/webapp/webapp_2.png" alt="">
                             <div class="services-text-block">
                                 <strong class="bold-text"><em class="bluelead">Work On:</em></strong>&nbsp;2020 August – 2020 November<br>
                             </div><br>
@@ -312,7 +312,7 @@
                         <!-- Blog Detail Start -->
                         <div class="mb-5 py-5">
                             <h1 class="mb-4">Aleased Musics</h1>
-                            <img class="img-fluid w-100 rounded mb-5" src="img/Aleased Musics.jpg" alt="">
+                            <img class="img-fluid w-100 rounded mb-5" src="img/webapp/webapp_3.png" alt="">
                             <div class="services-text-block">
                                 <strong class="bold-text"><em class="bluelead">Work On:</em></strong>&nbsp;2020 April – 2020 June<br>
                             </div><br>
@@ -378,7 +378,7 @@
                         <!-- Blog Detail Start -->
                         <div class="mb-5 py-5">
                             <h1 class="mb-4">Customized CRM System</h1>
-                            <img class="img-fluid w-100 rounded mb-5" src="img/CRM System.jpg" alt="">
+                            <img class="img-fluid w-100 rounded mb-5" src="img/webapp/webapp_4.png" alt="">
                             <!-- <div class="services-text-block">
                             <strong class="bold-text"><em class="bluelead">URL:</em></strong>&nbsp;<a href="northernbiofules.com" target="_blank" style="color:#6b6a75;">northernbiofules.com</a><br>
                         </div><br> -->
@@ -444,7 +444,7 @@
                         <!-- Blog Detail Start -->
                         <div class="mb-5 py-5">
                             <h1 class="mb-4">Art Print On Demand</h1>
-                            <img class="img-fluid w-100 rounded mb-5" src="img/Art Print On Demand.jpg" alt="">
+                            <img class="img-fluid w-100 rounded mb-5" src="img/webapp/webapp_5.png" alt="">
                             <div class="services-text-block">
                                 <strong class="bold-text"><em class="bluelead">URL:</em></strong>&nbsp;<a href="http://artprintondemand.com.au/" target="_blank" style="color:#6b6a75;">http://artprintondemand.com.au/</a><br>
                             </div><br>
@@ -513,7 +513,7 @@
                         <!-- Blog Detail Start -->
                         <div class="mb-5 py-5">
                             <h1 class="mb-4">Kangy Labs Educations</h1>
-                            <img class="img-fluid w-100 rounded mb-5" src="img/Kangy Labs Educations.jpg" alt="">
+                            <img class="img-fluid w-100 rounded mb-5" src="img/webapp/webapp_6.png" alt="">
                             <div class="services-text-block">
                                 <strong class="bold-text"><em class="bluelead">Work On:</em></strong>&nbsp;2020 July – 2020 October<br>
                             </div><br>
@@ -581,7 +581,7 @@
                         <!-- Blog Detail Start -->
                         <div class="mb-5 py-5">
                             <h1 class="mb-4">A I Tech HMS</h1>
-                            <img class="img-fluid w-100 rounded mb-5" src="img/HMS.jpg" alt="">
+                            <img class="img-fluid w-100 rounded mb-5" src="img/webapp/webapp_7.png" alt="">
                             <div class="services-text-block">
                                 <strong class="bold-text"><em class="bluelead">URL:</em></strong>&nbsp;<a href="https://hotel-management-system-829d8.firebaseapp.com/login" target="_blank" style="color:#6b6a75;">https://hotel-management-system-829d8.firebaseapp.com/login</a><br>
                             </div><br>

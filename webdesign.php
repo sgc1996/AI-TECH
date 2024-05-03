@@ -219,6 +219,16 @@
                     </div>
                     <!-- Blog Detail End -->
                 </div>
+
+                <div class="col-lg-6">
+                    <!-- Blog Detail Start -->
+                    <div class="text-center"> <!-- Added text-center to center align the content -->
+                        <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_palm.png" alt=""></a>
+                        <a href="#" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> <!-- The link is centered along with its parent content -->
+                    </div>
+                    <!-- Blog Detail End -->
+                </div>
+
             </div>
         </div>
     </div>
@@ -230,25 +240,8 @@
     <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
         <div class="container">
             <div class="row g-5 justify-content-center"> <!-- Added justify-content-center to center align the content -->
-                <h1 class="mb-4 text-center">Cooperate Websites</h1> <!-- Added text-center to center align the heading -->
-                <div class="col-lg-6">
-                    <!-- Blog Detail Start -->
-                    <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://www.sathutaceylon.com/index.html" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_sceylon.png" alt=""></a>
-                        <a href="https://www.sathutaceylon.com/index.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> <!-- The link is centered along with its parent content -->
-                    </div>
-                    <!-- Blog Detail End -->
-                </div>
-
-                <div class="col-lg-6">
-                    <!-- Blog Detail Start -->
-                    <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="https://sathutaindustry.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_sind.png" alt=""></a>
-                        <a href="https://sathutaindustry.lk/" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> <!-- The link is centered along with its parent content -->
-                    </div>
-                    <!-- Blog Detail End -->
-                </div>
-
+                <h1 class="mb-4 text-center">Corporate Websites</h1> <!-- Added text-center to center align the heading -->
+                
                 <div class="col-lg-6">
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
@@ -267,6 +260,35 @@
                     <!-- Blog Detail End -->
                 </div>
 
+                
+                <div class="col-lg-6">
+                    <!-- Blog Detail Start -->
+                    <div class="text-center"> <!-- Added text-center to center align the content -->
+                        <a href="https://sathutagroup.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_sgroup.png" alt=""></a>
+                        <a href="https://sathutagroup.com/" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> <!-- The link is centered along with its parent content -->
+                    </div>
+                    <!-- Blog Detail End -->
+                </div>
+
+                <div class="col-lg-6">
+                    <!-- Blog Detail Start -->
+                    <div class="text-center"> <!-- Added text-center to center align the content -->
+                        <a href="https://www.sathutaceylon.com/index.html" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_sceylon.png" alt=""></a>
+                        <a href="https://www.sathutaceylon.com/index.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> <!-- The link is centered along with its parent content -->
+                    </div>
+                    <!-- Blog Detail End -->
+                </div>
+
+                <div class="col-lg-6">
+                    <!-- Blog Detail Start -->
+                    <div class="text-center"> <!-- Added text-center to center align the content -->
+                        <a href="https://sathutaindustry.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_sind.png" alt=""></a>
+                        <a href="https://sathutaindustry.lk/" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> <!-- The link is centered along with its parent content -->
+                    </div>
+                    <!-- Blog Detail End -->
+                </div>
+
+              
                 <div class="col-lg-6">
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->

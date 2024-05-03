@@ -179,68 +179,9 @@
                
                 
 
-<div class="col-lg-4">
-    <!-- Blog Detail Start -->
-    <div class="text-center"> <!-- Added text-center to center align the content -->
-        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_newro.png" alt=""></a>
-        <p class="text-center-social">Newro Tours</p> <!-- Added text-center to center align the paragraph -->
-        <div class="social-icons"> <!-- Added a container for social icons -->
-            <a href="https://www.facebook.com/NewroTours" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
-            <a href="https://www.instagram.com/newro_tours/" target="_blank" style="margin: 0 10px;"><i class="fab fa-instagram" style="font-size: 30px;"></i></a>
-            
-        </div>
-       
-    </div>
-    <!-- Blog Detail End -->
-</div>
 
 
-
-
-<div class="col-lg-4">
-    <!-- Blog Detail Start -->
-    <div class="text-center"> <!-- Added text-center to center align the content -->
-        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_gam.png" alt=""></a>
-        <p class="text-center-social">Gamunu Travels</p> <!-- Added text-center to center align the paragraph -->
-        <div class="social-icons"> <!-- Added a container for social icons -->
-            <a href="https://www.facebook.com/GamunuTravels" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
-            
-        </div>
-       
-    </div>
-    <!-- Blog Detail End -->
-</div>
-
-    <div class="col-lg-4">
-    <!-- Blog Detail Start -->
-    <div class="text-center"> <!-- Added text-center to center align the content -->
-        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_gtl.png" alt=""></a>
-        <p class="text-center-social">GT Leisure</p> <!-- Added text-center to center align the paragraph -->
-        <div class="social-icons"> <!-- Added a container for social icons -->
-            <a href="https://www.facebook.com/gtleisure" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
-            <a href="https://www.instagram.com/gt.leisure/" target="_blank" style="margin: 0 10px;"><i class="fab fa-instagram" style="font-size: 30px;"></i></a>
-        </div>
-       
-    </div>
-    <!-- Blog Detail End -->
-</div>
-
-<div class="col-lg-4">
-    <!-- Blog Detail Start -->
-    <div class="text-center"> <!-- Added text-center to center align the content -->
-        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_lets.png" alt=""></a>
-        <p class="text-center-social">Lest's Fly</p> <!-- Added text-center to center align the paragraph -->
-        <div class="social-icons"> <!-- Added a container for social icons -->
-            <a href="httpshttps://www.facebook.com/Letsfly.lk" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
-            <a href="https://www.instagram.com/letsfly.lk/" target="_blank" style="margin: 0 10px;"><i class="fab fa-instagram" style="font-size: 30px;"></i></a>
-           
-        </div>
-       
-    </div>
-    <!-- Blog Detail End -->
-</div>
-
-<div class="col-lg-4">
+            <div class="col-lg-4">
     <!-- Blog Detail Start -->
     <div class="text-center"> <!-- Added text-center to center align the content -->
         <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_su.png" alt=""></a>
@@ -294,6 +235,64 @@
             <a href="https://www.facebook.com/profile.php?id=100067105736223" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
             <a href="https://www.instagram.com/hotelshowcolombo/" target="_blank" style="margin: 0 10px;"><i class="fab fa-instagram" style="font-size: 30px;"></i></a>
             <a href="https://lk.linkedin.com/in/hotel-show-colombo-sri-lanka-78a271167" target="_blank" style="margin: 0 10px;"><i class="fab fa-linkedin" style="font-size: 30px;"></i></a>
+        </div>
+       
+    </div>
+    <!-- Blog Detail End -->
+</div>
+            
+<div class="col-lg-4">
+    <!-- Blog Detail Start -->
+    <div class="text-center"> <!-- Added text-center to center align the content -->
+        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_newro.png" alt=""></a>
+        <p class="text-center-social">Newro Tours</p> <!-- Added text-center to center align the paragraph -->
+        <div class="social-icons"> <!-- Added a container for social icons -->
+            <a href="https://www.facebook.com/NewroTours" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
+            <a href="https://www.instagram.com/newro_tours/" target="_blank" style="margin: 0 10px;"><i class="fab fa-instagram" style="font-size: 30px;"></i></a>
+            
+        </div>
+       
+    </div>
+    <!-- Blog Detail End -->
+</div>
+
+<div class="col-lg-4">
+    <!-- Blog Detail Start -->
+    <div class="text-center"> <!-- Added text-center to center align the content -->
+        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_gam.png" alt=""></a>
+        <p class="text-center-social">Gamunu Travels</p> <!-- Added text-center to center align the paragraph -->
+        <div class="social-icons"> <!-- Added a container for social icons -->
+            <a href="https://www.facebook.com/GamunuTravels" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
+            
+        </div>
+       
+    </div>
+    <!-- Blog Detail End -->
+</div>
+
+    <div class="col-lg-4">
+    <!-- Blog Detail Start -->
+    <div class="text-center"> <!-- Added text-center to center align the content -->
+        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_gtl.png" alt=""></a>
+        <p class="text-center-social">GT Leisure</p> <!-- Added text-center to center align the paragraph -->
+        <div class="social-icons"> <!-- Added a container for social icons -->
+            <a href="https://www.facebook.com/gtleisure" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
+            <a href="https://www.instagram.com/gt.leisure/" target="_blank" style="margin: 0 10px;"><i class="fab fa-instagram" style="font-size: 30px;"></i></a>
+        </div>
+       
+    </div>
+    <!-- Blog Detail End -->
+</div>
+
+<div class="col-lg-4">
+    <!-- Blog Detail Start -->
+    <div class="text-center"> <!-- Added text-center to center align the content -->
+        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_lets.png" alt=""></a>
+        <p class="text-center-social">Lest's Fly</p> <!-- Added text-center to center align the paragraph -->
+        <div class="social-icons"> <!-- Added a container for social icons -->
+            <a href="httpshttps://www.facebook.com/Letsfly.lk" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
+            <a href="https://www.instagram.com/letsfly.lk/" target="_blank" style="margin: 0 10px;"><i class="fab fa-instagram" style="font-size: 30px;"></i></a>
+           
         </div>
        
     </div>
