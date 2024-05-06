@@ -186,41 +186,6 @@
     <p>Stay tuned as we embark on this incredible journey together, bringing you the latest updates and insider insights from Café 2024: Culinary Art Food Expo!</p>
 </div>
 <!-- Blog Detail End -->
-<div class="row g-5 justify-content-center"> <!-- Added justify-content-center to center align the content -->
-              
-              <div class="col-lg-6">
-                  <!-- Blog Detail Start -->
-                  <div class="text-center"> <!-- Added text-center to center align the content -->
-                      <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/cafe-1.jpg" alt=""></a>                  
-                  </div>
-                  <!-- Blog Detail End -->
-              </div>
-
-              <div class="col-lg-6">
-                  <!-- Blog Detail Start -->
-                  <div class="text-center"> <!-- Added text-center to center align the content -->
-                      <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/cafe-2.jpg" alt=""></a>
-                  </div>
-                  <!-- Blog Detail End -->
-              </div>
-              <div class="col-lg-6">
-                  <!-- Blog Detail Start -->
-                  <div class="text-center"> <!-- Added text-center to center align the content -->
-                      <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/cafe-3.jpg" alt=""></a>                  
-                  </div>
-                  <!-- Blog Detail End -->
-              </div>
-
-              <div class="col-lg-6">
-                  <!-- Blog Detail Start -->
-                  <div class="text-center"> <!-- Added text-center to center align the content -->
-                      <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/cafe-4.jpg" alt=""></a>
-                  </div>
-                  <!-- Blog Detail End -->
-              </div>
-
-           
-          </div>
 
 </div>
 
@@ -277,6 +242,52 @@
         </div>
     </section>
     <!-- Blog End -->
+
+    <!-- Blog Start -->
+<section id="NT" style="padding-top:100px;">
+    <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container">
+            <div class="row g-5 justify-content-center"> <!-- Added justify-content-center to center align the content -->
+              
+                <div class="col-lg-6">
+                    <!-- Blog Detail Start -->
+                    <div class="text-center"> <!-- Added text-center to center align the content -->
+                        <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/cafe-1.jpg" alt=""></a>                  
+                    </div>
+                    <!-- Blog Detail End -->
+                </div>
+
+                <div class="col-lg-6">
+                    <!-- Blog Detail Start -->
+                    <div class="text-center"> <!-- Added text-center to center align the content -->
+                        <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/cafe-2.jpg" alt=""></a>
+                    </div>
+                    <!-- Blog Detail End -->
+                </div>
+                <div class="col-lg-6">
+                    <!-- Blog Detail Start -->
+                    <div class="text-center"> <!-- Added text-center to center align the content -->
+                        <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/cafe-3.jpg" alt=""></a>                  
+                    </div>
+                    <!-- Blog Detail End -->
+                </div>
+
+                <div class="col-lg-6">
+                    <!-- Blog Detail Start -->
+                    <div class="text-center"> <!-- Added text-center to center align the content -->
+                        <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/cafe-4.jpg" alt=""></a>
+                    </div>
+                    <!-- Blog Detail End -->
+                </div>
+
+             
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Blog End -->
+
+
    
 
     <!-- Footer Start -->

@@ -177,21 +177,28 @@
             <div class="container">
                 <div class="row g-5">
                 <div class="col-lg-8">
-    <!-- Blog Detail Start -->
+   <!-- Blog Detail Start -->
 <div class="mb-5 py-5">
-    <h1 class="mb-4">Exciting Update: AI Technologies Named Official Social Media Partner for Café 2024: Culinary Art Food Expo!</h1>
-    <p>We are thrilled to announce that AI Technologies Pvt Ltd has been chosen as the official social media marketing partner for the highly anticipated Café 2024: Culinary Art Food Expo! This partnership marks an exciting opportunity for us to deliver fresh updates, highlights, and exclusive behind-the-scenes content from this extraordinary event to our audience.</p>
-    <p>On April 9th, 2024, the atmosphere at Galadari Hotel, Colombo 01, was electric as our dedicated team, alongside esteemed partners and renowned culinary experts, unveiled what promises to be an unforgettable gastronomic experience. From mouthwatering tastings to captivating conversations, the Media Launch event paved the way for an extraordinary showcase of culinary brilliance.</p>
-    <p>Here are some captivating glimpses from the event, encapsulating the lively spirit and anticipation awaiting attendees at Café 2024: Culinary Art Food Expo! [Include a selection of engaging photos from the event]</p>
-    <p>Stay tuned as we embark on this incredible journey together, bringing you the latest updates and insider insights from Café 2024: Culinary Art Food Expo!</p>
+    <h1 class="mb-4">🌟 Major Milestone Achieved: Oproma Cosmetics Website Project 🎉</h1>
+    <p>We are delighted to announce a momentous achievement: the finalization of the agreement for the Oproma Cosmetics Website Project.</p>
+    <p>This significant milestone underscores our commitment to excellence in digital marketing.</p>
+    <p>Signed by:</p>
+    <ul>
+        <li>🤝 Oproma Cosmetics: Mr. Pradeep Mapalagama</li>
+        <li>🤝 A.I Technologies (PVT) Ltd: Mr. Amesh Madhusankha (Managing Director)</li>
+    </ul>
+    <p>Date of Agreement: October 03, 2023</p>
+    <p>This milestone serves as a testament to the dedication and collaborative spirit of our outstanding team. Their relentless efforts have made this achievement possible.</p>
+    <p>Keep an eye out for more updates as we venture into this exciting new phase of expansion and innovation.</p>
 </div>
 <!-- Blog Detail End -->
+
 <div class="row g-5 justify-content-center"> <!-- Added justify-content-center to center align the content -->
               
               <div class="col-lg-6">
                   <!-- Blog Detail Start -->
                   <div class="text-center"> <!-- Added text-center to center align the content -->
-                      <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/cafe-1.jpg" alt=""></a>                  
+                      <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/blog/oproma-1.jpeg" alt=""></a>                  
                   </div>
                   <!-- Blog Detail End -->
               </div>
@@ -199,14 +206,14 @@
               <div class="col-lg-6">
                   <!-- Blog Detail Start -->
                   <div class="text-center"> <!-- Added text-center to center align the content -->
-                      <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/cafe-2.jpg" alt=""></a>
+                      <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/blog/oproma-2.jpeg" alt=""></a>
                   </div>
                   <!-- Blog Detail End -->
               </div>
               <div class="col-lg-6">
                   <!-- Blog Detail Start -->
                   <div class="text-center"> <!-- Added text-center to center align the content -->
-                      <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/cafe-3.jpg" alt=""></a>                  
+                      <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/blog/oproma-3.jpeg" alt=""></a>                  
                   </div>
                   <!-- Blog Detail End -->
               </div>
@@ -214,13 +221,15 @@
               <div class="col-lg-6">
                   <!-- Blog Detail Start -->
                   <div class="text-center"> <!-- Added text-center to center align the content -->
-                      <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/cafe-4.jpg" alt=""></a>
+                      <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/blog/oproma-4.jpeg" alt=""></a>
                   </div>
                   <!-- Blog Detail End -->
               </div>
 
            
           </div>
+
+
 
 </div>
 
@@ -277,6 +286,10 @@
         </div>
     </section>
     <!-- Blog End -->
+
+    
+
+
    
 
     <!-- Footer Start -->

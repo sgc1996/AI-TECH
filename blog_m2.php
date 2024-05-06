@@ -177,13 +177,13 @@
             <div class="container">
                 <div class="row g-5">
                 <div class="col-lg-8">
-    <!-- Blog Detail Start -->
+   <!-- Blog Detail Start -->
 <div class="mb-5 py-5">
-    <h1 class="mb-4">Exciting Update: AI Technologies Named Official Social Media Partner for Café 2024: Culinary Art Food Expo!</h1>
-    <p>We are thrilled to announce that AI Technologies Pvt Ltd has been chosen as the official social media marketing partner for the highly anticipated Café 2024: Culinary Art Food Expo! This partnership marks an exciting opportunity for us to deliver fresh updates, highlights, and exclusive behind-the-scenes content from this extraordinary event to our audience.</p>
-    <p>On April 9th, 2024, the atmosphere at Galadari Hotel, Colombo 01, was electric as our dedicated team, alongside esteemed partners and renowned culinary experts, unveiled what promises to be an unforgettable gastronomic experience. From mouthwatering tastings to captivating conversations, the Media Launch event paved the way for an extraordinary showcase of culinary brilliance.</p>
-    <p>Here are some captivating glimpses from the event, encapsulating the lively spirit and anticipation awaiting attendees at Café 2024: Culinary Art Food Expo! [Include a selection of engaging photos from the event]</p>
-    <p>Stay tuned as we embark on this incredible journey together, bringing you the latest updates and insider insights from Café 2024: Culinary Art Food Expo!</p>
+    <h1 class="mb-4">Get Ready for an Unforgettable Experience: Sancharaka Udawa2024!</h1>
+    <p>We are excited to announce our partnership as the official digital marketing partner for the upcoming Sancharaka Udawa2024! Taking place on May 17th and 18th, this event promises to be an unforgettable experience for all attendees.</p>
+    <p>The media launch for the exhibition was held on February 28th, 2024, at the Sheraton Colombo, generating tremendous anticipation and excitement for the main event. Our dedicated team, alongside esteemed partners including the Sri Lanka Tourism Promotion Bureau, the Sri Lanka Association of Inbound Tour Operations, CDC Events and Travels, and Aitken Spence Travels Ltd, set the stage for what will be an extraordinary showcase of Sri Lanka's travel and tourism offerings.</p>
+    <p>Here are some captivating snapshots from the media launch, giving you a taste of the energy and enthusiasm that will define the Sancharaka Udawa2024! [Include engaging photos from the media launch]</p>
+    <p>Stay tuned as we gear up for the main event on May 17th and 18th, bringing you exclusive insights, updates, and behind-the-scenes glimpses from the Sancharaka Udawa2024!</p>
 </div>
 <!-- Blog Detail End -->
 <div class="row g-5 justify-content-center"> <!-- Added justify-content-center to center align the content -->
@@ -191,7 +191,7 @@
               <div class="col-lg-6">
                   <!-- Blog Detail Start -->
                   <div class="text-center"> <!-- Added text-center to center align the content -->
-                      <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/cafe-1.jpg" alt=""></a>                  
+                      <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/blog/su-1.jpg" alt=""></a>                  
                   </div>
                   <!-- Blog Detail End -->
               </div>
@@ -199,14 +199,14 @@
               <div class="col-lg-6">
                   <!-- Blog Detail Start -->
                   <div class="text-center"> <!-- Added text-center to center align the content -->
-                      <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/cafe-2.jpg" alt=""></a>
+                      <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/blog/su-2.jpg" alt=""></a>
                   </div>
                   <!-- Blog Detail End -->
               </div>
               <div class="col-lg-6">
                   <!-- Blog Detail Start -->
                   <div class="text-center"> <!-- Added text-center to center align the content -->
-                      <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/cafe-3.jpg" alt=""></a>                  
+                      <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/blog/su-3.jpg" alt=""></a>                  
                   </div>
                   <!-- Blog Detail End -->
               </div>
@@ -214,7 +214,7 @@
               <div class="col-lg-6">
                   <!-- Blog Detail Start -->
                   <div class="text-center"> <!-- Added text-center to center align the content -->
-                      <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/cafe-4.jpg" alt=""></a>
+                      <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/blog/su-4.jpg" alt=""></a>
                   </div>
                   <!-- Blog Detail End -->
               </div>
@@ -277,6 +277,10 @@
         </div>
     </section>
     <!-- Blog End -->
+
+
+
+
    
 
     <!-- Footer Start -->
