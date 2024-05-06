@@ -122,12 +122,12 @@
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link active dropdown-toggle" data-bs-toggle="dropdown">SMM Events</a>
                     <div class="dropdown-menu m-0">
-                        <a href="smm_su.php" class="dropdown-item">Sancharaka Udawa 2024</a>
-                        <a href="smm_hs.php" class="dropdown-item">Hotel Show colombo 2024</a>
-                        <a href="smm_fham.php" class="dropdown-item">FHAM 2024</a>
-                        <a href="smm_cafe.php" class="dropdown-item">Cafe 2024</a>
-                        <a href="smm_boat.php" class="dropdown-item">Boat and Marine Show 2023</a>
-                        <a href="smm_lanpak.php" class="dropdown-item">Lankapak 2023</a>
+                        <a href="smm_su.php" class="dropdown-item">Sancharaka Udawa </a>
+                        <a href="smm_hs.php" class="dropdown-item">Hotel Show colombo </a>
+                        <a href="smm_fham.php" class="dropdown-item">FHAM </a>
+                        <a href="smm_cafe.php" class="dropdown-item">Cafe </a>
+                        <a href="smm_boat.php" class="dropdown-item">Boat and Marine Show </a>
+                        <a href="smm_lanpak.php" class="dropdown-item">Lankapak </a>
                     </div>
                 </div>
                 <a href="contact.php" class="nav-item nav-link">Contact</a>
@@ -241,7 +241,7 @@
             <div class="col-lg-6">
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/su-1.jpg" alt=""></a>                  
+                        <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/lankapak-1.jpg" alt=""></a>                  
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -249,14 +249,14 @@
                 <div class="col-lg-6">
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/su-2.jpg" alt=""></a>
+                        <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/lankapak-2.jpg" alt=""></a>
                     </div>
                     <!-- Blog Detail End -->
                 </div>
                 <div class="col-lg-6">
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/su-3.jpg" alt=""></a>                  
+                        <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/lankapak-3.jpg" alt=""></a>                  
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -264,7 +264,7 @@
                 <div class="col-lg-6">
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
-                        <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/su-4.jpg" alt=""></a>
+                        <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/lankapak-4.jpg" alt=""></a>
                     </div>
                     <!-- Blog Detail End -->
                 </div>

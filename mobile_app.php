@@ -122,12 +122,12 @@
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">SMM Events</a>
                     <div class="dropdown-menu m-0">
-                        <a href="smm_su.php" class="dropdown-item">Sancharaka Udawa 2024</a>
-                        <a href="smm_hs.php" class="dropdown-item">Hotel Show colombo 2024</a>
-                        <a href="smm_fham.php" class="dropdown-item">FHAM 2024</a>
-                        <a href="smm_cafe.php" class="dropdown-item">Cafe 2024</a>
-                        <a href="smm_boat.php" class="dropdown-item">Boat and Marine Show 2023</a>
-                        <a href="smm_lanpak.php" class="dropdown-item">Lankapak 2023</a>
+                        <a href="smm_su.php" class="dropdown-item">Sancharaka Udawa </a>
+                        <a href="smm_hs.php" class="dropdown-item">Hotel Show colombo </a>
+                        <a href="smm_fham.php" class="dropdown-item">FHAM </a>
+                        <a href="smm_cafe.php" class="dropdown-item">Cafe </a>
+                        <a href="smm_boat.php" class="dropdown-item">Boat and Marine Show </a>
+                        <a href="smm_lanpak.php" class="dropdown-item">Lankapak </a>
                     </div>
                 </div>
                 <a href="contact.php" class="nav-item nav-link">Contact</a>
@@ -178,7 +178,7 @@
                         <!-- Blog Detail Start -->
                         <div class="mb-5 py-5">
                             <h1 class="mb-4">Learning Management System</h1>
-                            <img class="img-fluid w-100 rounded mb-5" src="img/lms.jpg" alt="">
+                            <img class="img-fluid w-100 rounded mb-5" src="img/mobile/mob_1.png" alt="">
                             <div class="services-text-block">
                                 <strong class="bold-text"><em class="bluelead">Work On:</em></strong>&nbsp;2021 August – 2021 December<br>
                             </div><br>
@@ -246,7 +246,7 @@
                         <!-- Blog Detail Start -->
                         <div class="mb-5 py-5">
                             <h1 class="mb-4">Elephant</h1>
-                            <img class="img-fluid w-100 rounded mb-5" src="img/Elephant.jpg" alt="">
+                            <img class="img-fluid w-100 rounded mb-5" src="img/mobile/mob_2.png" alt="">
                             <div class="services-text-block">
                                 <strong class="bold-text"><em class="bluelead">Work On:</em></strong>&nbsp;2022 February – 2022 June<br>
                             </div><br>
@@ -316,7 +316,7 @@
                         <!-- Blog Detail Start -->
                         <div class="mb-5 py-5">
                             <h1 class="mb-4">Boost Training</h1>
-                            <img class="img-fluid w-100 rounded mb-5" src="img/Boost Training.jpg" alt="">
+                            <img class="img-fluid w-100 rounded mb-5" src="img/mobile/mob_3.png" alt="">
                             <div class="services-text-block">
                                 <strong class="bold-text"><em class="bluelead">Work On:</em></strong>&nbsp;2022 February – 2022 June<br>
                             </div><br>
@@ -386,7 +386,7 @@
                         <!-- Blog Detail Start -->
                         <div class="mb-5 py-5">
                             <h1 class="mb-4">Positively Paid®</h1>
-                            <img class="img-fluid w-100 rounded mb-5" src="img/Positively paid.jpg" alt="">
+                            <img class="img-fluid w-100 rounded mb-5" src="img/mobile/mob_4.png" alt="">
                             <div class="services-text-block">
                                 <strong class="bold-text"><em class="bluelead">Work On:</em></strong>&nbsp;2021 January – 2021 March<br>
                             </div><br>
@@ -454,7 +454,7 @@
                         <!-- Blog Detail Start -->
                         <div class="mb-5 py-5">
                             <h1 class="mb-4">Tic Tac Toe</h1>
-                            <div style="height: 50%;"><img class="img-fluid w-100 rounded mb-5" src="img/Tic Tac Toe.jpg" alt=""></div>
+                            <div style="height: 50%;"><img class="img-fluid w-100 rounded mb-5" src="img/mobile/mob_5.png" alt=""></div>
                             <div class="services-text-block">
                                 <strong class="bold-text"><em class="bluelead">Work On:</em></strong>&nbsp;2021 April – 2021 August<br>
                             </div><br>
@@ -521,7 +521,7 @@
                         <!-- Blog Detail Start -->
                         <div class="mb-5 py-5">
                             <h1 class="mb-4">Handy Biller</h1>
-                            <img class="img-fluid w-100 rounded mb-5" src="img/Handy Biller.jpg" alt="">
+                            <img class="img-fluid w-100 rounded mb-5" src="img/mobile/mob_6.png" alt="">
                             <div class="services-text-block">
                                 <strong class="bold-text"><em class="bluelead">Work On:</em></strong>&nbsp;2021 May – 2021 July<br>
                             </div><br>
@@ -588,7 +588,7 @@
                         <!-- Blog Detail Start -->
                         <div class="mb-5 py-5">
                             <h1 class="mb-4">Gifter®</h1>
-                            <img class="img-fluid w-100 rounded mb-5" src="img/Gifter.jpg" alt="">
+                            <img class="img-fluid w-100 rounded mb-5" src="img/mobile/mob_7.png" alt="">
                             <div class="services-text-block">
                                 <strong class="bold-text"><em class="bluelead">Work On:</em></strong>&nbsp;2020 May – 2020 August<br>
                             </div><br>
@@ -654,7 +654,7 @@
                         <!-- Blog Detail Start -->
                         <div class="mb-5 py-5">
                             <h1 class="mb-4">Chatting App</h1>
-                            <img class="img-fluid w-100 rounded mb-5" src="img/Chatting App.jpg" alt="">
+                            <img class="img-fluid w-100 rounded mb-5" src="img/mobile/mob_8.png" alt="">
                             <div class="services-text-block">
                                 <strong class="bold-text"><em class="bluelead">Work On:</em></strong>&nbsp;2020 June – 2020 September<br>
                             </div><br>
@@ -721,7 +721,7 @@
                         <!-- Blog Detail Start -->
                         <div class="mb-5 py-5">
                             <h1 class="mb-4">Bedtime Story Time</h1>
-                            <img class="img-fluid w-100 rounded mb-5" src="img/Bedtime Story Time.jpg" alt="">
+                            <img class="img-fluid w-100 rounded mb-5" src="img/mobile/mob_9.png" alt="">
                             <div class="services-text-block">
                                 <strong class="bold-text"><em class="bluelead">Work On:</em></strong>&nbsp;2020 March – 2020 July<br>
                             </div><br>
@@ -789,7 +789,7 @@
                         <!-- Blog Detail Start -->
                         <div class="mb-5 py-5">
                             <h1 class="mb-4">Picker®</h1>
-                            <img class="img-fluid w-100 rounded mb-5" src="img/Picker.jpg" alt="">
+                            <img class="img-fluid w-100 rounded mb-5" src="img/mobile/mob_10.png" alt="">
                             <div class="services-text-block">
                                 <strong class="bold-text"><em class="bluelead">Work On:</em></strong>&nbsp;2020 January – 2020 April<br>
                             </div><br>

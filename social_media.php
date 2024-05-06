@@ -122,12 +122,12 @@
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">SMM Events</a>
                     <div class="dropdown-menu m-0">
-                        <a href="smm_su.php" class="dropdown-item">Sancharaka Udawa 2024</a>
-                        <a href="smm_hs.php" class="dropdown-item">Hotel Show colombo 2024</a>
-                        <a href="smm_fham.php" class="dropdown-item">FHAM 2024</a>
-                        <a href="smm_cafe.php" class="dropdown-item">Cafe 2024</a>
-                        <a href="smm_boat.php" class="dropdown-item">Boat and Marine Show 2023</a>
-                        <a href="smm_lanpak.php" class="dropdown-item">Lankapak 2023</a>
+                        <a href="smm_su.php" class="dropdown-item">Sancharaka Udawa </a>
+                        <a href="smm_hs.php" class="dropdown-item">Hotel Show colombo </a>
+                        <a href="smm_fham.php" class="dropdown-item">FHAM </a>
+                        <a href="smm_cafe.php" class="dropdown-item">Cafe </a>
+                        <a href="smm_boat.php" class="dropdown-item">Boat and Marine Show </a>
+                        <a href="smm_lanpak.php" class="dropdown-item">Lankapak </a>
                     </div>
                 </div>
                 <a href="contact.php" class="nav-item nav-link">Contact</a>
@@ -179,72 +179,13 @@
                
                 
 
-<div class="col-lg-4">
-    <!-- Blog Detail Start -->
-    <div class="text-center"> <!-- Added text-center to center align the content -->
-        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_newro.png" alt=""></a>
-        <p class="text-center">Newro Tours</p> <!-- Added text-center to center align the paragraph -->
-        <div class="social-icons"> <!-- Added a container for social icons -->
-            <a href="https://www.facebook.com/NewroTours" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
-            <a href="https://www.instagram.com/newro_tours/" target="_blank" style="margin: 0 10px;"><i class="fab fa-instagram" style="font-size: 30px;"></i></a>
-            
-        </div>
-       
-    </div>
-    <!-- Blog Detail End -->
-</div>
 
 
-
-
-<div class="col-lg-4">
-    <!-- Blog Detail Start -->
-    <div class="text-center"> <!-- Added text-center to center align the content -->
-        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_gam.png" alt=""></a>
-        <p class="text-center">Gamunu Travels</p> <!-- Added text-center to center align the paragraph -->
-        <div class="social-icons"> <!-- Added a container for social icons -->
-            <a href="https://www.facebook.com/GamunuTravels" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
-            
-        </div>
-       
-    </div>
-    <!-- Blog Detail End -->
-</div>
-
-    <div class="col-lg-4">
-    <!-- Blog Detail Start -->
-    <div class="text-center"> <!-- Added text-center to center align the content -->
-        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_gtl.png" alt=""></a>
-        <p class="text-center">GT Leisure</p> <!-- Added text-center to center align the paragraph -->
-        <div class="social-icons"> <!-- Added a container for social icons -->
-            <a href="https://www.facebook.com/gtleisure" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
-            <a href="https://www.instagram.com/gt.leisure/" target="_blank" style="margin: 0 10px;"><i class="fab fa-instagram" style="font-size: 30px;"></i></a>
-        </div>
-       
-    </div>
-    <!-- Blog Detail End -->
-</div>
-
-<div class="col-lg-4">
-    <!-- Blog Detail Start -->
-    <div class="text-center"> <!-- Added text-center to center align the content -->
-        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_lets.png" alt=""></a>
-        <p class="text-center">Lest's Fly</p> <!-- Added text-center to center align the paragraph -->
-        <div class="social-icons"> <!-- Added a container for social icons -->
-            <a href="httpshttps://www.facebook.com/Letsfly.lk" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
-            <a href="https://www.instagram.com/letsfly.lk/" target="_blank" style="margin: 0 10px;"><i class="fab fa-instagram" style="font-size: 30px;"></i></a>
-           
-        </div>
-       
-    </div>
-    <!-- Blog Detail End -->
-</div>
-
-<div class="col-lg-4">
+            <div class="col-lg-4">
     <!-- Blog Detail Start -->
     <div class="text-center"> <!-- Added text-center to center align the content -->
         <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_su.png" alt=""></a>
-        <p class="text-center">Sancharaka Udawa 2024</p> <!-- Added text-center to center align the paragraph -->
+        <p class="text-center-social">Sancharaka Udawa 2024</p> <!-- Added text-center to center align the paragraph -->
         <div class="social-icons"> <!-- Added a container for social icons -->
             <a href="https://www.facebook.com/SancharakaUdawa" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
             <a href="https://www.instagram.com/sancharakaudawa_official/" target="_blank" style="margin: 0 10px;"><i class="fab fa-instagram" style="font-size: 30px;"></i></a>
@@ -259,7 +200,7 @@
     <!-- Blog Detail Start -->
     <div class="text-center"> <!-- Added text-center to center align the content -->
         <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_fham.png" alt=""></a>
-        <p class="text-center">FHAM 2024</p> <!-- Added text-center to center align the paragraph -->
+        <p class="text-center-social">FHAM 2024</p> <!-- Added text-center to center align the paragraph -->
         <div class="social-icons"> <!-- Added a container for social icons -->
             <a href="https://www.facebook.com/FHAMEXHIBITION" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
             <a href="https://www.instagram.com/fham.__/" target="_blank" style="margin: 0 10px;"><i class="fab fa-instagram" style="font-size: 30px;"></i></a>
@@ -274,7 +215,7 @@
     <!-- Blog Detail Start -->
     <div class="text-center"> <!-- Added text-center to center align the content -->
         <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_cafe.png" alt=""></a>
-        <p class="text-center">Cafe 2024</p> <!-- Added text-center to center align the paragraph -->
+        <p class="text-center-social">Cafe 2024</p> <!-- Added text-center to center align the paragraph -->
         <div class="social-icons"> <!-- Added a container for social icons -->
             <a href="https://www.facebook.com/culinaryartfoodexpo" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
             <a href="https://www.instagram.com/culinaryartsl/" target="_blank" style="margin: 0 10px;"><i class="fab fa-instagram" style="font-size: 30px;"></i></a>
@@ -289,11 +230,69 @@
     <!-- Blog Detail Start -->
     <div class="text-center"> <!-- Added text-center to center align the content -->
         <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_hs.png" alt=""></a>
-        <p class="text-center">Hotel Show Colombo 2024</p> <!-- Added text-center to center align the paragraph -->
+        <p class="text-center-social">Hotel Show Colombo 2024</p> <!-- Added text-center to center align the paragraph -->
         <div class="social-icons"> <!-- Added a container for social icons -->
             <a href="https://www.facebook.com/profile.php?id=100067105736223" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
             <a href="https://www.instagram.com/hotelshowcolombo/" target="_blank" style="margin: 0 10px;"><i class="fab fa-instagram" style="font-size: 30px;"></i></a>
             <a href="https://lk.linkedin.com/in/hotel-show-colombo-sri-lanka-78a271167" target="_blank" style="margin: 0 10px;"><i class="fab fa-linkedin" style="font-size: 30px;"></i></a>
+        </div>
+       
+    </div>
+    <!-- Blog Detail End -->
+</div>
+            
+<div class="col-lg-4">
+    <!-- Blog Detail Start -->
+    <div class="text-center"> <!-- Added text-center to center align the content -->
+        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_newro.png" alt=""></a>
+        <p class="text-center-social">Newro Tours</p> <!-- Added text-center to center align the paragraph -->
+        <div class="social-icons"> <!-- Added a container for social icons -->
+            <a href="https://www.facebook.com/NewroTours" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
+            <a href="https://www.instagram.com/newro_tours/" target="_blank" style="margin: 0 10px;"><i class="fab fa-instagram" style="font-size: 30px;"></i></a>
+            
+        </div>
+       
+    </div>
+    <!-- Blog Detail End -->
+</div>
+
+<div class="col-lg-4">
+    <!-- Blog Detail Start -->
+    <div class="text-center"> <!-- Added text-center to center align the content -->
+        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_gam.png" alt=""></a>
+        <p class="text-center-social">Gamunu Travels</p> <!-- Added text-center to center align the paragraph -->
+        <div class="social-icons"> <!-- Added a container for social icons -->
+            <a href="https://www.facebook.com/GamunuTravels" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
+            
+        </div>
+       
+    </div>
+    <!-- Blog Detail End -->
+</div>
+
+    <div class="col-lg-4">
+    <!-- Blog Detail Start -->
+    <div class="text-center"> <!-- Added text-center to center align the content -->
+        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_gtl.png" alt=""></a>
+        <p class="text-center-social">GT Leisure</p> <!-- Added text-center to center align the paragraph -->
+        <div class="social-icons"> <!-- Added a container for social icons -->
+            <a href="https://www.facebook.com/gtleisure" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
+            <a href="https://www.instagram.com/gt.leisure/" target="_blank" style="margin: 0 10px;"><i class="fab fa-instagram" style="font-size: 30px;"></i></a>
+        </div>
+       
+    </div>
+    <!-- Blog Detail End -->
+</div>
+
+<div class="col-lg-4">
+    <!-- Blog Detail Start -->
+    <div class="text-center"> <!-- Added text-center to center align the content -->
+        <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_lets.png" alt=""></a>
+        <p class="text-center-social">Lest's Fly</p> <!-- Added text-center to center align the paragraph -->
+        <div class="social-icons"> <!-- Added a container for social icons -->
+            <a href="httpshttps://www.facebook.com/Letsfly.lk" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
+            <a href="https://www.instagram.com/letsfly.lk/" target="_blank" style="margin: 0 10px;"><i class="fab fa-instagram" style="font-size: 30px;"></i></a>
+           
         </div>
        
     </div>
@@ -304,7 +303,7 @@
     <!-- Blog Detail Start -->
     <div class="text-center"> <!-- Added text-center to center align the content -->
         <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_ous.png" alt=""></a>
-        <p class="text-center">Oushani International</p> <!-- Added text-center to center align the paragraph -->
+        <p class="text-center-social">Oushani International</p> <!-- Added text-center to center align the paragraph -->
         <div class="social-icons"> <!-- Added a container for social icons -->
             <a href="https://www.facebook.com/profile.php?id=100075748665267" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
             
@@ -320,7 +319,7 @@
     <!-- Blog Detail Start -->
     <div class="text-center"> <!-- Added text-center to center align the content -->
         <a href=""><img class="img-fluid w-100 rounded mb-5" src="img/social_media/s_sha.png" alt=""></a>
-        <p class="text-center">Sharon's Salon</p> <!-- Added text-center to center align the paragraph -->
+        <p class="text-center-social">Sharon's Salon</p> <!-- Added text-center to center align the paragraph -->
         <div class="social-icons"> <!-- Added a container for social icons -->
             <a href="https://www.facebook.com/profile.php?id=100063690661054" target="_blank" style="margin: 0 10px;"><i class="fab fa-facebook" style="font-size: 30px;"></i></a>
             <a href="https://www.instagram.com/sharonfernandosalon/" target="_blank" style="margin: 0 10px;"><i class="fab fa-instagram" style="font-size: 30px;"></i></a>
