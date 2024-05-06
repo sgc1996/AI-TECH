@@ -177,21 +177,27 @@
             <div class="container">
                 <div class="row g-5">
                 <div class="col-lg-8">
-    <!-- Blog Detail Start -->
-<div class="mb-5 py-5">
-    <h1 class="mb-4">Exciting Update: AI Technologies Named Official Social Media Partner for Café 2024: Culinary Art Food Expo!</h1>
-    <p>We are thrilled to announce that AI Technologies Pvt Ltd has been chosen as the official social media marketing partner for the highly anticipated Café 2024: Culinary Art Food Expo! This partnership marks an exciting opportunity for us to deliver fresh updates, highlights, and exclusive behind-the-scenes content from this extraordinary event to our audience.</p>
-    <p>On April 9th, 2024, the atmosphere at Galadari Hotel, Colombo 01, was electric as our dedicated team, alongside esteemed partners and renowned culinary experts, unveiled what promises to be an unforgettable gastronomic experience. From mouthwatering tastings to captivating conversations, the Media Launch event paved the way for an extraordinary showcase of culinary brilliance.</p>
-    <p>Here are some captivating glimpses from the event, encapsulating the lively spirit and anticipation awaiting attendees at Café 2024: Culinary Art Food Expo! [Include a selection of engaging photos from the event]</p>
-    <p>Stay tuned as we embark on this incredible journey together, bringing you the latest updates and insider insights from Café 2024: Culinary Art Food Expo!</p>
+                <div class="mb-5 py-5">
+    <h1 class="mb-4">Exciting Announcement: New Agreement Signed! 📣</h1>
+    <p>We are thrilled to announce a significant milestone for our company. We are proud to have finalized an agreement for the Web Design and Development of LETSFLY.LK Travel Solutions, Nugegoda, Sri Lanka. 🎉</p>
+    <p>We're incredibly proud to have reached this agreement of Web Design and Development of LETSFLY.LK Travel Solutions, Nugegoda, Sri Lanka. 🌟</p>
+    <p>The agreement was successfully signed by:</p>
+    <ul>
+        <li>🤝 Behalf of LETSFLY.LK Travel Solutions: Mr. Kasun Bulathsinhala (Managing Director)</li>
+        <li>🤝 Behalf of A.I Technologies (PVT) Ltd: Mr. Amesh Madhusankha (Managing Director)</li>
+    </ul>
+    <p>Date of Agreement: 2023-July-5</p>
+    <p>This accomplishment stands as a testament to the dedication and collaboration of our exceptional team. Without their hard work, this achievement would not have been possible.</p>
+    <p>Stay tuned for further updates as we embark on this new chapter of growth and innovation.</p>
 </div>
 <!-- Blog Detail End -->
+
 <div class="row g-5 justify-content-center"> <!-- Added justify-content-center to center align the content -->
               
               <div class="col-lg-6">
                   <!-- Blog Detail Start -->
                   <div class="text-center"> <!-- Added text-center to center align the content -->
-                      <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/cafe-1.jpg" alt=""></a>                  
+                      <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/blog/fly_1.jpg" alt=""></a>                  
                   </div>
                   <!-- Blog Detail End -->
               </div>
@@ -199,14 +205,14 @@
               <div class="col-lg-6">
                   <!-- Blog Detail Start -->
                   <div class="text-center"> <!-- Added text-center to center align the content -->
-                      <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/cafe-2.jpg" alt=""></a>
+                      <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/blog/fly_2.jpg" alt=""></a>
                   </div>
                   <!-- Blog Detail End -->
               </div>
               <div class="col-lg-6">
                   <!-- Blog Detail Start -->
                   <div class="text-center"> <!-- Added text-center to center align the content -->
-                      <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/cafe-3.jpg" alt=""></a>                  
+                      <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/blog/fly_3.jpg" alt=""></a>                  
                   </div>
                   <!-- Blog Detail End -->
               </div>
@@ -214,13 +220,14 @@
               <div class="col-lg-6">
                   <!-- Blog Detail Start -->
                   <div class="text-center"> <!-- Added text-center to center align the content -->
-                      <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/cafe-4.jpg" alt=""></a>
+                      <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/blog/fly_4.jpg" alt=""></a>
                   </div>
                   <!-- Blog Detail End -->
               </div>
 
            
           </div>
+
 
 </div>
 
@@ -277,7 +284,8 @@
         </div>
     </section>
     <!-- Blog End -->
-   
+
+    
 
     <!-- Footer Start -->
     <div class="container-fluid bg-dark text-light mt-5 wow fadeInUp" data-wow-delay="0.1s">

@@ -177,50 +177,35 @@
             <div class="container">
                 <div class="row g-5">
                 <div class="col-lg-8">
-    <!-- Blog Detail Start -->
+   <!-- Blog Detail Start -->
 <div class="mb-5 py-5">
-    <h1 class="mb-4">Exciting Update: AI Technologies Named Official Social Media Partner for Café 2024: Culinary Art Food Expo!</h1>
-    <p>We are thrilled to announce that AI Technologies Pvt Ltd has been chosen as the official social media marketing partner for the highly anticipated Café 2024: Culinary Art Food Expo! This partnership marks an exciting opportunity for us to deliver fresh updates, highlights, and exclusive behind-the-scenes content from this extraordinary event to our audience.</p>
-    <p>On April 9th, 2024, the atmosphere at Galadari Hotel, Colombo 01, was electric as our dedicated team, alongside esteemed partners and renowned culinary experts, unveiled what promises to be an unforgettable gastronomic experience. From mouthwatering tastings to captivating conversations, the Media Launch event paved the way for an extraordinary showcase of culinary brilliance.</p>
-    <p>Here are some captivating glimpses from the event, encapsulating the lively spirit and anticipation awaiting attendees at Café 2024: Culinary Art Food Expo! [Include a selection of engaging photos from the event]</p>
-    <p>Stay tuned as we embark on this incredible journey together, bringing you the latest updates and insider insights from Café 2024: Culinary Art Food Expo!</p>
+    <h1 class="mb-4">Exciting Announcement: Formalization of Agreement for the Chance Sports Website Project 🏏</h1>
+    <p>We are delighted to announce a significant achievement for our organization. We are pleased to have successfully formalized an agreement for the Chance Sports Website Project. 🌐</p>
+    <p>We take great pride in finalizing this agreement for the Chance Sports Website Project. The signing ceremony was overseen by:</p>
+    <ul>
+        <li>🤝 Mr. Lasantha Amarasinghe, The Chance Sports Chairman</li>
+        <li>🤝 Mr. Amesh Madhusankha, Managing Director of A.I Technologies (PVT) Ltd</li>
+    </ul>
+    <p>Date of Agreement: October 12, 2023</p>
+    <p>This milestone, realized on October 12, 2023, is a testament to the diligence and collaboration of our exceptional team. Their unwavering commitment has paved the way for this notable accomplishment. We look forward to sharing further developments as we embark on this promising venture, marking a new era of growth and innovation for our organization.</p>
 </div>
 <!-- Blog Detail End -->
-<div class="row g-5 justify-content-center"> <!-- Added justify-content-center to center align the content -->
+
+<!-- Blog Start -->
+=
               
-              <div class="col-lg-6">
-                  <!-- Blog Detail Start -->
-                  <div class="text-center"> <!-- Added text-center to center align the content -->
-                      <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/cafe-1.jpg" alt=""></a>                  
-                  </div>
-                  <!-- Blog Detail End -->
-              </div>
+                <div class="col-lg-6">
+                    <!-- Blog Detail Start -->
+                    <div class="text-center"> <!-- Added text-center to center align the content -->
+                        <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/blog/blog_cha.jpg" alt=""></a>                  
+                    </div>
+                    <!-- Blog Detail End -->
+                </div>
 
-              <div class="col-lg-6">
-                  <!-- Blog Detail Start -->
-                  <div class="text-center"> <!-- Added text-center to center align the content -->
-                      <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/cafe-2.jpg" alt=""></a>
-                  </div>
-                  <!-- Blog Detail End -->
-              </div>
-              <div class="col-lg-6">
-                  <!-- Blog Detail Start -->
-                  <div class="text-center"> <!-- Added text-center to center align the content -->
-                      <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/cafe-3.jpg" alt=""></a>                  
-                  </div>
-                  <!-- Blog Detail End -->
-              </div>
+               
 
-              <div class="col-lg-6">
-                  <!-- Blog Detail Start -->
-                  <div class="text-center"> <!-- Added text-center to center align the content -->
-                      <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/smm/cafe-4.jpg" alt=""></a>
-                  </div>
-                  <!-- Blog Detail End -->
-              </div>
+<!-- Blog End -->
 
-           
-          </div>
 
 </div>
 
@@ -277,6 +262,10 @@
         </div>
     </section>
     <!-- Blog End -->
+
+    
+
+
    
 
     <!-- Footer Start -->
