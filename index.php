@@ -1030,12 +1030,10 @@
 
 
 
-
-
     <!-- Partners Start -->
     <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
         <div class="container mb-5">
-            <div class="text-center position-relative pb-3 mb-4 mx-auto" style="max-width: 600px;">
+            <div class="text-center position-relative pb-3 mb-4 mx-auto" style="max-width: 600px; ">
                 <h5 class="fw-bold text-primary text-uppercase">Partners</h5>
             </div>
             <div class="bg-white">
@@ -1090,6 +1088,85 @@
         </div>
     </div>
     <!-- PLATFORMS & TECHNOLOGIES End -->
+
+
+    <!-- Blog Start -->
+ <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s" styl>
+    <div class="container mb-5">
+        <div class="text-center position-relative pb-3 mb-4 mx-auto" style="max-width: 600px;">
+            <h5 class="fw-bold text-primary text-uppercase">Blogs</h5>
+        </div>
+
+<!-- Blog list Start -->
+<div class="col-lg-12">
+                    <div class="row g-5">
+                        <div class="col-md-4 wow slideInUp" data-wow-delay="0.1s">
+                            <div class="blog-item bg-light rounded overflow-hidden">
+                                <div class="blog-img position-relative overflow-hidden">
+                                    <img class="img-fluid" src="img/blog/blog_su.jpg" alt="">
+                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="" style="margin-top: 13rem !important;">Media Launch</a>
+                                </div>
+                                <div class="p-4">
+                                    <div class="d-flex mb-3">
+                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>Gayan Chaturanga</small>
+                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>18 April, 2024</small>
+                                    </div>
+                                    <h4 class="mb-3">Sancharaka Udawa 2024 Media Launch</h4>
+                                    <p>A.I Technologies Pvt Ltd will be the offcial Social Media Marketing Partner of the Sancharaka Udawa 2024</p>
+                                    <a class="text-uppercase" href="blog_m2.php">Read More <i class="bi bi-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                
+                        <div class="col-md-4 wow slideInUp" data-wow-delay="0.1s">
+                            <div class="blog-item bg-light rounded overflow-hidden">
+                                <div class="blog-img position-relative overflow-hidden">
+                                    <img class="img-fluid" src="img/blog/blog_cafe.jpg" alt="">
+                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4"  href="" style="margin-top: 13rem !important;">Media Launch</a>
+                                </div>
+                                <div class="p-4">
+                                    <div class="d-flex mb-3">
+                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>Gayan Chaturanga</small>
+                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>18 April, 2024</small>
+                                    </div>
+                                    <h4 class="mb-3">Cafe 2024 Media Launch</h4>
+                                    <p>A.I Technologies Pvt Ltd will be the offcial Social Media Marketing Partner of the Cafe 2024</p>
+                                    <a class="text-uppercase" href="blog_m1.php">Read More <i class="bi bi-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 wow slideInUp" data-wow-delay="0.6s">
+                            <div class="blog-item bg-light rounded overflow-hidden">
+                                <div class="blog-img position-relative overflow-hidden">
+                                    <img class="img-fluid" src="img/blog/blog_cha.jpg" alt="">
+                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="" style="margin-top: 13rem !important;">Agreement Sign</a>
+                                </div>
+                                <div class="p-4">
+                                    <div class="d-flex mb-3">
+                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>Buwaneka Lalinda</small>
+                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>30 april, 2024</small>
+                                    </div>
+                                    <h4 class="mb-3">Agreement Sign for The Chance sports Website Project. </h4>
+                                    <p>A.I Technologies PVT LTD sign the offical Agreement of the Chance sports Website Project. </p>
+                                    <a class="text-uppercase" href="blog_s1.php">Read More <i class="bi bi-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+
+                    <div class="text-center"> <!-- Added text-center to center align the content -->
+                        <a href="blog.php" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">View More </a> <!-- The link is centered along with its parent content -->
+                    </div>
+                      
+                       
+                        
+                       
+                     
+                       
+                    </div>
+                </div>
+</div>
+</div>
+                <!-- Blog list End -->
     
 
     <!-- Footer Start -->
