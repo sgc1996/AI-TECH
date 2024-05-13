@@ -597,9 +597,9 @@
                                 <div class="col-12">
                                     <textarea class="form-control bg-light border-0" name="message" rows="3" placeholder="Message"></textarea>
                                 </div>
-                                <div class="col-12">
+                                <!--<div class="col-12">
                                     <div class="g-recaptcha" data-sitekey="6LePwJEpAAAAACskXQUSTDJEFLGHXyxMfFXrsCzf"></div>
-                                </div>
+                                </div>-->
                                 <div class="col-12">
                                     <button class="btn btn-dark w-100 py-3" name="submitquote" type="submit">Request A Quote</button>
                                 </div>
