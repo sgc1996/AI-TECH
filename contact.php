@@ -230,9 +230,9 @@
                             <div class="col-12">
                                 <textarea class="form-control border-0 bg-light px-4 py-3" name="message" rows="4" placeholder="Message"></textarea>
                             </div>
-                            <div class="col-12">
+                            <!--<div class="col-12">
                                 <div class="g-recaptcha" data-sitekey="6LePwJEpAAAAACskXQUSTDJEFLGHXyxMfFXrsCzf"></div>
-                            </div>
+                            </div>-->
                             <div class="col-12">
                                 <button class="btn btn-primary w-100 py-3" name="submit" type="submit">Send Message</button>
                             </div>
