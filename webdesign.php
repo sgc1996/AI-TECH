@@ -179,7 +179,7 @@
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
                         <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_cdct.png" alt=""></a>
-                        <a href="#" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> 
+                        <a href="#" target="_blank"  class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> 
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -188,7 +188,7 @@
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
                         <a href="https://www.travelarcades.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_ta.png" alt=""></a>
-                        <a href="https://www.travelarcades.com/" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> 
+                        <a href="https://www.travelarcades.com/" target="_blank"  class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> 
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -197,7 +197,7 @@
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
                         <a href="https://www.newrogroup.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_newro.png" alt=""></a>
-                        <a href="https://www.newrogroup.com/" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> <!-- The link is centered along with its parent content -->
+                        <a href="https://www.newrogroup.com/" target="_blank"  class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -206,7 +206,7 @@
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
                         <a href="https://www.letsfly.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_letsfly.png" alt=""></a>
-                        <a href="https://www.letsfly.lk/" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> <!-- The link is centered along with its parent content -->
+                        <a href="https://www.letsfly.lk/" target="_blank"  class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -215,7 +215,7 @@
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
                         <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_for.png" alt=""></a>
-                        <a href="#" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> <!-- The link is centered along with its parent content -->
+                        <a href="#" target="_blank"  class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -224,7 +224,7 @@
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
                         <a href="#" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_palm.png" alt=""></a>
-                        <a href="#" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> <!-- The link is centered along with its parent content -->
+                        <a href="#" target="_blank"  class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -246,7 +246,16 @@
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
                         <a href="https://sancharakaudawa.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_su.png" alt=""></a>
-                        <a href="https://sancharakaudawa.com/" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> <!-- The link is centered along with its parent content -->
+                        <a href="https://sancharakaudawa.com/" target="_blank"  class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> <!-- The link is centered along with its parent content -->
+                    </div>
+                    <!-- Blog Detail End -->
+                </div>
+
+                <div class="col-lg-6">
+                    <!-- Blog Detail Start -->
+                    <div class="text-center"> <!-- Added text-center to center align the content -->
+                        <a href="http://www.hotelshowcolombo.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_hs.png" alt=""></a>
+                        <a href="http://www.hotelshowcolombo.com/" target="_blank" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> </a> <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -255,7 +264,7 @@
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
                         <a href="https://fhamaldives.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_fham.png" alt=""></a>
-                        <a href="https://fhamaldives.com/" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> </a> <!-- The link is centered along with its parent content -->
+                        <a href="https://fhamaldives.com/" target="_blank" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> </a> <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -265,7 +274,7 @@
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
                         <a href="https://sathutagroup.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_sgroup.png" alt=""></a>
-                        <a href="https://sathutagroup.com/" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> <!-- The link is centered along with its parent content -->
+                        <a href="https://sathutagroup.com/" target="_blank"  class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -274,7 +283,7 @@
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
                         <a href="https://www.sathutaceylon.com/index.html" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_sceylon.png" alt=""></a>
-                        <a href="https://www.sathutaceylon.com/index.html" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> <!-- The link is centered along with its parent content -->
+                        <a href="https://www.sathutaceylon.com/index.html" target="_blank"  class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -283,7 +292,7 @@
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
                         <a href="https://sathutaindustry.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_sind.png" alt=""></a>
-                        <a href="https://sathutaindustry.lk/" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> <!-- The link is centered along with its parent content -->
+                        <a href="https://sathutaindustry.lk/" target="_blank"  class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -294,7 +303,7 @@
                     <div class="text-center"> <!-- Added text-center to center align the content -->
                         <a href="https://itechs.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_iceman.png" alt=""></a>
                        
-                        <a href="https://itechs.lk/" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> <!-- The link is centered along with its parent content -->
+                        <a href="https://itechs.lk/" target="_blank"  class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -303,7 +312,7 @@
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
                         <a href="https://www.cleaninfusion.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_clean.png" alt=""></a>
-                        <a href="https://www.cleaninfusion.com/" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a>  <!-- The link is centered along with its parent content -->
+                        <a href="https://www.cleaninfusion.com/" target="_blank"  class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a>  <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -323,7 +332,7 @@
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
                         <a href="https://chancesports.lk/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_chances.png" alt=""></a>
-                        <a href="https://chancesports.lk/" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> <!-- The link is centered along with its parent content -->
+                        <a href="https://chancesports.lk/" target="_blank"  class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -345,7 +354,7 @@
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
                         <a href="https://opromacosmetics.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_oproma.png" alt=""></a>
-                        <a href="https://opromacosmetics.com/" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> <!-- The link is centered along with its parent content -->
+                        <a href="https://opromacosmetics.com/" target="_blank"  class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -354,7 +363,7 @@
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
                         <a href="https://sharonssalon.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_sharon.png" alt=""></a>
-                        <a href="https://sharonssalon.com/" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> 
+                        <a href="https://sharonssalon.com/" target="_blank"  class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a> 
                     </div>
                     <!-- Blog Detail End -->
                 </div>
@@ -378,7 +387,7 @@
                     <!-- Blog Detail Start -->
                     <div class="text-center"> <!-- Added text-center to center align the content -->
                         <a href="https://www.sathutagroup.com/" target="_blank"><img class="img-fluid w-100 rounded mb-5" src="img/webdesign/web_sfer.png" alt=""></a>
-                        <a href="https://www.sathutagroup.com/" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a>  <!-- The link is centered along with its parent content -->
+                        <a href="https://www.sathutagroup.com/" target="_blank"  class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" style="margin-top:-100px;">Visit Website</a>  <!-- The link is centered along with its parent content -->
                     </div>
                     <!-- Blog Detail End -->
                 </div>
