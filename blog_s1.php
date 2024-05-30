@@ -3,11 +3,23 @@
 
 <head>
     <meta charset="utf-8">
-    <title>A I TECHNOLOGIES (PVT) LTD</title>
+    <title>Blog - Chance Sport Website Agreement</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta name="description" content="The Company has been formed by a group of professionals having vivid experiences and wide exposure in Information Technology. People involved in here are young qualified business graduates and qualified engineers from the renowned universities across the global. <br> We specialize in all aspects of Information Technology from 2019 onwards. A.I TECH has established itself as a leader in the provision of ICT Solutions in the Sri Lankan market delivering solutions that add value, deliver benefits and address the varied complex requirement in a variety of vertical markets.">
+    
+    <!--SEO-->
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="A.I Technologies Pvt Ltd">
+    <meta name="description" content="Exciting Announcement: Formalization of Agreement for the Chance Sports Website Project. We are delighted to announce a significant achievement for our organization. We are pleased to have successfully formalized an agreement for the Chance Sports Website Project. This milestone, realized on October 12, 2023, is a testament to the diligence and collaboration of our exceptional team.">
+    <meta name="keywords" content="Chance Sports Website Project, agreement signing, milestone, collaboration, October 12 2023, A.I Technologies Pvt Ltd, Lasantha Amarasinghe ">
+    <!--SEO FB-->
+    <meta property="og:title" content="Exciting Announcement: Formalization of Agreement for the Chance Sports Website Project">
+    <meta property="og:description" content="We are delighted to announce a significant achievement for our organization. We are pleased to have successfully formalized an agreement for the Chance Sports Website Project. This milestone, realized on October 12, 2023, is a testament to the diligence and collaboration of our exceptional team.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://aitech.lk/blog_s1.php">
+    <meta property="og:image" content="https://aitech.lk/img/logo.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
 
-    <meta name="keywords" content="The Best IT Solution With The Most Experience Professionals, Best IT Solution, aitech, AI TECH, A.I TECH, A I TECHNOLOGIES, A I Technologies, A.I Technologies, A I Tech, A.I Tech, A I TECHNOLOGIES (PVT) LTD, A.I TECHNOLOGIES (PVT) LTD, A I Technologies (Pvt) Ltd, aitechnologies, A.I Technologies (Pvt) Ltd, web design sri lanka, sri lanka web design, web designers in sri lanka, web design in sri lanka, what is the best web design company, Web design company sri lanka, best IT company , best it company, best web design company in sri lanka, web development companies in sri lanka, website developers in sri lanka, web design, online marketing sri lanka, price list sri lanka, web design kandy, it companies in colombo, web design sri lanka price, software development companies in sri lanka, top 10 software companies in sri lanka, software companies in colombo, best place to buy a dell computer, sri lanka mobile application, Mobile Application in sri lanka, mobile App in sri lanka,sri lanka Mobile App, mobile Application company sri lanka, it companies in sri lanka, best Software in sri lanka, software sri lanka, cloud solution sri lanka, Preventive Maintenance in sri lanka, website developers in sri lanka, Preventive Maintenance, system desing company, software companies in colombo, Dell computer prices,dell laptop,severs in sri lanka, software development companies in sri lanka, top 10 software companies in sri lanka">
 
     <!-- Favicon -->
     <link rel="icon" href="img/logoicon.png">
