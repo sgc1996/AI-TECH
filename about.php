@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>A I TECHNOLOGIES (PVT) LTD</title>
+    <title>A I TECHNOLOGIES (PVT) LTD | About Us</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta name="description" content="The Company has been formed by a group of professionals having vivid experiences and wide exposure in Information Technology. People involved in here are young qualified business graduates and qualified engineers from the renowned universities across the global. <br> We specialize in all aspects of Information Technology from 2019 onwards. A.I TECH has established itself as a leader in the provision of ICT Solutions in the Sri Lankan market delivering solutions that add value, deliver benefits and address the varied complex requirement in a variety of vertical markets.">
 
@@ -30,6 +30,17 @@
 
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-167196481-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-167196481-1');
+    </script>
+    
 </head>
 
 <body>
@@ -588,16 +599,6 @@
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
-
-    <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-167196481-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-167196481-1');
-</script>
 
 </body>
 
