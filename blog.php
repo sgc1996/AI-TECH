@@ -64,58 +64,91 @@
     <!-- Topbar End -->
 
 
-    <!-- Navbar Start -->
-    <div class="container-fluid position-relative p-0">
-        <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0">
-            <a href="index.php" class="navbar-brand p-0">
-                <!-- <h1 class="m-0"><i class="fa fa-user-tie me-2"></i>Startup</h1> -->
-                <img src="img/logo2.png" width="60%">
-            </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
-                <span class="fa fa-bars"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarCollapse">
-                <div class="navbar-nav ms-auto py-0">
-                    <a href="index.php" class="nav-item nav-link">Home</a>
-                    <a href="about.php" class="nav-item nav-link">About</a>
-                    <a href="service.php" class="nav-item nav-link">Services</a>
-                    <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown">Products</a>
-                        <div class="dropdown-menu m-0">
-                            <a href="mobile_app.php" class="dropdown-item">Mobile Applications</a>
-                            <a href="web_app.php" class="dropdown-item">Web Applications</a>
-                            <a href="websites.php" class="dropdown-item">Websites</a>
-                        </div>
+     <!-- Navbar Start -->
+     <div class="container-fluid position-relative p-0">
+         <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0">
+        <a href="index.php" class="navbar-brand p-0">
+            <img src="img/logo2.png" width="60%">
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+            <span class="fa fa-bars"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <div class="navbar-nav ms-auto py-0">
+                <a href="index.php" class="nav-item nav-link ">Home</a>
+                <a href="about.php" class="nav-item nav-link">About</a>
+                <!--service dropdown -->
+
+        <div class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button"
+                aria-haspopup="true" aria-expanded="false">Services</a>
+            <div class="dropdown-menu services-dropdown">
+                <div class="row" style="margin-left: 15px;">
+                    <div class="col-lg-4" style="border-right: 1px solid #ddd;">
+                     <h6 style="padding-left: 20px; background-color: #f8f9fa; color:#06A3DA;">Digital</h6>
+                        <a class="dropdown-item" href="service_webdesign.php">Web Design</a>
+                        <a class="dropdown-item" href="service_seo.php">SEO</a>
+                        <a class="dropdown-item" href="service_smm.php">SMM</a>
+                        <a class="dropdown-item" href="service_smo.php">SMO</a>
+                        <a class="dropdown-item" href="service_graphic.php">Graphic Design</a>
+                        <a class="dropdown-item" href="service_googleads.php">Google Ads</a>
+                        <a class="dropdown-item" href="service_leads.php">Lead Generation</a>
                     </div>
-                    <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">News & Events</a>
-                        <div class="dropdown-menu m-0">
-                            <a href="#" class="dropdown-item">Blog</a>
-                            <!-- <a href="feature.php" class="dropdown-item">Our features</a>
-                            <a href="team.php" class="dropdown-item">Team Members</a>
-                            <a href="testimonial.php" class="dropdown-item">Testimonial</a>
-                            <a href="quote.php" class="dropdown-item">Free Quote</a> -->
-                        </div>
+                    <div class="col-lg-4" style="border-right: 1px solid #ddd; ">
+                        <h6 style="padding-left: 20px; background-color: #f8f9fa; color:#06A3DA;">Develop</h6>
+                        <a class="dropdown-item" href="service_webapp.php">Web Application</a>
+                        <a class="dropdown-item" href="service_mobapp.php">Mobile Application</a>
                     </div>
-                    <a href="contact.php" class="nav-item nav-link">Contact</a>
+                    <div class="col-lg-4">
+                        <h6 style="padding-left: 20px; background-color: #f8f9fa; color:#06A3DA;">Studio</h6>
+                        <a class="dropdown-item" href="service_video.php">Videography</a>
+                        <a class="dropdown-item" href="service_photo.php">Photography</a>
+                    </div>
                 </div>
-                <a href="career.php" class="btn btn-primary py-2 px-4 ms-3">Career</a>
             </div>
-        </nav>
+        </div>
+
+<!-- End of service dropdown -->
+                <div class="nav-item dropdown">
+                    <a href="#" class="nav-link  dropdown-toggle" data-bs-toggle="dropdown">Projects</a>
+                    <div class="dropdown-menu m-0">
+                        <a href="webdesign.php" class="dropdown-item">Websites</a>
+                        <a href="social_media.php" class="dropdown-item">Social Media</a>
+                        <a href="mobile_app.php" class="dropdown-item">Mobile Applications</a>
+                        <a href="web_app.php" class="dropdown-item">Web Applications</a>
+                        
+                    </div>
+                </div>
+                <div class="nav-item dropdown">
+                    <a href="#" class="nav-link active dropdown-toggle" data-bs-toggle="dropdown">SMM Events</a>
+                    <div class="dropdown-menu m-0">
+                        <a href="smm_su.php" class="dropdown-item">Sancharaka Udawa </a>
+                        <a href="smm_hs.php" class="dropdown-item">Hotel Show colombo </a>
+                        <a href="smm_fham.php" class="dropdown-item">FHAM </a>
+                        <a href="smm_cafe.php" class="dropdown-item">Cafe </a>
+                        <a href="smm_boat.php" class="dropdown-item">Boat and Marine Show </a>
+                        <a href="smm_lanpak.php" class="dropdown-item">Lankapak </a>
+                    </div>
+                </div>
+                <a href="contact.php" class="nav-item nav-link">Contact</a>
+            </div>
+            <a href="career.php" class="btn btn-primary py-2 px-4 ms-3">Career</a>
+        </div>
+    </nav>
 
         <div class="container-fluid bg-primary py-5 bg-header" style="margin-bottom: 90px;">
             <div class="row py-5">
                 <div class="col-12 pt-lg-5 mt-lg-5 text-center">
-                    <h1 class="display-4 text-white animated zoomIn">Blog Grid</h1>
+                    <h1 class="display-4 text-white animated zoomIn">Blogs</h1>
                     <a href="index.php" class="h5 text-white">Home</a>
                     <i class="far fa-circle text-white px-2"></i>
-                    <a href="" class="h5 text-white">Blog Grid</a>
+                    <a href="service.php" class="h5 text-white">Blogs</a>
+             
                 </div>
             </div>
         </div>
     </div>
     <!-- Navbar End -->
-
 
     <!-- Full Screen Search Start -->
     <div class="modal fade" id="searchModal" tabindex="-1">
@@ -146,259 +179,156 @@
                         <div class="col-md-6 wow slideInUp" data-wow-delay="0.1s">
                             <div class="blog-item bg-light rounded overflow-hidden">
                                 <div class="blog-img position-relative overflow-hidden">
-                                    <img class="img-fluid" src="img/blog-1.jpg" alt="">
-                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Web Design</a>
+                                    <img class="img-fluid" src="img/blog/blog_su.jpg" alt="">
+                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="" style="margin-top: 13rem !important;">Media Launch</a>
                                 </div>
                                 <div class="p-4">
                                     <div class="d-flex mb-3">
-                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>John Doe</small>
-                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
+                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>Gayan Chaturanga</small>
+                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>18 April, 2024</small>
                                     </div>
-                                    <h4 class="mb-3">How to build a website</h4>
-                                    <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
-                                    <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
+                                    <h4 class="mb-3">Sancharaka Udawa 2024 Media Launch</h4>
+                                    <p>A.I Technologies Pvt Ltd will be the offcial Social Media Marketing Partner of the Sancharaka Udawa 2024</p>
+                                    <a class="text-uppercase" href="blog_m2.php">Read More <i class="bi bi-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-6 wow slideInUp" data-wow-delay="0.6s">
                             <div class="blog-item bg-light rounded overflow-hidden">
                                 <div class="blog-img position-relative overflow-hidden">
-                                    <img class="img-fluid" src="img/blog-2.jpg" alt="">
-                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Web Design</a>
+                                    <img class="img-fluid" src="img/blog/blog_cafe.jpg" alt="">
+                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="" style="margin-top: 13rem !important;">Media Launch</a>
                                 </div>
                                 <div class="p-4">
                                     <div class="d-flex mb-3">
-                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>John Doe</small>
-                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
+                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>Gayan Chaturanga</small>
+                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>18 April, 2024</small>
                                     </div>
-                                    <h4 class="mb-3">How to build a website</h4>
-                                    <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
-                                    <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
+                                    <h4 class="mb-3">Hotel Show Colombo 2024 Media Launch</h4>
+                                    <p>A.I Technologies Pvt Ltd will be the offcial Social Media Marketing Partner of the Hotel Show Colombo 2024</p>
+                                    <a class="text-uppercase" href="blog_m3.php">Read More <i class="bi bi-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-6 wow slideInUp" data-wow-delay="0.1s">
                             <div class="blog-item bg-light rounded overflow-hidden">
                                 <div class="blog-img position-relative overflow-hidden">
-                                    <img class="img-fluid" src="img/blog-3.jpg" alt="">
-                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Web Design</a>
+                                    <img class="img-fluid" src="img/blog/blog_cafe.jpg" alt="">
+                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4"  href="" style="margin-top: 13rem !important;">Media Launch</a>
                                 </div>
                                 <div class="p-4">
                                     <div class="d-flex mb-3">
-                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>John Doe</small>
-                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
+                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>Gayan Chaturanga</small>
+                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>18 April, 2024</small>
                                     </div>
-                                    <h4 class="mb-3">How to build a website</h4>
-                                    <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
-                                    <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
+                                    <h4 class="mb-3">Cafe 2024 Media Launch</h4>
+                                    <p>A.I Technologies Pvt Ltd will be the offcial Social Media Marketing Partner of the Cafe 2024</p>
+                                    <a class="text-uppercase" href="blog_m1.php">Read More <i class="bi bi-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-6 wow slideInUp" data-wow-delay="0.6s">
                             <div class="blog-item bg-light rounded overflow-hidden">
                                 <div class="blog-img position-relative overflow-hidden">
-                                    <img class="img-fluid" src="img/blog-1.jpg" alt="">
-                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Web Design</a>
+                                    <img class="img-fluid" src="img/blog/blog_cha.jpg" alt="">
+                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="" style="margin-top: 13rem !important;">Agreement Sign</a>
                                 </div>
                                 <div class="p-4">
                                     <div class="d-flex mb-3">
-                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>John Doe</small>
-                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
+                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>Buwaneka Lalinda</small>
+                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>30 april, 2024</small>
                                     </div>
-                                    <h4 class="mb-3">How to build a website</h4>
-                                    <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
-                                    <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
+                                    <h4 class="mb-3">Agreement Sign for The Chance sports Website Project. </h4>
+                                    <p>A.I Technologies PVT LTD sign the offical Agreement of the Chance sports Website Project. </p>
+                                    <a class="text-uppercase" href="blog_s1.php">Read More <i class="bi bi-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-6 wow slideInUp" data-wow-delay="0.1s">
                             <div class="blog-item bg-light rounded overflow-hidden">
                                 <div class="blog-img position-relative overflow-hidden">
-                                    <img class="img-fluid" src="img/blog-2.jpg" alt="">
-                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Web Design</a>
+                                    <img class="img-fluid" src="img/blog/blog_opr.jpg" alt="">
+                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="" style="margin-top: 13rem !important;">Agreement Sign</a>
                                 </div>
                                 <div class="p-4">
                                     <div class="d-flex mb-3">
-                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>John Doe</small>
-                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
+                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>Buwaneka Lalinda</small>
+                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>30 april, 2024</small>
                                     </div>
-                                    <h4 class="mb-3">How to build a website</h4>
-                                    <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
-                                    <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
+                                    <h4 class="mb-3">Agreement Sign for Oproma Cosmetics Website Project. </h4>
+                                    <p>A.I Technologies PVT LTD sign the offical Agreement of Oproma Cosmetics  Website Project. </p>
+                                    <a class="text-uppercase" href="blog_s2.php">Read More <i class="bi bi-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-6 wow slideInUp" data-wow-delay="0.6s">
                             <div class="blog-item bg-light rounded overflow-hidden">
                                 <div class="blog-img position-relative overflow-hidden">
-                                    <img class="img-fluid" src="img/blog-3.jpg" alt="">
-                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Web Design</a>
+                                    <img class="img-fluid" src="img/blog/blog_lets.jpg" alt="">
+                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="" style="margin-top: 13rem !important;">Agreement Sign</a>
                                 </div>
                                 <div class="p-4">
                                     <div class="d-flex mb-3">
-                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>John Doe</small>
-                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
+                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>Buwaneka Lalinda</small>
+                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>30 april, 2024</small>
                                     </div>
-                                    <h4 class="mb-3">How to build a website</h4>
-                                    <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
-                                    <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
+                                    <h4 class="mb-3">Agreement Sign for Let's Fly.lk  Website Project. </h4>
+                                    <p>A.I Technologies PVT LTD sign the offical Agreement of Let's Fly.lk Website Project. </p>
+                                    <a class="text-uppercase" href="blog_s3.php">Read More <i class="bi bi-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-6 wow slideInUp" data-wow-delay="0.1s">
-                            <div class="blog-item bg-light rounded overflow-hidden">
-                                <div class="blog-img position-relative overflow-hidden">
-                                    <img class="img-fluid" src="img/blog-1.jpg" alt="">
-                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Web Design</a>
-                                </div>
-                                <div class="p-4">
-                                    <div class="d-flex mb-3">
-                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>John Doe</small>
-                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
-                                    </div>
-                                    <h4 class="mb-3">How to build a website</h4>
-                                    <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
-                                    <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 wow slideInUp" data-wow-delay="0.6s">
-                            <div class="blog-item bg-light rounded overflow-hidden">
-                                <div class="blog-img position-relative overflow-hidden">
-                                    <img class="img-fluid" src="img/blog-2.jpg" alt="">
-                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Web Design</a>
-                                </div>
-                                <div class="p-4">
-                                    <div class="d-flex mb-3">
-                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>John Doe</small>
-                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
-                                    </div>
-                                    <h4 class="mb-3">How to build a website</h4>
-                                    <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
-                                    <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 wow slideInUp" data-wow-delay="0.1s">
-                            <div class="blog-item bg-light rounded overflow-hidden">
-                                <div class="blog-img position-relative overflow-hidden">
-                                    <img class="img-fluid" src="img/blog-3.jpg" alt="">
-                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Web Design</a>
-                                </div>
-                                <div class="p-4">
-                                    <div class="d-flex mb-3">
-                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>John Doe</small>
-                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
-                                    </div>
-                                    <h4 class="mb-3">How to build a website</h4>
-                                    <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
-                                    <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 wow slideInUp" data-wow-delay="0.6s">
-                            <div class="blog-item bg-light rounded overflow-hidden">
-                                <div class="blog-img position-relative overflow-hidden">
-                                    <img class="img-fluid" src="img/blog-1.jpg" alt="">
-                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="">Web Design</a>
-                                </div>
-                                <div class="p-4">
-                                    <div class="d-flex mb-3">
-                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>John Doe</small>
-                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>01 Jan, 2045</small>
-                                    </div>
-                                    <h4 class="mb-3">How to build a website</h4>
-                                    <p>Dolor et eos labore stet justo sed est sed sed sed dolor stet amet</p>
-                                    <a class="text-uppercase" href="">Read More <i class="bi bi-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12 wow slideInUp" data-wow-delay="0.1s">
-                            <nav aria-label="Page navigation">
-                                <ul class="pagination pagination-lg m-0">
-                                    <li class="page-item disabled">
-                                        <a class="page-link rounded-0" href="#" aria-label="Previous">
-                                            <span aria-hidden="true"><i class="bi bi-arrow-left"></i></span>
-                                        </a>
-                                    </li>
-                                    <li class="page-item active"><a class="page-link" href="#">1</a></li>
-                                    <li class="page-item"><a class="page-link" href="#">2</a></li>
-                                    <li class="page-item"><a class="page-link" href="#">3</a></li>
-                                    <li class="page-item">
-                                        <a class="page-link rounded-0" href="#" aria-label="Next">
-                                            <span aria-hidden="true"><i class="bi bi-arrow-right"></i></span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </nav>
-                        </div>
+                       
+                        
+                       
+                     
+                       
                     </div>
                 </div>
                 <!-- Blog list End -->
 
                 <!-- Sidebar Start -->
                 <div class="col-lg-4">
-                    <!-- Search Form Start -->
-                    <div class="mb-5 wow slideInUp" data-wow-delay="0.1s">
-                        <div class="input-group">
-                            <input type="text" class="form-control p-3" placeholder="Keyword">
-                            <button class="btn btn-primary px-4"><i class="bi bi-search"></i></button>
-                        </div>
-                    </div>
-                    <!-- Search Form End -->
 
-                    <!-- Category Start -->
-                    <div class="mb-5 wow slideInUp" data-wow-delay="0.1s">
-                        <div class="section-title section-title-sm position-relative pb-3 mb-4">
-                            <h3 class="mb-0">Categories</h3>
-                        </div>
-                        <div class="link-animated d-flex flex-column justify-content-start">
-                            <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>Web Design</a>
-                            <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>Web Development</a>
-                            <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>Web Development</a>
-                            <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>Keyword Research</a>
-                            <a class="h5 fw-semi-bold bg-light rounded py-2 px-3 mb-2" href="#"><i class="bi bi-arrow-right me-2"></i>Email Marketing</a>
-                        </div>
-                    </div>
-                    <!-- Category End -->
+                   
 
-                    <!-- Recent Post Start -->
-                    <div class="mb-5 wow slideInUp" data-wow-delay="0.1s">
-                        <div class="section-title section-title-sm position-relative pb-3 mb-4">
-                            <h3 class="mb-0">Recent Post</h3>
-                        </div>
-                        <div class="d-flex rounded overflow-hidden mb-3">
-                            <img class="img-fluid" src="img/blog-1.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
-                            <a href="" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Lorem ipsum dolor sit amet adipis elit
-                            </a>
-                        </div>
-                        <div class="d-flex rounded overflow-hidden mb-3">
-                            <img class="img-fluid" src="img/blog-2.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
-                            <a href="" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Lorem ipsum dolor sit amet adipis elit
-                            </a>
-                        </div>
-                        <div class="d-flex rounded overflow-hidden mb-3">
-                            <img class="img-fluid" src="img/blog-3.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
-                            <a href="" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Lorem ipsum dolor sit amet adipis elit
-                            </a>
-                        </div>
-                        <div class="d-flex rounded overflow-hidden mb-3">
-                            <img class="img-fluid" src="img/blog-1.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
-                            <a href="" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Lorem ipsum dolor sit amet adipis elit
-                            </a>
-                        </div>
-                        <div class="d-flex rounded overflow-hidden mb-3">
-                            <img class="img-fluid" src="img/blog-2.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
-                            <a href="" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Lorem ipsum dolor sit amet adipis elit
-                            </a>
-                        </div>
-                        <div class="d-flex rounded overflow-hidden mb-3">
-                            <img class="img-fluid" src="img/blog-3.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
-                            <a href="" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Lorem ipsum dolor sit amet adipis elit
-                            </a>
-                        </div>
-                    </div>
-                    <!-- Recent Post End -->
+                   <!-- Recent Post Start -->
+<div class="mb-5 wow slideInUp" data-wow-delay="0.1s">
+    <div class="section-title section-title-sm position-relative pb-3 mb-4">
+        <h3 class="mb-0">Recent Post</h3>
+    </div>
+    <div class="d-flex rounded overflow-hidden mb-3">
+        <img class="img-fluid" src="img/blog/blog_cafe.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
+        <a href="blog_m1.php" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Official Social Media Partner for Café 2024
+        </a>
+    </div>
+    <div class="d-flex rounded overflow-hidden mb-3">
+        <img class="img-fluid" src="img/blog/blog_su.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
+        <a href="blog_m2.php" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Official Social Media Partner forSanchraka Udawa 2024
+        </a>
+    </div>
+    <div class="d-flex rounded overflow-hidden mb-3">
+        <img class="img-fluid" src="img/blog/blog_cafe.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
+        <a href="blog_m3.php" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Official Social Media Partner for Hotel Show Colombo
+        </a>
+    </div>
+    <div class="d-flex rounded overflow-hidden mb-3">
+        <img class="img-fluid" src="img/blog/blog_cha.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
+        <a href="blog_s1.php" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Chance Sports Website Project Agreement signing
+        </a>
+    </div>
+    <div class="d-flex rounded overflow-hidden mb-3">
+        <img class="img-fluid" src="img/blog/blog_opr.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
+        <a href="blog_s2.php" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">Oproma Cosmetics Website Project Agreement signing
+        </a>
+    </div>
+    <div class="d-flex rounded overflow-hidden mb-3">
+        <img class="img-fluid" src="img/blog/blog_lets.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
+        <a href="blog_s3.php" class="h5 fw-semi-bold d-flex align-items-center bg-light px-3 mb-0">LetsFly.lk Website Project Agreement signing
+        </a>
+    </div>
+</div>
+<!-- Recent Post End -->
 
                     <!-- Image Start -->
                     <div class="mb-5 wow slideInUp" data-wow-delay="0.1s">
@@ -406,39 +336,8 @@
                     </div>
                     <!-- Image End -->
 
-                    <!-- Tags Start -->
-                    <div class="mb-5 wow slideInUp" data-wow-delay="0.1s">
-                        <div class="section-title section-title-sm position-relative pb-3 mb-4">
-                            <h3 class="mb-0">Tag Cloud</h3>
-                        </div>
-                        <div class="d-flex flex-wrap m-n1">
-                            <a href="" class="btn btn-light m-1">Design</a>
-                            <a href="" class="btn btn-light m-1">Development</a>
-                            <a href="" class="btn btn-light m-1">Marketing</a>
-                            <a href="" class="btn btn-light m-1">SEO</a>
-                            <a href="" class="btn btn-light m-1">Writing</a>
-                            <a href="" class="btn btn-light m-1">Consulting</a>
-                            <a href="" class="btn btn-light m-1">Design</a>
-                            <a href="" class="btn btn-light m-1">Development</a>
-                            <a href="" class="btn btn-light m-1">Marketing</a>
-                            <a href="" class="btn btn-light m-1">SEO</a>
-                            <a href="" class="btn btn-light m-1">Writing</a>
-                            <a href="" class="btn btn-light m-1">Consulting</a>
-                        </div>
-                    </div>
-                    <!-- Tags End -->
-
-                    <!-- Plain Text Start -->
-                    <div class="wow slideInUp" data-wow-delay="0.1s">
-                        <div class="section-title section-title-sm position-relative pb-3 mb-4">
-                            <h3 class="mb-0">Plain Text</h3>
-                        </div>
-                        <div class="bg-light text-center" style="padding: 30px;">
-                            <p>Vero sea et accusam justo dolor accusam lorem consetetur, dolores sit amet sit dolor clita kasd justo, diam accusam no sea ut tempor magna takimata, amet sit et diam dolor ipsum amet diam</p>
-                            <a href="" class="btn btn-primary py-2 px-4">Read More</a>
-                        </div>
-                    </div>
-                    <!-- Plain Text End -->
+                   
+                   
                 </div>
                 <!-- Sidebar End -->
             </div>
@@ -517,11 +416,12 @@
                                 <h3 class="text-light mb-0">Services</h3>
                             </div>
                             <div class="link-animated d-flex flex-column justify-content-start">
-                                <a class="text-light mb-2" href="web_services.php"><i class="bi bi-arrow-right text-primary me-2"></i>Web Designing and Development</a>
-                                <a class="text-light mb-2" href="mobile_app_services.php"><i class="bi bi-arrow-right text-primary me-2"></i>Mobile App Development</a>
-                                <a class="text-light mb-2" href="social_media_marketing.php"><i class="bi bi-arrow-right text-primary me-2"></i>Social Media Marketing</a>
-                                <a class="text-light mb-2" href="ui_ux_designing_services.php"><i class="bi bi-arrow-right text-primary me-2"></i>UI / UX Design</a>
-                                <a class="text-light" href="seo_content_writing_services.php"><i class="bi bi-arrow-right text-primary me-2"></i>SEO / SEM Optimization</a>
+                                <a class="text-light mb-2" href="service_webdesign.php"><i class="bi bi-arrow-right text-primary me-2"></i>Websites</a>
+                                <a class="text-light mb-2" href="service_mobapp.php"><i class="bi bi-arrow-right text-primary me-2"></i>Mobile App Development</a>
+                                <a class="text-light mb-2" href="service_smm.php"><i class="bi bi-arrow-right text-primary me-2"></i>Social Media Marketing</a>
+                                <a class="text-light mb-2" href="service_graphic.php"><i class="bi bi-arrow-right text-primary me-2"></i>Graphic Design</a>
+                                <a class="text-light" href="service_seo.php"><i class="bi bi-arrow-right text-primary me-2"></i>SEO Optimization</a>
+                                <a class="text-light" href="blog.php"><i class="bi bi-arrow-right text-primary me-2"></i>Blog</a>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-12 pt-0 pt-lg-5 mb-5">
@@ -571,6 +471,16 @@
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
+
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-167196481-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-167196481-1');
+</script>
 
 </body>
 

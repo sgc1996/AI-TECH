@@ -1,9 +1,3 @@
-<?php
-
-include 'inquiry_mail.php';
-
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -73,82 +67,118 @@ include 'inquiry_mail.php';
 
 
     <!-- Navbar & Carousel Start -->
-    <div class="container-fluid position-relative p-0">
-        <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0">
-            <a href="index.php" class="navbar-brand p-0">
-                <!-- <h1 class="m-0"><i class="fa fa-user-tie me-2"></i>Startup</h1> -->
-                <img src="img/logo2.png" width="60%">
-            </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
-                <span class="fa fa-bars"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarCollapse">
-                <div class="navbar-nav ms-auto py-0">
-                    <a href="index.php" class="nav-item nav-link active">Home</a>
-                    <a href="about.php" class="nav-item nav-link">About</a>
-                    <a href="service.php" class="nav-item nav-link">Services</a>
-                    <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Products</a>
-                        <div class="dropdown-menu m-0">
-                            <a href="mobile_app.php" class="dropdown-item">Mobile Applications</a>
-                            <a href="web_app.php" class="dropdown-item">Web Applications</a>
-                            <a href="websites.php" class="dropdown-item">Websites</a>
-                        </div>
-                    </div>
-                    <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">News & Events</a>
-                        <div class="dropdown-menu m-0">
-                            <a href="#" class="dropdown-item">Blog</a>
-                            <!-- <a href="feature.php" class="dropdown-item">Our features</a>
-                            <a href="team.php" class="dropdown-item">Team Members</a>
-                            <a href="testimonial.php" class="dropdown-item">Testimonial</a>
-                            <a href="quote.php" class="dropdown-item">Free Quote</a> -->
-                        </div>
-                    </div>
-                    <a href="contact.php" class="nav-item nav-link">Contact</a>
-                </div>
-                <a href="career.php" class="btn btn-primary py-2 px-4 ms-3">Career</a>
-            </div>
-        </nav>
+<div class="container-fluid position-relative p-0">
+    <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0">
+        <a href="index.php" class="navbar-brand p-0">
+            <img src="img/logo2.png" width="60%">
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+            <span class="fa fa-bars"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <div class="navbar-nav ms-auto py-0">
+                <a href="index.php" class="nav-item nav-link active">Home</a>
+                <a href="about.php" class="nav-item nav-link">About</a>
 
-        <div id="header-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <img class="w-100" src="img/carousel-1.jpg" alt="Image">
-                    <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
-                        <div class="p-3" style="max-width: 900px;">
-                            <h5 class="text-white text-uppercase mb-3 animated slideInDown">Creative & Innovative</h5>
-                            <h1 class="display-1 text-white mb-md-4 animated zoomIn">Creative & Innovative Digital Solution</h1>
-                            <a href="index.php#RQA" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Free Quote</a>
-                            <a href="contact.php" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contact Us</a>
-                        </div>
+<!--service dropdown -->
+
+        <div class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button"
+                aria-haspopup="true" aria-expanded="false">Services</a>
+            <div class="dropdown-menu services-dropdown">
+                <div class="row" style="margin-left: 15px;">
+                    <div class="col-lg-4" style="border-right: 1px solid #ddd;">
+                     <h6 style="padding-left: 20px; background-color: #f8f9fa; color:#06A3DA;">Digital</h6>
+                        <a class="dropdown-item" href="service_webdesign.php">Web Design</a>
+                        <a class="dropdown-item" href="service_seo.php">SEO</a>
+                        <a class="dropdown-item" href="service_smm.php">SMM</a>
+                        <a class="dropdown-item" href="service_smo.php">SMO</a>
+                        <a class="dropdown-item" href="service_graphic.php">Graphic Design</a>
+                        <a class="dropdown-item" href="service_googleads.php">Google Ads</a>
+                        <a class="dropdown-item" href="service_leads.php">Lead Generation</a>
                     </div>
-                </div>
-                <div class="carousel-item">
-                    <img class="w-100" src="img/carousel-2.jpg" alt="Image">
-                    <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
-                        <div class="p-3" style="max-width: 900px;">
-                            <h5 class="text-white text-uppercase mb-3 animated slideInDown">Creative & Innovative</h5>
-                            <h1 class="display-1 text-white mb-md-4 animated zoomIn">Creative & Innovative Digital Solution</h1>
-                            <a href="index.php#RQA" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Free Quote</a>
-                            <a href="contact.php" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contact Us</a>
-                        </div>
+                    <div class="col-lg-4" style="border-right: 1px solid #ddd; ">
+                        <h6 style="padding-left: 20px; background-color: #f8f9fa; color:#06A3DA;">Develop</h6>
+                        <a class="dropdown-item" href="service_webapp.php">Web Application</a>
+                        <a class="dropdown-item" href="service_mobapp.php">Mobile Application</a>
+                    </div>
+                    <div class="col-lg-4">
+                        <h6 style="padding-left: 20px; background-color: #f8f9fa; color:#06A3DA;">Studio</h6>
+                        <a class="dropdown-item" href="service_video.php">Videography</a>
+                        <a class="dropdown-item" href="service_photo.php">Photography</a>
                     </div>
                 </div>
             </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel"
-                data-bs-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Previous</span>
-            </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#header-carousel"
-                data-bs-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Next</span>
-            </button>
         </div>
+
+<!-- End of service dropdown -->
+
+                <div class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Projects</a>
+                    <div class="dropdown-menu m-0">
+                        <a href="webdesign.php" class="dropdown-item">Websites</a>
+                        <a href="social_media.php" class="dropdown-item">Social Media</a>
+                        <a href="mobile_app.php" class="dropdown-item">Mobile Applications</a>
+                        <a href="web_app.php" class="dropdown-item">Web Applications</a>
+                        
+                    </div>
+                </div>
+                <div class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">SMM Events</a>
+                    <div class="dropdown-menu m-0">
+                        <a href="smm_su.php" class="dropdown-item">Sancharaka Udawa </a>
+                        <a href="smm_hs.php" class="dropdown-item">Hotel Show colombo </a>
+                        <a href="smm_fham.php" class="dropdown-item">FHAM </a>
+                        <a href="smm_cafe.php" class="dropdown-item">Cafe </a>
+                        <a href="smm_boat.php" class="dropdown-item">Boat and Marine Show </a>
+                        <a href="smm_lanpak.php" class="dropdown-item">Lankapak </a>
+                    </div>
+                </div>
+                <a href="contact.php" class="nav-item nav-link">Contact</a>
+            </div>
+            <a href="career.php" class="btn btn-primary py-2 px-4 ms-3">Career</a>
+        </div>
+    </nav>
+
+    <div id="header-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img class="w-100" src="img/carousel-1.jpg" alt="Image">
+                <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
+                    <div class="p-3" style="max-width: 900px;">
+                        <h5 class="text-white text-uppercase mb-3 animated slideInDown">Creative & Innovative</h5>
+                        <h1 class="display-1 text-white mb-md-4 animated zoomIn">Creative & Innovative Digital Solution</h1>
+                        <a href="index.php#RQA" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Free Quote</a>
+                        <a href="contact.php" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contact Us</a>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img class="w-100" src="img/carousel-2.jpg" alt="Image">
+                <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
+                    <div class="p-3" style="max-width: 900px;">
+                        <h5 class="text-white text-uppercase mb-3 animated slideInDown">Creative & Innovative</h5>
+                        <h1 class="display-1 text-white mb-md-4 animated zoomIn">Creative & Innovative Digital Solution</h1>
+                        <a href="index.php#RQA" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Free Quote</a>
+                        <a href="contact.php" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Contact Us</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel"
+            data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#header-carousel"
+            data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
     </div>
-    <!-- Navbar & Carousel End -->
+</div>
+<!-- Navbar & Carousel End -->
+
 
 
     <!-- Full Screen Search Start -->
@@ -181,7 +211,7 @@ include 'inquiry_mail.php';
                         </div>
                         <div class="ps-4">
                             <h5 class="text-white mb-0">Happy Clients</h5>
-                            <h1 class="text-white mb-0" data-toggle="counter-up">87</h1>
+                            <h1 class="text-white mb-0" data-toggle="counter-up">132</h1>
                         </div>
                     </div>
                 </div>
@@ -192,7 +222,7 @@ include 'inquiry_mail.php';
                         </div>
                         <div class="ps-4">
                             <h5 class="text-primary mb-0">Projects Done</h5>
-                            <h1 class="mb-0" data-toggle="counter-up">132</h1>
+                            <h1 class="mb-0" data-toggle="counter-up">188</h1>
                         </div>
                     </div>
                 </div>
@@ -202,8 +232,8 @@ include 'inquiry_mail.php';
                             <i class="fa fa-award text-primary"></i>
                         </div>
                         <div class="ps-4">
-                            <h5 class="text-white mb-0">Win Awards</h5>
-                            <h1 class="text-white mb-0" data-toggle="counter-up">4</h1>
+                            <h5 class="text-white mb-0">Staff</h5>
+                            <h1 class="text-white mb-0" data-toggle="counter-up">18</h1>
                         </div>
                     </div>
                 </div>
@@ -324,66 +354,115 @@ include 'inquiry_mail.php';
                         <div class="service-icon">
                             <i class="fa fa-code text-white"></i>
                         </div>
-                        <h4 class="mb-3">Web Designing and Development</h4>
-                        <p class="m-0">Our main service is Web Development and we have already developed +20 web products.</p>
+                        <h4 class="mb-3">Web Designing</h4>
+                        <p class="m-0">Craft visually appealing and user-friendly websites tailored to your brand.</p>
                         <a class="btn btn-lg btn-primary rounded" href="web_services.php">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
+
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
                     <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon">
-                            <i class="fa fa-mobile text-white"></i>
+                            <i class="fa fa-desktop text-white"></i>
                         </div>
-                        <h4 class="mb-3">Mobile App Development</h4>
-                        <p class="m-0">It is currently the most demanded service with the latest technology. We have developed +10 mobile apps.</p>
-                        <a class="btn btn-lg btn-primary rounded" href="mobile_app_services.php">
+                        <h4 class="mb-3">Graphic Design</h4>
+                        <p class="m-0">Design eye-catching visuals and graphics to elevate your brand identity.</p>
+                        <a class="btn btn-lg btn-primary rounded" href="ui_ux_designing_services.php">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
                 </div>
+
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-search text-white"></i>
+                        </div>
+                        <h4 class="mb-3">SEO Optimization</h4>
+                        <p class="m-0">Improve website visibility and ranking on search engines for increased organic traffic.</p>
+                        <a class="btn btn-lg btn-primary rounded" href="seo_content_writing_services.php">
+                            <i class="bi bi-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+
                 <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.9s">
                     <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon">
                             <i class="fa fa-table text-white"></i>
                         </div>
                         <h4 class="mb-3">Social Media Marketing</h4>
-                        <p class="m-0">Data Analytics (DA) is the process of examining data sets in order to find trends and draw conclusions about the information they contain.</p>
+                        <p class="m-0">Strategically leverage social platforms to enhance brand visibility and engagement. </p>
                         <a class="btn btn-lg btn-primary rounded" href="social_media_marketing.php">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
+
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.9s">
                     <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon">
-                            <i class="fa fa-desktop text-white"></i>
+                            <i class="fa fa-table text-white"></i>
                         </div>
-                        <h4 class="mb-3">UI / UX Design</h4>
-                        <p class="m-0">Choose Us as your UI/UX designer , because we provide the Most Immersive & Brilliant Designs.</p>
-                        <a class="btn btn-lg btn-primary rounded" href="ui_ux_designing_services.php">
+                        <h4 class="mb-3">Social Media Optimization</h4>
+                        <p class="m-0">Optimize social media profiles and content to maximize reach and impact.</p>
+                        <a class="btn btn-lg btn-primary rounded" href="social_media_marketing.php">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
                 </div>
+
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.9s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-table text-white"></i>
+                        </div>
+                        <h4 class="mb-3">Google Ads </h4>
+                        <p class="m-0">Run targeted advertising campaigns on Google to drive relevant traffic and conversions.</p>
+                        <a class="btn btn-lg btn-primary rounded" href="social_media_marketing.php">
+                            <i class="bi bi-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+
                 <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
                     <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon">
-                            <i class="fa fa-search text-white"></i>
+                        <i class="fa fa-desktop text-white"></i>
                         </div>
-                        <h4 class="mb-3">SEO / SEM Optimization</h4>
-                        <p class="m-0">We will make your website easily recognizable to your customers.</p>
-                        <a class="btn btn-lg btn-primary rounded" href="seo_content_writing_services.php">
+                        <h4 class="mb-3">Web App Development</h4>
+                        <p class="m-0">Build robust and scalable websites with cutting-edge technologies.</p>
+                        <a class="btn btn-lg btn-primary rounded" href="service_webapp.php">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
                 </div>
+
+
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-mobile text-white"></i>
+                        </div>
+                        <h4 class="mb-3">Mobile App Development</h4>
+                        <p class="m-0">Create customized mobile applications to engage your audience on-the-go. We have developed +10 mobile apps.</p>
+                        <a class="btn btn-lg btn-primary rounded" href="mobile_app_services.php">
+                            <i class="bi bi-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+
+              
+                
                 <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.9s">
                     <div class="position-relative bg-primary rounded h-100 d-flex flex-column align-items-center justify-content-center text-center p-5">
                         <h3 class="text-white mb-3">Message via Whatsapp Us For Quote</h3>
                         <p class="text-white mb-3">If you want to get our service, please let us know your requirement.</p>
-                        <a href="tel://+94774123480"><h2 class="text-white mb-0">+94 774 1234 80</h2></a>
+                        <a href="tel://+94774123480">
+                            <h2 class="text-white mb-0">+94 774 1234 80</h2>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -469,7 +548,7 @@ include 'inquiry_mail.php';
         <div class="container py-5">
             <div class="row g-5">
                 <div class="col-lg-7">
-                    <?php print_r($message); ?>
+                    <!--?php print_r($message); ?-->
                     <div class="section-title position-relative pb-3 mb-5">
                         <h5 class="fw-bold text-primary text-uppercase">Request A Quote</h5>
                         <h1 class="mb-0">Need A Free Quote? Please Feel Free to Contact Us</h1>
@@ -518,9 +597,9 @@ include 'inquiry_mail.php';
                                 <div class="col-12">
                                     <textarea class="form-control bg-light border-0" name="message" rows="3" placeholder="Message"></textarea>
                                 </div>
-                                <div class="col-12">
+                                <!--<div class="col-12">
                                     <div class="g-recaptcha" data-sitekey="6LePwJEpAAAAACskXQUSTDJEFLGHXyxMfFXrsCzf"></div>
-                                </div>
+                                </div>-->
                                 <div class="col-12">
                                     <button class="btn btn-dark w-100 py-3" name="submitquote" type="submit">Request A Quote</button>
                                 </div>
@@ -543,11 +622,56 @@ include 'inquiry_mail.php';
                 <h1 class="mb-0">What Our Clients Say About Our Digital Services</h1>
             </div>
             <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.6s">
+
+            <div class="testimonial-item client bg-light my-4">
+                    <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
+                        <img class="img-fluid rounded" src="img/feedback/t_imran.png" style="width: 60px; height: 60px;">
+                        <div class="ps-4">
+                            <h4 class="text-primary mb-1">I. Hassan</h4>
+                            <small class="text-uppercase">Managing Director</small><br>
+                            <small class="text-uppercase"><b>CDC EVENTS</b></small>
+                        </div>
+                    </div>
+                    <div class="pt-4 pb-5 px-5">
+                    AI Technologies Pvt Ltd has been an invaluable partner in managing our events and implementing successful social media marketing strategies. Their team's professionalism, creativity, and attention to detail have contributed greatly to the success of Sanchraka Udawa, Cafe, Hotel Show Colombo, and Fham. From event planning to execution and digital promotion, AI Technologies has consistently delivered exceptional results. 
+                    We highly recommend their services to anyone looking for top-notch event management and social media marketing solutions.
+                    </div>
+                </div>
+
+                <div class="testimonial-item client bg-light my-4">
+                    <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
+                        <img class="img-fluid rounded" src="img/feedback/t_pradeep.jpg" style="width: 60px; height: 60px;">
+                        <div class="ps-4">
+                            <h4 class="text-primary mb-1">P. Mapalagama</h4>
+                            <small class="text-uppercase">Managing Director</small><br>
+                            <small class="text-uppercase"><b>OPROMA COSMTICS</b></small>
+                        </div>
+                    </div>
+                    <div class="pt-4 pb-5 px-5">
+                    AI Technologies Pvt Ltd has been instrumental in elevating our online presence through their exceptional website development services. As the Managing Director of Oproma Cosmetics, I can confidently say that our collaboration with AI Technologies has significantly boosted our brand visibility and sales. 
+                    Their expertise in website design and digital marketing has helped us attract and engage customers effectively. Thank you for your outstanding work!
+                    </div>
+                </div>
+
+                <div class="testimonial-item client bg-light my-4">
+                    <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
+                        <img class="img-fluid rounded" src="img/feedback/t_lasantha.jpg" style="width: 60px; height: 60px;">
+                        <div class="ps-4">
+                            <h4 class="text-primary mb-1">L. Amarasinghe</h4>
+                            <small class="text-uppercase">Managing Director</small><br>
+                            <small class="text-uppercase"><b>CHANCE SPORTS</b></small>
+                        </div>
+                    </div>
+                    <div class="pt-4 pb-5 px-5">
+                    Working with AI Technologies Pvt Ltd for our website was a game-changer. Their team understood our vision perfectly and translated it into an impressive online platform. The website they created for The Chance Sports not only showcases our products beautifully but also enhances the overall shopping experience for our customers.
+                     We highly recommend their services!
+                    </div>
+                </div>
                 <div class="testimonial-item client bg-light my-4">
                     <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
                         <img class="img-fluid rounded" src="img/Dananjana.jpg" style="width: 60px; height: 60px;">
                         <div class="ps-4">
-                            <h4 class="text-primary mb-1">Dananjana Lakshan</h4>
+                            <h4 class="text-primary mb-1">D. Lakshan</h4>
                             <small class="text-uppercase">Managing Director</small><br>
                             <small class="text-uppercase"><b>NEWRO TOURS</b></small>
                         </div>
@@ -560,7 +684,7 @@ include 'inquiry_mail.php';
                     <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
                         <img class="img-fluid rounded" src="img/Warrick.jpg" style="width: 60px; height: 60px;">
                         <div class="ps-4">
-                            <h4 class="text-primary mb-1">Warrick Wadman</h4>
+                            <h4 class="text-primary mb-1">W. Wadman</h4>
                             <small class="text-uppercase">Chief Executive Officer</small><br>
                             <small class="text-uppercase"><b>CLEAN IN FUSION (USA)</b></small>
                         </div>
@@ -573,7 +697,7 @@ include 'inquiry_mail.php';
                     <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
                         <img class="img-fluid rounded" src="img/Chandrasiri.jpg" style="width: 60px; height: 60px;">
                         <div class="ps-4">
-                            <h4 class="text-primary mb-1">Chandrasiri Baladurage</h4>
+                            <h4 class="text-primary mb-1">C. Baladurage</h4>
                             <small class="text-uppercase">Managing Director</small><br>
                             <small class="text-uppercase"><b>FOREST ROCK AND PALM GARDEN HOTELS</b></small>
                         </div>
@@ -586,7 +710,7 @@ include 'inquiry_mail.php';
                     <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
                         <img class="img-fluid rounded" src="img/Henrik.jpg" style="width: 60px; height: 60px;">
                         <div class="ps-4">
-                            <h4 class="text-primary mb-1">Henrik Melder</h4>
+                            <h4 class="text-primary mb-1">H. Melder</h4>
                             <small class="text-uppercase">Head Consultant</small><br>
                             <small class="text-uppercase"><b>ROSHITA CONSULTANTS (DENMARK)</b></small>
                         </div>
@@ -599,7 +723,7 @@ include 'inquiry_mail.php';
                     <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
                         <img class="img-fluid rounded" src="img/Thilina.jpg" style="width: 60px; height: 60px;">
                         <div class="ps-4">
-                            <h4 class="text-primary mb-1">Thilina Perera</h4>
+                            <h4 class="text-primary mb-1">T. Perera</h4>
                             <small class="text-uppercase">Senior Engineer</small><br>
                             <small class="text-uppercase"><b>ICEMAN TECHNICAL SOLUTIONS</b></small>
                         </div>
@@ -612,7 +736,7 @@ include 'inquiry_mail.php';
                     <div class="d-flex align-items-center border-bottom pt-5 pb-4 px-5">
                         <img class="img-fluid rounded" src="img/indika.jpg" style="width: 60px; height: 60px;">
                         <div class="ps-4">
-                            <h4 class="text-primary mb-1">Indika Wijesundara</h4>
+                            <h4 class="text-primary mb-1">I. Wijesundara</h4>
                             <small class="text-uppercase">Managing Director</small><br>
                             <small class="text-uppercase"><b>SATHUTA INDUSTRY</b></small>
                         </div>
@@ -906,12 +1030,10 @@ include 'inquiry_mail.php';
 
 
 
-
-
     <!-- Partners Start -->
     <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s">
         <div class="container mb-5">
-            <div class="text-center position-relative pb-3 mb-4 mx-auto" style="max-width: 600px;">
+            <div class="text-center position-relative pb-3 mb-4 mx-auto" style="max-width: 600px; ">
                 <h5 class="fw-bold text-primary text-uppercase">Partners</h5>
             </div>
             <div class="bg-white">
@@ -966,6 +1088,85 @@ include 'inquiry_mail.php';
         </div>
     </div>
     <!-- PLATFORMS & TECHNOLOGIES End -->
+
+
+    <!-- Blog Start -->
+ <div class="container-fluid wow fadeInUp" data-wow-delay="0.1s" styl>
+    <div class="container mb-5">
+        <div class="text-center position-relative pb-3 mb-4 mx-auto" style="max-width: 600px;">
+            <h5 class="fw-bold text-primary text-uppercase">Blogs</h5>
+        </div>
+
+<!-- Blog list Start -->
+<div class="col-lg-12">
+                    <div class="row g-5">
+                        <div class="col-md-4 wow slideInUp" data-wow-delay="0.1s">
+                            <div class="blog-item bg-light rounded overflow-hidden">
+                                <div class="blog-img position-relative overflow-hidden">
+                                    <img class="img-fluid" src="img/blog/blog_su.jpg" alt="">
+                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="" style="margin-top: 13rem !important;">Media Launch</a>
+                                </div>
+                                <div class="p-4">
+                                    <div class="d-flex mb-3">
+                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>Gayan Chaturanga</small>
+                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>18 April, 2024</small>
+                                    </div>
+                                    <h4 class="mb-3">Sancharaka Udawa 2024 Media Launch</h4>
+                                    <p>A.I Technologies Pvt Ltd will be the offcial Social Media Marketing Partner of the Sancharaka Udawa 2024</p>
+                                    <a class="text-uppercase" href="blog_m2.php">Read More <i class="bi bi-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                
+                        <div class="col-md-4 wow slideInUp" data-wow-delay="0.1s">
+                            <div class="blog-item bg-light rounded overflow-hidden">
+                                <div class="blog-img position-relative overflow-hidden">
+                                    <img class="img-fluid" src="img/blog/blog_cafe.jpg" alt="">
+                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4"  href="" style="margin-top: 13rem !important;">Media Launch</a>
+                                </div>
+                                <div class="p-4">
+                                    <div class="d-flex mb-3">
+                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>Gayan Chaturanga</small>
+                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>18 April, 2024</small>
+                                    </div>
+                                    <h4 class="mb-3">Cafe 2024 Media Launch</h4>
+                                    <p>A.I Technologies Pvt Ltd will be the offcial Social Media Marketing Partner of the Cafe 2024</p>
+                                    <a class="text-uppercase" href="blog_m1.php">Read More <i class="bi bi-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 wow slideInUp" data-wow-delay="0.6s">
+                            <div class="blog-item bg-light rounded overflow-hidden">
+                                <div class="blog-img position-relative overflow-hidden">
+                                    <img class="img-fluid" src="img/blog/blog_cha.jpg" alt="">
+                                    <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="" style="margin-top: 13rem !important;">Agreement Sign</a>
+                                </div>
+                                <div class="p-4">
+                                    <div class="d-flex mb-3">
+                                        <small class="me-3"><i class="far fa-user text-primary me-2"></i>Buwaneka Lalinda</small>
+                                        <small><i class="far fa-calendar-alt text-primary me-2"></i>30 april, 2024</small>
+                                    </div>
+                                    <h4 class="mb-3">Agreement Sign for The Chance sports Website Project. </h4>
+                                    <p>A.I Technologies PVT LTD sign the offical Agreement of the Chance sports Website Project. </p>
+                                    <a class="text-uppercase" href="blog_s1.php">Read More <i class="bi bi-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+
+                    <div class="text-center"> <!-- Added text-center to center align the content -->
+                        <a href="blog.php" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">View More </a> <!-- The link is centered along with its parent content -->
+                    </div>
+                      
+                       
+                        
+                       
+                     
+                       
+                    </div>
+                </div>
+</div>
+</div>
+                <!-- Blog list End -->
     
 
     <!-- Footer Start -->
@@ -1017,11 +1218,12 @@ include 'inquiry_mail.php';
                                 <h3 class="text-light mb-0">Services</h3>
                             </div>
                             <div class="link-animated d-flex flex-column justify-content-start">
-                                <a class="text-light mb-2" href="web_services.php"><i class="bi bi-arrow-right text-primary me-2"></i>Web Designing and Development</a>
-                                <a class="text-light mb-2" href="mobile_app_services.php"><i class="bi bi-arrow-right text-primary me-2"></i>Mobile App Development</a>
-                                <a class="text-light mb-2" href="social_media_marketing.php"><i class="bi bi-arrow-right text-primary me-2"></i>Social Media Marketing</a>
-                                <a class="text-light mb-2" href="ui_ux_designing_services.php"><i class="bi bi-arrow-right text-primary me-2"></i>UI / UX Design</a>
-                                <a class="text-light" href="seo_content_writing_services.php"><i class="bi bi-arrow-right text-primary me-2"></i>SEO / SEM Optimization</a>
+                                <a class="text-light mb-2" href="service_webdesign.php"><i class="bi bi-arrow-right text-primary me-2"></i>Websites</a>
+                                <a class="text-light mb-2" href="service_mobapp.php"><i class="bi bi-arrow-right text-primary me-2"></i>Mobile App Development</a>
+                                <a class="text-light mb-2" href="service_smm.php"><i class="bi bi-arrow-right text-primary me-2"></i>Social Media Marketing</a>
+                                <a class="text-light mb-2" href="service_graphic.php"><i class="bi bi-arrow-right text-primary me-2"></i>Graphic Design</a>
+                                <a class="text-light" href="service_seo.php"><i class="bi bi-arrow-right text-primary me-2"></i>SEO Optimization</a>
+                                <a class="text-light" href="blog.php"><i class="bi bi-arrow-right text-primary me-2"></i>Blog</a>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-12 pt-0 pt-lg-5 mb-5">
@@ -1035,6 +1237,7 @@ include 'inquiry_mail.php';
                                 <a class="text-light mb-2" href="mobile_app.php#PP"><i class="bi bi-arrow-right text-primary me-2"></i>Positively Paid</a>
                                 <a class="text-light mb-2" href="mobile_app.php#HB"><i class="bi bi-arrow-right text-primary me-2"></i>Handy Biller</a>
                                 <a class="text-light" href="mobile_app.php#PK"><i class="bi bi-arrow-right text-primary me-2"></i>Picker</a>
+                                
                             </div>
                         </div>
                     </div>
@@ -1071,6 +1274,16 @@ include 'inquiry_mail.php';
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
+
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-167196481-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-167196481-1');
+</script>
 
 </body>
 

@@ -67,41 +67,74 @@
     <!-- Navbar Start -->
     <div class="container-fluid position-relative p-0">
         <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0">
-            <a href="index.php" class="navbar-brand p-0">
-                <!-- <h1 class="m-0"><i class="fa fa-user-tie me-2"></i>Startup</h1> -->
-                <img src="img/logo2.png" width="60%">
-            </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
-                <span class="fa fa-bars"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarCollapse">
-                <div class="navbar-nav ms-auto py-0">
-                    <a href="index.php" class="nav-item nav-link">Home</a>
-                    <a href="about.php" class="nav-item nav-link">About</a>
-                    <a href="service.php" class="nav-item nav-link active">Services</a>
-                    <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Products</a>
-                        <div class="dropdown-menu m-0">
-                            <a href="mobile_app.php" class="dropdown-item">Mobile Applications</a>
-                            <a href="web_app.php" class="dropdown-item">Web Applications</a>
-                            <a href="websites.php" class="dropdown-item">Websites</a>
-                        </div>
+        <a href="index.php" class="navbar-brand p-0">
+            <img src="img/logo2.png" width="60%">
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+            <span class="fa fa-bars"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <div class="navbar-nav ms-auto py-0">
+                <a href="index.php" class="nav-item nav-link ">Home</a>
+                <a href="about.php" class="nav-item nav-link">About</a>
+                <!--service dropdown -->
+
+        <div class="nav-item dropdown">
+            <a class="nav-link active dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button"
+                aria-haspopup="true" aria-expanded="false">Services</a>
+            <div class="dropdown-menu services-dropdown">
+                <div class="row" style="margin-left: 15px;">
+                    <div class="col-lg-4" style="border-right: 1px solid #ddd;">
+                     <h6 style="padding-left: 20px; background-color: #f8f9fa; color:#06A3DA;">Digital</h6>
+                        <a class="dropdown-item" href="service_webdesign.php">Web Design</a>
+                        <a class="dropdown-item" href="service_seo.php">SEO</a>
+                        <a class="dropdown-item" href="service_smm.php">SMM</a>
+                        <a class="dropdown-item" href="service_smo.php">SMO</a>
+                        <a class="dropdown-item" href="service_graphic.php">Graphic Design</a>
+                        <a class="dropdown-item" href="service_googleads.php">Google Ads</a>
+                        <a class="dropdown-item" href="service_leads.php">Lead Generation</a>
                     </div>
-                    <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">News & Events</a>
-                        <div class="dropdown-menu m-0">
-                            <a href="#" class="dropdown-item">Blog</a>
-                            <!-- <a href="feature.php" class="dropdown-item">Our features</a>
-                            <a href="team.php" class="dropdown-item">Team Members</a>
-                            <a href="testimonial.php" class="dropdown-item">Testimonial</a>
-                            <a href="quote.php" class="dropdown-item">Free Quote</a> -->
-                        </div>
+                    <div class="col-lg-4" style="border-right: 1px solid #ddd; ">
+                        <h6 style="padding-left: 20px; background-color: #f8f9fa; color:#06A3DA;">Develop</h6>
+                        <a class="dropdown-item" href="service_webapp.php">Web Application</a>
+                        <a class="dropdown-item" href="service_mobapp.php">Mobile Application</a>
                     </div>
-                    <a href="contact.php" class="nav-item nav-link">Contact</a>
+                    <div class="col-lg-4">
+                        <h6 style="padding-left: 20px; background-color: #f8f9fa; color:#06A3DA;">Studio</h6>
+                        <a class="dropdown-item" href="service_video.php">Videography</a>
+                        <a class="dropdown-item" href="service_photo.php">Photography</a>
+                    </div>
                 </div>
-                <a href="career.php" class="btn btn-primary py-2 px-4 ms-3">Career</a>
             </div>
-        </nav>
+        </div>
+
+<!-- End of service dropdown -->
+                <div class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Projects</a>
+                    <div class="dropdown-menu m-0">
+                        <a href="webdesign.php" class="dropdown-item">Websites</a>
+                        <a href="social_media.php" class="dropdown-item">Social Media</a>
+                        <a href="mobile_app.php" class="dropdown-item">Mobile Applications</a>
+                        <a href="web_app.php" class="dropdown-item">Web Applications</a>
+                        
+                    </div>
+                </div>
+                <div class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">SMM Events</a>
+                    <div class="dropdown-menu m-0">
+                        <a href="smm_su.php" class="dropdown-item">Sancharaka Udawa </a>
+                        <a href="smm_hs.php" class="dropdown-item">Hotel Show colombo </a>
+                        <a href="smm_fham.php" class="dropdown-item">FHAM </a>
+                        <a href="smm_cafe.php" class="dropdown-item">Cafe </a>
+                        <a href="smm_boat.php" class="dropdown-item">Boat and Marine Show </a>
+                        <a href="smm_lanpak.php" class="dropdown-item">Lankapak </a>
+                    </div>
+                </div>
+                <a href="contact.php" class="nav-item nav-link">Contact</a>
+            </div>
+            <a href="career.php" class="btn btn-primary py-2 px-4 ms-3">Career</a>
+        </div>
+    </nav>
 
         <div class="container-fluid bg-primary py-5 bg-header" style="margin-bottom: 90px;">
             <div class="row py-5">
@@ -149,61 +182,147 @@
                         <div class="service-icon">
                             <i class="fa fa-code text-white"></i>
                         </div>
-                        <h4 class="mb-3">Web Designing and Development</h4>
-                        <p class="m-0">Our main service is Web Development and we have already developed +20 web products.</p>
+                        <h4 class="mb-3">Web Designing</h4>
+                        <p class="m-0">Craft visually appealing and user-friendly websites tailored to your brand.</p>
                         <a class="btn btn-lg btn-primary rounded" href="web_services.php">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
+
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
                     <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon">
-                            <i class="fa fa-mobile text-white"></i>
+                            <i class="fa fa-desktop text-white"></i>
                         </div>
-                        <h4 class="mb-3">Mobile App Development</h4>
-                        <p class="m-0">It is currently the most demanded service with the latest technology. We have developed +10 mobile apps.</p>
-                        <a class="btn btn-lg btn-primary rounded" href="mobile_app_services.php">
+                        <h4 class="mb-3">Graphic Design</h4>
+                        <p class="m-0">Design eye-catching visuals and graphics to elevate your brand identity.</p>
+                        <a class="btn btn-lg btn-primary rounded" href="ui_ux_designing_services.php">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
                 </div>
+
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-search text-white"></i>
+                        </div>
+                        <h4 class="mb-3">SEO Optimization</h4>
+                        <p class="m-0">Improve website visibility and ranking on search engines for increased organic traffic.</p>
+                        <a class="btn btn-lg btn-primary rounded" href="seo_content_writing_services.php">
+                            <i class="bi bi-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+
                 <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.9s">
                     <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon">
                             <i class="fa fa-table text-white"></i>
                         </div>
                         <h4 class="mb-3">Social Media Marketing</h4>
-                        <p class="m-0">Data Analytics (DA) is the process of examining data sets in order to find trends and draw conclusions about the information they contain.</p>
+                        <p class="m-0">Strategically leverage social platforms to enhance brand visibility and engagement. </p>
                         <a class="btn btn-lg btn-primary rounded" href="social_media_marketing.php">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
+
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.9s">
                     <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon">
-                            <i class="fa fa-desktop text-white"></i>
+                            <i class="fa fa-table text-white"></i>
                         </div>
-                        <h4 class="mb-3">UI / UX Design</h4>
-                        <p class="m-0">Choose Us as your UI/UX designer , because we provide the Most Immersive & Brilliant Designs.</p>
-                        <a class="btn btn-lg btn-primary rounded" href="ui_ux_designing_services.php">
+                        <h4 class="mb-3">Social Media Optimization</h4>
+                        <p class="m-0">Optimize social media profiles and content to maximize reach and impact.</p>
+                        <a class="btn btn-lg btn-primary rounded" href="social_media_marketing.php">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
                 </div>
+
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.9s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-table text-white"></i>
+                        </div>
+                        <h4 class="mb-3">Google Ads </h4>
+                        <p class="m-0">Run targeted advertising campaigns on Google to drive relevant traffic and conversions.</p>
+                        <a class="btn btn-lg btn-primary rounded" href="social_media_marketing.php">
+                            <i class="bi bi-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.9s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-table text-white"></i>
+                        </div>
+                        <h4 class="mb-3">Lead Generation</h4>
+                        <p class="m-0">Implement strategies to capture and nurture leads for business growth.</p>
+                        <a class="btn btn-lg btn-primary rounded" href="social_media_marketing.php">
+                            <i class="bi bi-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+
                 <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
                     <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
                         <div class="service-icon">
-                            <i class="fa fa-search text-white"></i>
+                        <i class="fa fa-desktop text-white"></i>
                         </div>
-                        <h4 class="mb-3">SEO / SEM Optimization</h4>
-                        <p class="m-0">We will make your website easily recognizable to your customers.</p>
-                        <a class="btn btn-lg btn-primary rounded" href="seo_content_writing_services.php">
+                        <h4 class="mb-3">Web App Development</h4>
+                        <p class="m-0">Build robust and scalable websites with cutting-edge technologies.</p>
+                        <a class="btn btn-lg btn-primary rounded" href="service_webapp.php">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
                 </div>
+
+
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-mobile text-white"></i>
+                        </div>
+                        <h4 class="mb-3">Mobile App Development</h4>
+                        <p class="m-0">Create customized mobile applications to engage your audience on-the-go. We have developed +10 mobile apps.</p>
+                        <a class="btn btn-lg btn-primary rounded" href="mobile_app_services.php">
+                            <i class="bi bi-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-mobile text-white"></i>
+                        </div>
+                        <h4 class="mb-3">Videography</h4>
+                        <p class="m-0">Produce compelling videos to showcase products, services, and brand stories.</p>
+                        <a class="btn btn-lg btn-primary rounded" href="mobile_app_services.php">
+                            <i class="bi bi-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <div class="service-icon">
+                            <i class="fa fa-mobile text-white"></i>
+                        </div>
+                        <h4 class="mb-3">Photography</h4>
+                        <p class="m-0">Capture high-quality images to complement your digital presence and marketing efforts.</p>
+                        <a class="btn btn-lg btn-primary rounded" href="mobile_app_services.php">
+                            <i class="bi bi-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+                
+              
+                
                 <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.9s">
                     <div class="position-relative bg-primary rounded h-100 d-flex flex-column align-items-center justify-content-center text-center p-5">
                         <h3 class="text-white mb-3">Message via Whatsapp Us For Quote</h3>
@@ -569,11 +688,12 @@
                                 <h3 class="text-light mb-0">Services</h3>
                             </div>
                             <div class="link-animated d-flex flex-column justify-content-start">
-                                <a class="text-light mb-2" href="web_services.php"><i class="bi bi-arrow-right text-primary me-2"></i>Web Designing and Development</a>
-                                <a class="text-light mb-2" href="mobile_app_services.php"><i class="bi bi-arrow-right text-primary me-2"></i>Mobile App Development</a>
-                                <a class="text-light mb-2" href="social_media_marketing.php"><i class="bi bi-arrow-right text-primary me-2"></i>Social Media Marketing</a>
-                                <a class="text-light mb-2" href="ui_ux_designing_services.php"><i class="bi bi-arrow-right text-primary me-2"></i>UI / UX Design</a>
-                                <a class="text-light" href="seo_content_writing_services.php"><i class="bi bi-arrow-right text-primary me-2"></i>SEO / SEM Optimization</a>
+                                <a class="text-light mb-2" href="service_webdesign.php"><i class="bi bi-arrow-right text-primary me-2"></i>Websites</a>
+                                <a class="text-light mb-2" href="service_mobapp.php"><i class="bi bi-arrow-right text-primary me-2"></i>Mobile App Development</a>
+                                <a class="text-light mb-2" href="service_smm.php"><i class="bi bi-arrow-right text-primary me-2"></i>Social Media Marketing</a>
+                                <a class="text-light mb-2" href="service_graphic.php"><i class="bi bi-arrow-right text-primary me-2"></i>Graphic Design</a>
+                                <a class="text-light" href="service_seo.php"><i class="bi bi-arrow-right text-primary me-2"></i>SEO Optimization</a>
+                                <a class="text-light" href="blog.php"><i class="bi bi-arrow-right text-primary me-2"></i>Blog</a>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-12 pt-0 pt-lg-5 mb-5">
@@ -623,6 +743,16 @@
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
+
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-167196481-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-167196481-1');
+</script>
 
 </body>
 

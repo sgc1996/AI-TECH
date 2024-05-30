@@ -66,50 +66,82 @@
 
     <!-- Navbar Start -->
     <div class="container-fluid position-relative p-0">
-        <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0">
-            <a href="index.php" class="navbar-brand p-0">
-                <!-- <h1 class="m-0"><i class="fa fa-user-tie me-2"></i>Startup</h1> -->
-                <img src="img/logo2.png" width="60%">
-            </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
-                <span class="fa fa-bars"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarCollapse">
-                <div class="navbar-nav ms-auto py-0">
-                    <a href="index.php" class="nav-item nav-link">Home</a>
-                    <a href="about.php" class="nav-item nav-link">About</a>
-                    <a href="service.php" class="nav-item nav-link">Services</a>
-                    <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown">Products</a>
-                        <div class="dropdown-menu m-0">
-                            <a href="mobile_app.php" class="dropdown-item">Mobile Applications</a>
-                            <a href="web_app.php" class="dropdown-item">Web Applications</a>
-                            <a href="websites.php" class="dropdown-item">Websites</a>
-                        </div>
-                    </div>
-                    <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">News & Events</a>
-                        <div class="dropdown-menu m-0">
-                            <a href="#" class="dropdown-item">Blog</a>
-                            <!-- <a href="feature.php" class="dropdown-item">Our features</a>
-                            <a href="team.php" class="dropdown-item">Team Members</a>
-                            <a href="testimonial.php" class="dropdown-item">Testimonial</a>
-                            <a href="quote.php" class="dropdown-item">Free Quote</a> -->
-                        </div>
-                    </div>
-                    <a href="contact.php" class="nav-item nav-link">Contact</a>
-                </div>
-                <a href="career.php" class="btn btn-primary py-2 px-4 ms-3">Career</a>
-            </div>
-        </nav>
+       <nav class="navbar navbar-expand-lg navbar-dark px-5 py-3 py-lg-0">
+        <a href="index.php" class="navbar-brand p-0">
+            <img src="img/logo2.png" width="60%">
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+            <span class="fa fa-bars"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <div class="navbar-nav ms-auto py-0">
+                <a href="index.php" class="nav-item nav-link ">Home</a>
+                <a href="about.php" class="nav-item nav-link">About</a>
+                <!--service dropdown -->
 
+        <div class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button"
+                aria-haspopup="true" aria-expanded="false">Services</a>
+            <div class="dropdown-menu services-dropdown">
+                <div class="row" style="margin-left: 15px;">
+                    <div class="col-lg-4" style="border-right: 1px solid #ddd;">
+                     <h6 style="padding-left: 20px; background-color: #f8f9fa; color:#06A3DA;">Digital</h6>
+                        <a class="dropdown-item" href="service_webdesign.php">Web Design</a>
+                        <a class="dropdown-item" href="service_seo.php">SEO</a>
+                        <a class="dropdown-item" href="service_smm.php">SMM</a>
+                        <a class="dropdown-item" href="service_smo.php">SMO</a>
+                        <a class="dropdown-item" href="service_graphic.php">Graphic Design</a>
+                        <a class="dropdown-item" href="service_googleads.php">Google Ads</a>
+                        <a class="dropdown-item" href="service_leads.php">Lead Generation</a>
+                    </div>
+                    <div class="col-lg-4" style="border-right: 1px solid #ddd; ">
+                        <h6 style="padding-left: 20px; background-color: #f8f9fa; color:#06A3DA;">Develop</h6>
+                        <a class="dropdown-item" href="service_webapp.php">Web Application</a>
+                        <a class="dropdown-item" href="service_mobapp.php">Mobile Application</a>
+                    </div>
+                    <div class="col-lg-4">
+                        <h6 style="padding-left: 20px; background-color: #f8f9fa; color:#06A3DA;">Studio</h6>
+                        <a class="dropdown-item" href="service_video.php">Videography</a>
+                        <a class="dropdown-item" href="service_photo.php">Photography</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+<!-- End of service dropdown -->
+                <div class="nav-item dropdown">
+                    <a href="#" class="nav-link active dropdown-toggle" data-bs-toggle="dropdown">Projects</a>
+                    <div class="dropdown-menu m-0">
+                        <a href="webdesign.php" class="dropdown-item">Websites</a>
+                        <a href="social_media.php" class="dropdown-item">Social Media</a>
+                        <a href="mobile_app.php" class="dropdown-item">Mobile Applications</a>
+                        <a href="web_app.php" class="dropdown-item">Web Applications</a>
+                        
+                    </div>
+                </div>
+                <div class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">SMM Events</a>
+                    <div class="dropdown-menu m-0">
+                        <a href="smm_su.php" class="dropdown-item">Sancharaka Udawa </a>
+                        <a href="smm_hs.php" class="dropdown-item">Hotel Show colombo </a>
+                        <a href="smm_fham.php" class="dropdown-item">FHAM </a>
+                        <a href="smm_cafe.php" class="dropdown-item">Cafe </a>
+                        <a href="smm_boat.php" class="dropdown-item">Boat and Marine Show </a>
+                        <a href="smm_lanpak.php" class="dropdown-item">Lankapak </a>
+                    </div>
+                </div>
+                <a href="contact.php" class="nav-item nav-link">Contact</a>
+            </div>
+            <a href="career.php" class="btn btn-primary py-2 px-4 ms-3">Career</a>
+        </div>
+    </nav>
         <div class="container-fluid bg-primary py-5 bg-header" style="margin-bottom: 90px;">
             <div class="row py-5">
                 <div class="col-12 pt-lg-5 mt-lg-5 text-center">
-                    <h1 class="display-4 text-white animated zoomIn">Products</h1>
+                    <h1 class="display-4 text-white animated zoomIn">Projects</h1>
                     <a href="index.php" class="h5 text-white">Home</a>
                     <i class="far fa-circle text-white px-2"></i>
-                    <a href="" class="h5 text-white">Products</a>
+                    <a href="" class="h5 text-white">Projects</a>
                     <i class="far fa-circle text-white px-2"></i>
                     <a href="" class="h5 text-white">Web Applications</a>
                 </div>
@@ -146,7 +178,7 @@
                         <!-- Blog Detail Start -->
                         <div class="mb-5 py-5">
                             <h1 class="mb-4">Learning Management System</h1>
-                            <img class="img-fluid w-100 rounded mb-5" src="img/lms.jpg" alt="">
+                            <img class="img-fluid w-100 rounded mb-5" src="img/mobile/mob_1.png" alt="">
                             <div class="services-text-block">
                                 <strong class="bold-text"><em class="bluelead">Work On:</em></strong>&nbsp;2021 August – 2021 December<br>
                             </div><br>
@@ -214,7 +246,7 @@
                         <!-- Blog Detail Start -->
                         <div class="mb-5 py-5">
                             <h1 class="mb-4">Beats By You – Music Store</h1>
-                            <img class="img-fluid w-100 rounded mb-5" src="img/Beats By You.jpg" alt="">
+                            <img class="img-fluid w-100 rounded mb-5" src="img/webapp/webapp_2.png" alt="">
                             <div class="services-text-block">
                                 <strong class="bold-text"><em class="bluelead">Work On:</em></strong>&nbsp;2020 August – 2020 November<br>
                             </div><br>
@@ -280,7 +312,7 @@
                         <!-- Blog Detail Start -->
                         <div class="mb-5 py-5">
                             <h1 class="mb-4">Aleased Musics</h1>
-                            <img class="img-fluid w-100 rounded mb-5" src="img/Aleased Musics.jpg" alt="">
+                            <img class="img-fluid w-100 rounded mb-5" src="img/webapp/webapp_3.png" alt="">
                             <div class="services-text-block">
                                 <strong class="bold-text"><em class="bluelead">Work On:</em></strong>&nbsp;2020 April – 2020 June<br>
                             </div><br>
@@ -346,7 +378,7 @@
                         <!-- Blog Detail Start -->
                         <div class="mb-5 py-5">
                             <h1 class="mb-4">Customized CRM System</h1>
-                            <img class="img-fluid w-100 rounded mb-5" src="img/CRM System.jpg" alt="">
+                            <img class="img-fluid w-100 rounded mb-5" src="img/webapp/webapp_4.png" alt="">
                             <!-- <div class="services-text-block">
                             <strong class="bold-text"><em class="bluelead">URL:</em></strong>&nbsp;<a href="northernbiofules.com" target="_blank" style="color:#6b6a75;">northernbiofules.com</a><br>
                         </div><br> -->
@@ -412,7 +444,7 @@
                         <!-- Blog Detail Start -->
                         <div class="mb-5 py-5">
                             <h1 class="mb-4">Art Print On Demand</h1>
-                            <img class="img-fluid w-100 rounded mb-5" src="img/Art Print On Demand.jpg" alt="">
+                            <img class="img-fluid w-100 rounded mb-5" src="img/webapp/webapp_5.png" alt="">
                             <div class="services-text-block">
                                 <strong class="bold-text"><em class="bluelead">URL:</em></strong>&nbsp;<a href="http://artprintondemand.com.au/" target="_blank" style="color:#6b6a75;">http://artprintondemand.com.au/</a><br>
                             </div><br>
@@ -481,7 +513,7 @@
                         <!-- Blog Detail Start -->
                         <div class="mb-5 py-5">
                             <h1 class="mb-4">Kangy Labs Educations</h1>
-                            <img class="img-fluid w-100 rounded mb-5" src="img/Kangy Labs Educations.jpg" alt="">
+                            <img class="img-fluid w-100 rounded mb-5" src="img/webapp/webapp_6.png" alt="">
                             <div class="services-text-block">
                                 <strong class="bold-text"><em class="bluelead">Work On:</em></strong>&nbsp;2020 July – 2020 October<br>
                             </div><br>
@@ -549,7 +581,7 @@
                         <!-- Blog Detail Start -->
                         <div class="mb-5 py-5">
                             <h1 class="mb-4">A I Tech HMS</h1>
-                            <img class="img-fluid w-100 rounded mb-5" src="img/HMS.jpg" alt="">
+                            <img class="img-fluid w-100 rounded mb-5" src="img/webapp/webapp_7.png" alt="">
                             <div class="services-text-block">
                                 <strong class="bold-text"><em class="bluelead">URL:</em></strong>&nbsp;<a href="https://hotel-management-system-829d8.firebaseapp.com/login" target="_blank" style="color:#6b6a75;">https://hotel-management-system-829d8.firebaseapp.com/login</a><br>
                             </div><br>
@@ -655,11 +687,12 @@
                                 <h3 class="text-light mb-0">Services</h3>
                             </div>
                             <div class="link-animated d-flex flex-column justify-content-start">
-                                <a class="text-light mb-2" href="web_services.php"><i class="bi bi-arrow-right text-primary me-2"></i>Web Designing and Development</a>
-                                <a class="text-light mb-2" href="mobile_app_services.php"><i class="bi bi-arrow-right text-primary me-2"></i>Mobile App Development</a>
-                                <a class="text-light mb-2" href="social_media_marketing.php"><i class="bi bi-arrow-right text-primary me-2"></i>Social Media Marketing</a>
-                                <a class="text-light mb-2" href="ui_ux_designing_services.php"><i class="bi bi-arrow-right text-primary me-2"></i>UI / UX Design</a>
-                                <a class="text-light" href="seo_content_writing_services.php"><i class="bi bi-arrow-right text-primary me-2"></i>SEO / SEM Optimization</a>
+                                <a class="text-light mb-2" href="service_webdesign.php"><i class="bi bi-arrow-right text-primary me-2"></i>Websites</a>
+                                <a class="text-light mb-2" href="service_mobapp.php"><i class="bi bi-arrow-right text-primary me-2"></i>Mobile App Development</a>
+                                <a class="text-light mb-2" href="service_smm.php"><i class="bi bi-arrow-right text-primary me-2"></i>Social Media Marketing</a>
+                                <a class="text-light mb-2" href="service_graphic.php"><i class="bi bi-arrow-right text-primary me-2"></i>Graphic Design</a>
+                                <a class="text-light" href="service_seo.php"><i class="bi bi-arrow-right text-primary me-2"></i>SEO Optimization</a>
+                                <a class="text-light" href="blog.php"><i class="bi bi-arrow-right text-primary me-2"></i>Blog</a>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-12 pt-0 pt-lg-5 mb-5">
@@ -709,7 +742,16 @@
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
+    
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-167196481-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'UA-167196481-1');
+</script>
 </body>
 
 </html>

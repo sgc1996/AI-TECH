@@ -395,7 +395,7 @@ h6,
 }
 
 .client{
-    height: 410px;
+    height: 550px;
 }
 
 
@@ -558,4 +558,35 @@ h6,
     background-color: transparent !important;
     border: none !important;
     box-shadow: none !important;
+}
+
+/*** media for navigation dropdown ***/
+
+@media (min-width: 990px) {
+    .services-dropdown {
+        min-width:600px !important;
+    }
+    
+}
+
+/*** media for navigation font color ***/
+@media (max-width: 991px) {
+    .navbar-dark .navbar-nav .nav-link,
+    .navbar-dark .navbar-nav .nav-link.show,
+    .sticky-top.navbar-dark .navbar-nav .nav-link {
+        color: #ffffff !important; 
+    }
+}
+
+/***Navigation active link ***/
+.navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link.active {
+    color: var(--primary) !important;
+}
+
+.text-center-social {
+    margin: -40px !important;
+    font-weight: bold;
+}
+.social-icons{
+    margin: 50px !important;
 }
