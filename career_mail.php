@@ -55,7 +55,7 @@ if (isset($_POST['submitcv'])) {
             </table>
             ';
 
-            $secretKey = "6LfBhJIpAAAAAFJpD2mTEDnqcsJgbjsLk5S3dtEg";
+            $secretKey = "6LePwJEpAAAAABtpfBUuwABTI4RkahGG4aPYzCxg";
             $responseKey = $_POST['g-recaptcha-response'];
 
             $url = "https://www.google.com/recaptcha/api/siteverify?secret=$secretKey&response=$responseKey";
