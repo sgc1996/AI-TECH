@@ -33,6 +33,16 @@
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
 
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-167196481-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-167196481-1');
+    </script>
+
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </head>
 
@@ -361,9 +371,9 @@
                             <div class="col-12"><label class="btn btn-primary w-100 py-3" for="document">Upload your CV</label>
                                 <input style="display: none" type="file" id="document" name="attachment" accept=".pdf" required>
                             </div>
-                            <!--<div class="col-12">
-                                <div class="g-recaptcha" data-sitekey="6LePwJEpAAAAACskXQUSTDJEFLGHXyxMfFXrsCzf"></div>
-                            </div>-->
+                            <div class="col-12">
+                                <div class="g-recaptcha" data-sitekey="6LfBhJIpAAAAAH0HUBz83GEOYQkGOroP4VLcMSwp"></div>
+                            </div>
                             <div class="col-12">
                                 <button class="btn btn-primary w-100 py-3" type="submit" name="submitcv">Send Message</button>
                             </div>
@@ -483,16 +493,6 @@
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
-
-    <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-167196481-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-167196481-1');
-</script>
 
 </body>
 
