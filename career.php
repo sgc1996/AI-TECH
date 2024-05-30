@@ -1,4 +1,8 @@
+<?php
 
+include 'career_mail.php';
+
+?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -185,7 +189,7 @@
     <!--Start -->
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
-            <!--?php print_r($message); ?-->
+        <?php print_r($msg); ?>
             <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
                 <h5 class="fw-bold text-primary text-uppercase">Open Positions</h5>
                 <h1 class="mb-0">Who We are Looking for?</h1>
