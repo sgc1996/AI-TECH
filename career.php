@@ -1,8 +1,3 @@
-<?php
-
-include 'career_mail.php';
-
-?>
 
 <!DOCTYPE html>
 <html lang="en">
