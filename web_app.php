@@ -5,10 +5,21 @@
     <meta charset="utf-8">
     <title>A I TECHNOLOGIES (PVT) LTD</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta name="description" content="The Company has been formed by a group of professionals having vivid experiences and wide exposure in Information Technology. People involved in here are young qualified business graduates and qualified engineers from the renowned universities across the global. <br> We specialize in all aspects of Information Technology from 2019 onwards. A.I TECH has established itself as a leader in the provision of ICT Solutions in the Sri Lankan market delivering solutions that add value, deliver benefits and address the varied complex requirement in a variety of vertical markets.">
+    
+    <!--SEO-->
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="A.I Technologies Pvt Ltd">
+    <meta name="description" content="Explore the diverse range of web application projects by A.I Technologies Pvt Ltd, including LMS, Beats By You, Aleased Musics, Customized CRM System, Kangy Labs Educations, and A I Tech HMS. Contact us at +94 774 1234 80 for innovative web solutions.">
+    <meta name="keywords" content="A.I Technologies, web application projects, LMS, Beats By You, Aleased Musics, Customized CRM System, Kangy Labs Educations, A I Tech HMS, web app development, full stack development, innovative web solutions, Sri Lanka, Hungary, Java Spring Boot, React, React Native, Angular, Bootstrap, Vue, Laravel, IT solutions, digital solutions, ICT solutions, web development, client projects, music store, artist management, CRM system, educational platform, hotel management system, web technologies">
 
-    <meta name="keywords" content="The Best IT Solution With The Most Experience Professionals, Best IT Solution, aitech, AI TECH, A.I TECH, A I TECHNOLOGIES, A I Technologies, A.I Technologies, A I Tech, A.I Tech, A I TECHNOLOGIES (PVT) LTD, A.I TECHNOLOGIES (PVT) LTD, A I Technologies (Pvt) Ltd, aitechnologies, A.I Technologies (Pvt) Ltd, web design sri lanka, sri lanka web design, web designers in sri lanka, web design in sri lanka, what is the best web design company, Web design company sri lanka, best IT company , best it company, best web design company in sri lanka, web development companies in sri lanka, website developers in sri lanka, web design, online marketing sri lanka, price list sri lanka, web design kandy, it companies in colombo, web design sri lanka price, software development companies in sri lanka, top 10 software companies in sri lanka, software companies in colombo, best place to buy a dell computer, sri lanka mobile application, Mobile Application in sri lanka, mobile App in sri lanka,sri lanka Mobile App, mobile Application company sri lanka, it companies in sri lanka, best Software in sri lanka, software sri lanka, cloud solution sri lanka, Preventive Maintenance in sri lanka, website developers in sri lanka, Preventive Maintenance, system desing company, software companies in colombo, Dell computer prices,dell laptop,severs in sri lanka, software development companies in sri lanka, top 10 software companies in sri lanka">
-
+    <!--SEO FB-->
+    <meta property="og:title" content="A.I Technologies Pvt Ltd - Web Application Projects">
+    <meta property="og:description" content="Discover the range of web application projects by A.I Technologies Pvt Ltd, including educational, music, CRM, and hotel management systems. Contact us for innovative web solutions.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://aitech.lk/web_app.php">
+    <meta property="og:image" content="https://aitech.lk/img/logo.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <!-- Favicon -->
     <link rel="icon" href="img/logoicon.png">
 

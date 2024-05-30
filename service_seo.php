@@ -3,11 +3,23 @@
 
 <head>
     <meta charset="utf-8">
-    <title>A I TECHNOLOGIES (PVT) LTD</title>
+    <title>A I TECHNOLOGIES (PVT) LTD - SEO</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta name="description" content="The Company has been formed by a group of professionals having vivid experiences and wide exposure in Information Technology. People involved in here are young qualified business graduates and qualified engineers from the renowned universities across the global. <br> We specialize in all aspects of Information Technology from 2019 onwards. A.I TECH has established itself as a leader in the provision of ICT Solutions in the Sri Lankan market delivering solutions that add value, deliver benefits and address the varied complex requirement in a variety of vertical markets.">
+   
+    <!--SEO-->
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="A.I Technologies Pvt Ltd">
+    <meta name="description" content="Discover our specialized search engine optimization (SEO) services at A.I Technologies Pvt Ltd. We specialize in driving digital success through effective SEO strategies, helping your website rank prominently on search engine results pages (SERPs) and maximizing online visibility. Learn about our on-page SEO, off-page SEO, technical SEO, keyword research, and local SEO solutions.">
+    <meta name="keywords" content="A.I Technologies SEO services, specialized SEO, search engine optimization, on-page SEO, off-page SEO, technical SEO, keyword research, local SEO, SEO strategies, organic traffic, SERP ranking, website visibility, Sri Lanka, Hungary, SEO experts, SEO projects, SEO services">
 
-    <meta name="keywords" content="The Best IT Solution With The Most Experience Professionals, Best IT Solution, aitech, AI TECH, A.I TECH, A I TECHNOLOGIES, A I Technologies, A.I Technologies, A I Tech, A.I Tech, A I TECHNOLOGIES (PVT) LTD, A.I TECHNOLOGIES (PVT) LTD, A I Technologies (Pvt) Ltd, aitechnologies, A.I Technologies (Pvt) Ltd, web design sri lanka, sri lanka web design, web designers in sri lanka, web design in sri lanka, what is the best web design company, Web design company sri lanka, best IT company , best it company, best web design company in sri lanka, web development companies in sri lanka, website developers in sri lanka, web design, online marketing sri lanka, price list sri lanka, web design kandy, it companies in colombo, web design sri lanka price, software development companies in sri lanka, top 10 software companies in sri lanka, software companies in colombo, best place to buy a dell computer, sri lanka mobile application, Mobile Application in sri lanka, mobile App in sri lanka,sri lanka Mobile App, mobile Application company sri lanka, it companies in sri lanka, best Software in sri lanka, software sri lanka, cloud solution sri lanka, Preventive Maintenance in sri lanka, website developers in sri lanka, Preventive Maintenance, system desing company, software companies in colombo, Dell computer prices,dell laptop,severs in sri lanka, software development companies in sri lanka, top 10 software companies in sri lanka">
+    <!--SEO FB-->
+    <meta property="og:title" content="Specialized Search Engine Optimization (SEO) Services by A.I Technologies Pvt Ltd">
+    <meta property="og:description" content="Discover our specialized search engine optimization (SEO) services at A.I Technologies Pvt Ltd. We specialize in driving digital success through effective SEO strategies, helping your website rank prominently on search engine results pages (SERPs) and maximizing online visibility. Learn about our on-page SEO, off-page SEO, technical SEO, keyword research, and local SEO solutions.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://aitech.lk/services/service_seo.php">
+    <meta property="og:image" content="https://aitech.lk/img/logo.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
 
     <!-- Favicon -->
     <link rel="icon" href="img/logoicon.png">

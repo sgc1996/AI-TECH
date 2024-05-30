@@ -5,9 +5,21 @@
     <meta charset="utf-8">
     <title>A I TECHNOLOGIES (PVT) LTD</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta name="description" content="The Company has been formed by a group of professionals having vivid experiences and wide exposure in Information Technology. People involved in here are young qualified business graduates and qualified engineers from the renowned universities across the global. <br> We specialize in all aspects of Information Technology from 2019 onwards. A.I TECH has established itself as a leader in the provision of ICT Solutions in the Sri Lankan market delivering solutions that add value, deliver benefits and address the varied complex requirement in a variety of vertical markets.">
 
-    <meta name="keywords" content="The Best IT Solution With The Most Experience Professionals, Best IT Solution, aitech, AI TECH, A.I TECH, A I TECHNOLOGIES, A I Technologies, A.I Technologies, A I Tech, A.I Tech, A I TECHNOLOGIES (PVT) LTD, A.I TECHNOLOGIES (PVT) LTD, A I Technologies (Pvt) Ltd, aitechnologies, A.I Technologies (Pvt) Ltd, web design sri lanka, sri lanka web design, web designers in sri lanka, web design in sri lanka, what is the best web design company, Web design company sri lanka, best IT company , best it company, best web design company in sri lanka, web development companies in sri lanka, website developers in sri lanka, web design, online marketing sri lanka, price list sri lanka, web design kandy, it companies in colombo, web design sri lanka price, software development companies in sri lanka, top 10 software companies in sri lanka, software companies in colombo, best place to buy a dell computer, sri lanka mobile application, Mobile Application in sri lanka, mobile App in sri lanka,sri lanka Mobile App, mobile Application company sri lanka, it companies in sri lanka, best Software in sri lanka, software sri lanka, cloud solution sri lanka, Preventive Maintenance in sri lanka, website developers in sri lanka, Preventive Maintenance, system desing company, software companies in colombo, Dell computer prices,dell laptop,severs in sri lanka, software development companies in sri lanka, top 10 software companies in sri lanka">
+    <!--SEO-->
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="A.I Technologies Pvt Ltd">
+    <meta name="description" content="A.I Technologies Pvt Ltd offers creative and innovative digital solutions, specializing in web designing, graphic design, SEO optimization, social media marketing, and app development. Contact us at +94 774 1234 80.">
+    <meta name="keywords" content="A.I Technologies, digital solutions, IT services, web design, graphic design, SEO optimization, social media marketing, app development, ICT solutions, Sri Lanka, Hungary, innovative technology, custom IT solutions, digital marketing, professional IT services, 24/7 support, creative digital solutions, mobile app development, happy clients, projects done, professional staff, best IT solution, award winning, fair prices, custom web design, eye-catching visuals, brand identity, search engine ranking, organic traffic, strategic social media, brand visibility, targeted advertising, robust websites, scalable websites, cutting-edge technologies, mobile applications, 132 happy clients, 188 projects, 18 staff, young professionals, experienced engineers, global universities, leader in ICT, Sri Lankan market, value-added solutions, complex requirements, vertical markets, best industry practices, local and foreign awards, 24/7 availability, global projects, industry leader, innovative ICT solutions, free quote, professional support, satisfied clients, global reach">
+<!--SEO FB-->
+    <meta property="og:title" content="A.I Technologies Pvt Ltd - Creative & Innovative Digital Solutions">
+    <meta property="og:description" content="A.I Technologies Pvt Ltd provides expert IT solutions including web and app development, SEO, and social media marketing. Contact us for innovative digital services.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://aitech.lk/">
+    <meta property="og:image" content="https://aitech.lk/img/logo.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
 
     <!-- Favicon -->
     <link rel="icon" href="img/logoicon.png">
